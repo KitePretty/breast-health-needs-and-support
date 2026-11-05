@@ -1,0 +1,1001 @@
+thread_id,topic_id,topic_label,rank,year,C1_interval,C3_has_human_response,A1_Diagnostic labeling,A2_Temporal information,A5_emotional_rep,B1_severity,B3_duration,B4_age_illness,B7_stress_illness,D1_symptom_interpretation,D2_risk_assessment,D3_emotional_relief,D4_experience_sharing,D6_medical process information seeking,actual_analyzable_comment,n_analyzable_comments
+T_bf52b9a8ba057cac54e2a11a,3,Waiting for Results,72,2025,3.0,1,0,0,1,0,0,0,0,0,0.0,1,0,0,1,5
+T_253dcbb40ebe264a8087f615,1,Feeling Armpit Pain,23,2024,3.0,1,0,0,0,1,1,0,1,1,0.0,0,0,0,1,2
+T_6a08a87216c7a3112f43251e,0,Discovering Lumps,85,2025,3.0,0,0,0,1,1,0,0,0,1,1.0,1,0,0,0,0
+T_19c70e2297398aa33322c3bc,5,Receiving Benign Findings,59,2025,3.0,1,1,0,0,0,0,0,0,1,1.0,1,0,0,1,2
+T_5d7ccc39a8b757048c8c3f27,1,Feeling Armpit Pain,93,2025,3.0,0,0,1,1,1,1,0,1,1,1.0,0,0,0,0,0
+T_b7b9e57bf01b23a583e76b99,8,Noticing Skin and Nipple Changes,7,2024,1.0,1,1,1,1,1,0,0,1,1,1.0,1,0,1,1,1
+T_ed0d9808dfbe3ac0d9fbf998,8,Noticing Skin and Nipple Changes,50,2024,2.0,0,1,1,0,1,0,0,0,1,1.0,0,0,0,0,0
+T_25abf40c79f887cb9ce330db,0,Discovering Lumps,49,2025,1.0,0,1,1,0,1,0,0,0,1,1.0,0,0,0,0,0
+T_f738630ced5661445ee1b481,1,Feeling Armpit Pain,5,2025,2.0,0,1,1,1,1,1,0,1,1,1.0,0,0,0,0,0
+T_564446559062e4ce68f9e72a,7,Seeking Reassurance,83,2025,1.0,1,0,0,1,0,0,1,0,0,0.0,1,0,0,1,7
+T_096ca94142b92a6e77b1d0aa,6,Managing Risk,40,2025,4.0,1,1,0,1,0,0,0,0,1,1.0,1,0,1,1,2
+T_91f237052bbc593935686add,3,Waiting for Results,86,2024,3.0,1,0,0,1,0,0,0,0,0,0.0,1,0,0,1,2
+T_eaf34775f10906594e0a3c0e,6,Managing Risk,9,2024,4.0,1,1,0,0,0,0,0,0,0,1.0,0,0,1,1,3
+T_f948cb50ca8ac0c22d51a7e4,1,Feeling Armpit Pain,12,2024,3.0,1,1,1,1,1,1,0,1,1,1.0,0,0,0,1,1
+T_76c85302e4e902315411e3aa,9,Reading Clinical Reports,65,2025,3.0,0,1,0,1,1,0,0,0,1,1.0,1,0,0,0,0
+T_7c26666f4c9c207b75c81e7a,2,Undergoing Biopsy,38,2025,3.0,1,0,0,1,0,0,0,0,0,0.0,1,0,1,1,1
+T_0b8d88be7437eb371c527b19,1,Feeling Armpit Pain,13,2025,2.0,1,0,1,1,1,0,1,0,0,1.0,1,0,0,1,3
+T_58672826af82ed9fb73f4b09,4,Navigating Imaging,7,2025,3.0,0,1,0,0,0,0,1,0,1,1.0,0,0,1,0,0
+T_9171f6b4801f80148bc3ec5b,3,Waiting for Results,80,2023,3.0,1,0,0,1,0,0,0,0,1,0.0,1,0,0,1,5
+T_77a624094170936b3389a64e,8,Noticing Skin and Nipple Changes,56,2024,2.0,0,1,1,1,1,1,0,1,1,1.0,0,0,0,0,0
+T_95824fe111c97138e3737a6f,2,Undergoing Biopsy,87,2025,3.0,0,0,1,0,0,0,0,1,1,0.0,0,0,0,0,0
+T_c5b9545118368d830417eb22,1,Feeling Armpit Pain,56,2025,3.0,1,0,1,0,1,1,0,0,1,1.0,0,0,0,1,2
+T_9bc254227880b3a88c0fae81,2,Undergoing Biopsy,21,2025,3.0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0
+T_cfe84568b94bfe672c3f7b24,5,Receiving Benign Findings,54,2024,3.0,0,1,0,1,1,1,0,1,1,1.0,1,0,0,0,0
+T_5daa7439dd4d3d0d48926f41,7,Seeking Reassurance,53,2025,2.0,1,0,1,1,1,1,0,0,0,0.0,1,0,0,1,14
+T_14f7ed4ab199790887ac83bc,1,Feeling Armpit Pain,68,2024,1.0,0,0,1,1,1,1,0,0,1,1.0,0,0,1,0,0
+T_4b291930566e5180e0a1af1f,4,Navigating Imaging,17,2025,3.0,1,1,0,0,0,0,0,0,0,0.0,0,0,1,1,2
+T_4d904c7d5bc4c497e42dbb61,3,Waiting for Results,27,2024,3.0,1,0,0,1,0,0,0,0,0,1.0,1,0,0,1,2
+T_d34e694054a66083e61d9cf6,0,Discovering Lumps,88,2024,3.0,1,1,1,1,1,1,0,0,1,1.0,1,0,0,1,2
+T_eb9f5eaff210f37dbbcedb7a,7,Seeking Reassurance,42,2025,3.0,1,1,1,1,1,1,1,1,0,0.0,0,0,0,1,5
+T_e09cfe8ba43814bbca87bb04,9,Reading Clinical Reports,95,2023,3.0,0,1,1,1,1,0,0,0,1,1.0,1,0,0,0,0
+T_69bee42df1f2542adff0f20d,9,Reading Clinical Reports,85,2025,3.0,0,1,1,0,1,1,0,0,1,1.0,0,0,0,0,0
+T_de9caa9f613ecce6097a54db,4,Navigating Imaging,79,2024,3.0,0,1,0,0,0,0,0,0,1,0.0,0,0,0,0,0
+T_5462dfa38fc540e0cf7c48e6,8,Noticing Skin and Nipple Changes,18,2024,2.0,1,1,1,1,1,0,1,1,1,1.0,0,0,0,1,2
+T_67c09957f0299deadb50c254,0,Discovering Lumps,12,2025,3.0,0,1,1,1,1,0,0,0,1,1.0,0,0,1,0,0
+T_8fe68663d3716a9fb187171d,3,Waiting for Results,53,2025,3.0,1,1,0,1,0,0,0,0,0,0.0,1,0,0,1,1
+T_d3964dc94089ede8142a324c,2,Undergoing Biopsy,7,2025,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,1
+T_5f259ddc81a217cd17922bef,9,Reading Clinical Reports,12,2024,3.0,0,1,1,1,1,0,0,0,1,1.0,1,0,0,0,0
+T_f60003480cbf9b1f5e10eef0,7,Seeking Reassurance,48,2025,3.0,1,1,0,1,1,1,1,0,0,0.0,1,0,0,1,4
+T_ff38fcdf4574877cf3f9bec6,3,Waiting for Results,92,2025,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,3
+T_6444bac6e5a5110e5e4a29e7,2,Undergoing Biopsy,84,2025,3.0,1,0,0,0,0,0,0,0,0,0.0,0,1,0,1,1
+T_86add27e86117137679625b9,6,Managing Risk,41,2025,,1,0,0,0,0,0,0,0,1,,0,0,1,1,3
+T_aec01d591742cebc122d9eaa,3,Waiting for Results,48,2025,3.0,0,0,0,0,0,0,0,0,1,1.0,0,0,1,0,0
+T_4031b6eaf866601ae81903fb,6,Managing Risk,20,2023,3.0,0,1,0,0,0,0,0,0,0,1.0,0,0,1,0,0
+T_c574de28eea8b186400130f1,4,Navigating Imaging,18,2024,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,2
+T_d6f0f1c3412c1c8bc2a152e1,8,Noticing Skin and Nipple Changes,88,2024,2.0,1,1,1,0,1,0,0,1,1,1.0,0,0,0,0,0
+T_e850d2d5576844ec22ddd346,7,Seeking Reassurance,66,2025,3.0,1,0,0,1,0,1,0,0,0,0.0,1,0,0,1,2
+T_7f59d661bb724d3afe3efd71,5,Receiving Benign Findings,46,2025,3.0,1,1,0,1,1,0,0,0,0,1.0,1,0,0,1,3
+T_b72d5166d98503a5b9b941b3,8,Noticing Skin and Nipple Changes,15,2025,2.0,1,1,1,1,1,1,0,1,1,1.0,0,0,0,1,1
+T_69b0461f68ee18c7d28fc8a5,0,Discovering Lumps,92,2025,3.0,0,0,0,1,1,0,0,0,1,0.0,1,0,0,0,0
+T_857e962992b3f67f9786ec71,1,Feeling Armpit Pain,51,2025,3.0,1,0,1,1,1,1,0,1,0,1.0,1,0,0,1,1
+T_04b51e3b0c2e11454fd88a2c,3,Waiting for Results,71,2025,3.0,1,0,0,1,0,0,0,0,1,1.0,1,0,1,1,1
+T_984a0996710ff8944fc5b3b2,4,Navigating Imaging,20,2024,2.0,1,0,1,1,1,1,0,1,0,1.0,1,0,1,1,5
+T_fa17b893564a1ca39b995440,4,Navigating Imaging,12,2024,3.0,1,0,1,0,0,0,0,0,0,0.0,0,0,1,1,1
+T_15b7f892710b246f7ee063d0,1,Feeling Armpit Pain,72,2025,1.0,0,0,1,0,1,1,0,1,1,0.0,0,0,0,0,0
+T_7702e143f169dd17f820e764,6,Managing Risk,10,2024,3.0,0,1,0,0,0,1,0,0,1,1.0,0,0,1,0,0
+T_442469767cbb4019e62d6da8,1,Feeling Armpit Pain,97,2025,1.0,0,0,0,0,0,0,0,0,1,1.0,0,0,0,0,0
+T_981ac5a4c7bd49ce90468d6e,4,Navigating Imaging,42,2025,1.0,0,0,0,1,0,0,0,0,1,1.0,0,0,1,0,0
+T_caf2b501c15b6701b6f23014,8,Noticing Skin and Nipple Changes,99,2025,2.0,0,1,1,1,1,1,0,1,1,1.0,0,0,0,0,0
+T_1c615233fbce7f58e5b73f5f,9,Reading Clinical Reports,22,2024,3.0,0,1,1,1,1,0,1,0,1,1.0,1,0,0,0,0
+T_f7659b87f1f6f5452a1befab,1,Feeling Armpit Pain,100,2025,3.0,0,0,1,1,1,1,0,0,0,0.0,1,0,0,0,0
+T_8d41b24b1438e91b0ea7cef4,4,Navigating Imaging,58,2025,3.0,1,1,0,0,1,0,0,0,1,1.0,0,0,1,1,1
+T_802cedd1b6f5added92d76e3,6,Managing Risk,65,2024,,1,0,0,0,0,0,0,0,0,,0,0,1,1,2
+T_52411c1c82fffacbf1eae2fc,2,Undergoing Biopsy,90,2025,3.0,1,0,0,0,0,0,0,0,0,0.0,0,1,0,1,1
+T_ff62800ffcedaa7220358364,0,Discovering Lumps,55,2024,1.0,0,1,1,0,1,1,1,0,1,1.0,0,0,0,0,0
+T_31b6c4f5b1c5c9a80ccf6665,0,Discovering Lumps,72,2024,3.0,0,0,0,1,0,0,0,0,0,1.0,1,0,1,0,0
+T_7c590230cee8016e3f88bd4a,1,Feeling Armpit Pain,38,2024,3.0,0,0,0,1,1,0,0,1,1,1.0,0,0,0,0,0
+T_128c91dd3d39d6c6ec714b54,3,Waiting for Results,44,2024,3.0,1,0,0,0,0,0,0,0,1,0.0,0,0,1,1,9
+T_e527d6b89b2ee38a43536c8f,5,Receiving Benign Findings,70,2024,,1,0,0,0,0,0,0,0,1,1.0,0,0,0,1,4
+T_4a72e0d2574ef230215b3731,8,Noticing Skin and Nipple Changes,46,2025,2.0,0,1,1,1,1,1,0,1,1,1.0,0,0,1,0,0
+T_6140b63f28f1b49c9005f43e,1,Feeling Armpit Pain,81,2025,1.0,1,1,1,1,1,1,0,0,0,1.0,0,0,0,1,1
+T_0bfc9c47901da4b49a1ddca5,6,Managing Risk,14,2025,,0,1,0,0,0,0,0,0,0,,0,0,1,0,0
+T_fe8d0efc3ac1ad899c851261,9,Reading Clinical Reports,28,2024,3.0,1,1,1,0,1,0,0,0,1,1.0,0,0,1,1,1
+T_af1546469d0b813ebe2ed40c,8,Noticing Skin and Nipple Changes,68,2023,2.0,1,1,1,1,1,1,0,1,1,1.0,1,0,0,1,1
+T_cce5912678b15802ea583a49,7,Seeking Reassurance,46,2025,4.0,1,1,0,1,1,0,0,0,0,0.0,1,0,0,1,20
+T_dec264d70b3567e5726023ee,8,Noticing Skin and Nipple Changes,2,2023,1.0,1,1,1,1,1,1,0,0,1,1.0,0,0,0,1,2
+T_b10e7ab3f565189d75fb9814,9,Reading Clinical Reports,71,2025,3.0,1,1,1,0,1,1,0,0,1,1.0,0,0,0,1,1
+T_41d614c4f4c8c6a89cbee5fe,6,Managing Risk,72,2025,2.0,1,0,0,1,0,0,1,0,0,1.0,1,0,1,1,5
+T_c9e0bd22a7fc71e0c9676c8e,7,Seeking Reassurance,56,2024,,1,0,0,1,0,0,0,0,0,,0,1,0,1,4
+T_7585f1348796e7c3f8ab9de1,0,Discovering Lumps,89,2025,3.0,1,1,0,0,1,0,0,0,1,1.0,0,0,0,1,1
+T_49bf34f57c267604d056cfcb,7,Seeking Reassurance,3,2024,4.0,1,1,0,1,0,0,0,0,0,0.0,0,1,0,1,13
+T_4ea7d75b36ea590c0aab9c31,4,Navigating Imaging,84,2024,3.0,1,0,1,1,1,1,1,0,1,1.0,0,0,1,1,2
+T_bbd695424b62a67c9677fa49,2,Undergoing Biopsy,50,2024,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,10
+T_69e56bc210d85079d073fbb3,4,Navigating Imaging,54,2025,3.0,0,0,1,0,1,0,0,0,1,1.0,0,0,1,0,0
+T_86d4ea59a40e273cf28ae8ba,4,Navigating Imaging,50,2025,3.0,1,1,0,0,0,0,0,0,0,1.0,0,0,1,1,3
+T_1b217ff5ac263430ea6204f2,2,Undergoing Biopsy,22,2024,3.0,1,0,0,0,0,0,0,0,0,0.0,0,1,0,1,3
+T_fe5dd8e38a8c4f203cfea245,2,Undergoing Biopsy,20,2025,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,5
+T_ca4dc97019d299ded789c0f1,4,Navigating Imaging,9,2024,3.0,1,0,0,1,0,0,0,0,0,1.0,1,0,1,1,2
+T_f32853f3dcb9e48b6c60da8e,5,Receiving Benign Findings,3,2025,3.0,1,1,1,1,1,1,0,1,1,1.0,0,1,0,1,2
+T_e94f349cc233a201590d88ed,1,Feeling Armpit Pain,53,2025,1.0,1,0,0,0,1,0,0,0,1,1.0,0,0,0,1,1
+T_50e312a2937d491fe553ba9c,8,Noticing Skin and Nipple Changes,82,2025,2.0,1,1,1,1,1,0,0,1,1,1.0,0,0,0,1,1
+T_58a3224101bbb5a5a6940953,3,Waiting for Results,52,2025,3.0,1,0,0,1,0,0,0,0,1,0.0,1,0,1,1,4
+T_2fb48f06178769c3ca6c57d1,6,Managing Risk,30,2024,,1,1,0,1,0,0,1,0,0,,1,0,1,1,2
+T_bf5d6cf0462da37391219fb5,7,Seeking Reassurance,71,2025,1.0,1,0,0,1,1,0,0,0,0,1.0,1,0,0,1,7
+T_f6ae5cef607fd1e16400c28b,2,Undergoing Biopsy,78,2025,3.0,1,1,0,0,0,0,0,0,0,0.0,0,0,1,1,11
+T_e3f5ea646dceacb0944b459a,5,Receiving Benign Findings,43,2025,3.0,1,0,0,0,1,0,0,0,1,0.0,0,0,0,1,2
+T_f71b4d563b80963b4dbd4122,4,Navigating Imaging,95,2024,3.0,1,1,1,0,0,0,0,1,1,1.0,0,0,1,1,5
+T_5205dfb4fffa00f7bdaca2fe,3,Waiting for Results,60,2025,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,6
+T_99e49a7c41ae9f037a7df5f4,2,Undergoing Biopsy,49,2024,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,6
+T_7c9a10eda61b2f4ffd80c039,8,Noticing Skin and Nipple Changes,8,2025,1.0,0,1,0,1,1,1,0,1,1,1.0,0,0,0,0,0
+T_e48b414fc25940ec4cac7e80,8,Noticing Skin and Nipple Changes,45,2025,2.0,0,1,1,1,1,1,0,1,1,1.0,0,0,0,0,0
+T_0d343fe6e32e6445aaf07eea,8,Noticing Skin and Nipple Changes,55,2024,2.0,1,1,1,0,1,1,0,1,1,1.0,0,0,0,1,1
+T_4b6cd4342fc8a7a453ae15ff,4,Navigating Imaging,55,2025,3.0,1,1,0,0,0,0,0,0,0,0.0,0,1,1,1,1
+T_6870110fbe32983f86de32a6,8,Noticing Skin and Nipple Changes,40,2024,2.0,1,1,1,1,1,0,0,1,1,1.0,1,0,1,1,1
+T_0d7b8b9b51128cd91fbe45cc,6,Managing Risk,32,2024,4.0,1,0,0,0,1,0,0,0,1,1.0,0,0,1,1,3
+T_beabfb00bb83ba2b881ff6be,4,Navigating Imaging,80,2024,3.0,1,0,0,0,0,0,0,1,1,1.0,0,0,1,1,3
+T_ff53ff85b8f978906098216c,2,Undergoing Biopsy,41,2024,3.0,1,0,0,1,0,0,0,0,0,0.0,1,0,0,1,8
+T_a325a42162c8cd75ca7d6fc3,7,Seeking Reassurance,19,2025,4.0,1,1,0,1,0,0,1,0,0,0.0,1,1,0,1,19
+T_67702f35d30f5f657aa52e99,1,Feeling Armpit Pain,8,2025,2.0,1,1,1,1,1,1,0,0,1,1.0,0,0,0,1,1
+T_c54e2b313c001a0ede5afc2d,0,Discovering Lumps,28,2025,1.0,1,0,1,0,1,1,0,0,1,0.0,0,0,0,1,2
+T_be624709f60f4f4bf4f16416,3,Waiting for Results,26,2025,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,6
+T_b63686679eadcda18df874d0,8,Noticing Skin and Nipple Changes,13,2024,2.0,1,1,1,1,1,1,0,0,1,1.0,0,0,0,1,1
+T_73343ecfb263836722b06ea7,6,Managing Risk,43,2025,,1,1,0,1,0,0,0,0,0,1.0,1,0,0,1,3
+T_03cff45be6f8dc3aeb824397,9,Reading Clinical Reports,54,2024,3.0,1,1,1,1,1,1,0,0,1,1.0,0,0,0,1,1
+T_2884289681f54c6ba6a1acd1,6,Managing Risk,83,2025,2.0,1,0,0,1,0,0,1,0,0,1.0,1,0,1,1,1
+T_e5b7d25ea9a0745b8d65960c,4,Navigating Imaging,87,2025,3.0,1,0,1,1,1,1,0,0,1,1.0,1,0,1,1,6
+T_f413540b4dbdebf112d2b71a,3,Waiting for Results,75,2025,3.0,1,1,0,0,0,0,0,0,0,0.0,0,0,1,1,3
+T_41ffa59943fa6dbf75558a89,6,Managing Risk,17,2024,,1,0,0,0,0,0,0,0,0,,0,0,1,1,1
+T_73079bac9c8aab73d22623b9,1,Feeling Armpit Pain,21,2025,1.0,1,0,1,1,1,1,0,0,1,1.0,0,0,0,1,2
+T_7b2de4119fc80a03556ea3b6,4,Navigating Imaging,73,2025,3.0,1,0,0,1,0,0,0,0,0,0.0,0,0,1,1,2
+T_f26ec62ec2f2ae0a8d0177f0,4,Navigating Imaging,99,2025,2.0,1,0,0,0,0,0,0,0,0,1.0,0,0,1,1,1
+T_24d4e025d7603d04efe9bb30,9,Reading Clinical Reports,17,2025,3.0,0,1,1,1,0,0,0,0,1,1.0,1,0,1,0,0
+T_1aff29816594167a2f78e6b9,1,Feeling Armpit Pain,66,2024,3.0,1,0,1,1,1,1,0,0,1,1.0,0,0,0,1,4
+T_ad46cde7503a68ab23a1f4ab,4,Navigating Imaging,32,2024,3.0,1,0,0,0,0,0,1,0,1,0.0,0,0,1,1,1
+T_7fb943ccf1aa248a5698bc2b,3,Waiting for Results,57,2024,3.0,1,0,0,1,0,0,0,0,1,1.0,1,0,1,1,6
+T_87ff3899a052c558ec118184,6,Managing Risk,60,2024,2.0,1,0,0,1,0,0,0,0,0,0.0,1,0,1,1,7
+T_93791912bcab40c63733097c,3,Waiting for Results,18,2025,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,2
+T_d10b40c815114474935dbd35,4,Navigating Imaging,88,2025,3.0,0,1,1,0,1,1,0,0,1,1.0,0,0,1,0,0
+T_5f58b54e356a68f45dd51ca3,4,Navigating Imaging,1,2024,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,9
+T_b4fac08fd035d5ff2191d3b4,6,Managing Risk,4,2025,4.0,1,1,0,1,0,0,0,0,1,1.0,0,0,1,1,3
+T_24da49748d2d420403fc7c41,2,Undergoing Biopsy,24,2025,3.0,0,0,0,0,0,0,0,0,1,0.0,0,0,1,0,0
+T_21a081bd44e5b84c483c82e3,9,Reading Clinical Reports,75,2024,3.0,0,1,0,0,1,0,0,0,1,1.0,0,0,0,0,0
+T_b5969207bec0fafe22c53454,0,Discovering Lumps,48,2024,2.0,1,0,0,1,1,0,0,0,0,0.0,1,0,0,1,1
+T_5473b88171b1f17ae34571b4,2,Undergoing Biopsy,11,2025,3.0,1,0,0,1,0,0,0,0,0,0.0,0,0,1,1,2
+T_7d0cda19a32b17d61413720a,2,Undergoing Biopsy,44,2025,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,2
+T_d5b932e55208eb55344d708e,8,Noticing Skin and Nipple Changes,20,2023,2.0,1,1,1,1,1,0,0,0,1,1.0,0,0,0,1,4
+T_e33576f76b8e33483915ad8d,4,Navigating Imaging,34,2025,3.0,0,1,1,1,1,1,1,0,1,1.0,1,0,1,0,0
+T_e555964d1824eb17881a1164,3,Waiting for Results,54,2023,3.0,1,0,0,1,0,0,0,0,1,1.0,1,0,0,1,3
+T_3c000f1c085cf1dfc8f3f441,0,Discovering Lumps,15,2025,2.0,0,1,1,1,1,0,0,0,1,1.0,0,0,0,0,0
+T_ac8395c467a91e774c2c8171,3,Waiting for Results,59,2025,3.0,1,0,0,1,0,0,0,0,1,1.0,1,0,0,1,6
+T_a18716c68bb4e7202b58c5bb,2,Undergoing Biopsy,33,2024,3.0,1,0,0,0,0,0,0,0,0,0.0,0,1,0,1,5
+T_b903a013597831b5c2f529fe,4,Navigating Imaging,49,2023,3.0,1,0,0,0,1,0,0,0,1,1.0,0,0,1,1,1
+T_6970e5b0abcf075e7da618a1,3,Waiting for Results,1,2024,3.0,1,0,0,1,0,0,0,0,0,0.0,1,0,1,1,11
+T_8d0d99c5d2ef75fea5f57eb5,9,Reading Clinical Reports,50,2025,3.0,0,1,0,1,1,0,0,0,1,1.0,1,0,1,0,0
+T_200de0daaf430b450558897f,5,Receiving Benign Findings,67,2023,3.0,0,1,1,0,1,1,1,1,1,1.0,0,0,0,0,0
+T_2448415c765711d7069a49e0,7,Seeking Reassurance,17,2024,3.0,0,0,0,1,0,0,0,0,0,0.0,1,0,0,0,0
+T_a8bcdb774c142783e6d66584,2,Undergoing Biopsy,1,2025,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,10
+T_7cef6f44d591cbf3ab9841d1,7,Seeking Reassurance,1,2024,2.0,1,0,0,1,0,0,0,0,0,0.0,1,0,0,1,4
+T_45c4ef1d98f1c13a92a0e5f1,5,Receiving Benign Findings,71,2025,3.0,1,1,0,1,1,0,0,0,0,0.0,0,1,0,1,13
+T_eeefbfa1d77215ae82113fb3,1,Feeling Armpit Pain,69,2024,3.0,1,1,1,0,1,0,0,0,1,0.0,0,0,0,1,1
+T_7908ddb55aa0a9b964041eea,3,Waiting for Results,4,2024,3.0,1,0,0,1,0,0,0,0,0,0.0,1,0,1,1,10
+T_5247b6b14452c2c3586587dd,7,Seeking Reassurance,67,2025,3.0,1,0,0,1,0,1,0,0,0,0.0,1,0,0,1,16
+T_5731db893080bfef5239dc9d,5,Receiving Benign Findings,100,2025,3.0,1,1,0,0,0,0,0,0,0,0.0,0,1,0,1,5
+T_15445cb834c3498649956cd8,3,Waiting for Results,100,2023,3.0,1,0,0,1,0,0,0,0,1,1.0,1,0,1,1,7
+T_c74ad1441efd95b643df5c72,1,Feeling Armpit Pain,15,2024,3.0,1,0,1,1,1,1,0,0,1,1.0,0,0,0,1,2
+T_c2b61cc19905f45fe6cd7beb,5,Receiving Benign Findings,51,2023,3.0,1,1,0,0,1,0,0,1,1,1.0,0,0,0,1,2
+T_9fa4a7793432b1cd85e90066,5,Receiving Benign Findings,18,2025,3.0,1,0,0,1,1,0,1,0,1,1.0,1,0,0,1,2
+T_a9f4aba7090ad55f240045dc,8,Noticing Skin and Nipple Changes,84,2024,2.0,0,1,1,0,1,1,0,0,1,1.0,0,0,0,0,0
+T_a7e92c5f19da2595b76cd7c6,1,Feeling Armpit Pain,59,2025,1.0,0,0,1,1,1,0,0,0,1,0.0,0,0,0,0,0
+T_06477c42e32a6423cdbd560d,9,Reading Clinical Reports,38,2025,3.0,0,1,1,1,1,0,0,0,1,1.0,1,0,0,0,0
+T_7f09f52fdbde146a9aff78ce,4,Navigating Imaging,5,2023,1.0,1,1,0,0,0,0,0,0,0,0.0,0,0,1,1,2
+T_ea14f5f97909ebc4f8f02dbf,1,Feeling Armpit Pain,95,2025,3.0,1,0,1,0,1,1,0,1,1,0.0,0,0,0,1,2
+T_349e66847c840afae481c667,6,Managing Risk,12,2024,,1,1,0,0,0,0,0,0,0,,0,0,1,1,2
+T_fc6c2652bd0edebc142b9055,3,Waiting for Results,19,2024,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,1
+T_e357b883d7db4499348644d7,7,Seeking Reassurance,91,2025,3.0,1,1,0,1,1,0,0,0,0,0.0,1,0,0,1,6
+T_4d9d691ada1f40f13ba5f22f,9,Reading Clinical Reports,15,2023,3.0,1,1,1,1,1,1,1,0,1,1.0,1,0,0,1,1
+T_09bfa8bb140bab2a6d400f0c,7,Seeking Reassurance,63,2023,2.0,1,0,0,1,1,0,0,0,1,1.0,1,0,0,1,3
+T_28fabb826799fc6d9eccaa67,7,Seeking Reassurance,21,2025,3.0,1,0,0,1,0,0,0,0,0,0.0,1,0,0,1,1
+T_ec5ab09ee103e2c7a9febbe8,3,Waiting for Results,87,2024,3.0,1,0,0,1,0,0,0,0,0,0.0,1,0,0,1,10
+T_59a3990fb3243e40968bbdc9,6,Managing Risk,26,2025,,1,0,0,0,0,0,0,0,0,,0,0,1,1,5
+T_5492012f73a37f45903427a8,0,Discovering Lumps,70,2025,1.0,1,1,1,0,1,1,0,0,1,1.0,0,0,0,1,1
+T_c400899752517214b696bf11,6,Managing Risk,44,2025,4.0,1,1,0,1,0,0,0,0,0,,1,0,1,1,2
+T_c2f62b79e4325330ac090c95,4,Navigating Imaging,30,2025,3.0,1,1,0,0,0,0,1,0,0,0.0,0,0,1,1,2
+T_f97de839970224c716181cb7,0,Discovering Lumps,3,2025,3.0,0,1,1,1,1,1,1,1,1,1.0,0,0,0,0,0
+T_5ca4d99ceaa296e43a8fde6a,7,Seeking Reassurance,43,2025,3.0,1,1,0,1,0,0,0,0,0,0.0,1,0,0,1,7
+T_01006067cb74b44dd7f2b563,3,Waiting for Results,16,2024,3.0,1,0,0,1,0,0,0,0,0,0.0,0,0,1,1,1
+T_a0f76cbdb63b347bcab40bb5,9,Reading Clinical Reports,20,2024,3.0,1,1,1,1,1,0,0,0,1,1.0,1,0,0,1,1
+T_bec494cd0f3f21ae9a461673,0,Discovering Lumps,23,2025,1.0,0,1,1,1,1,0,0,1,1,1.0,0,0,0,0,0
+T_a5a197b20758fa14d5698639,5,Receiving Benign Findings,52,2025,3.0,1,1,0,1,0,0,0,0,0,0.0,0,1,0,1,10
+T_bc982a6a0f3fba7ab68c0b0e,7,Seeking Reassurance,29,2025,3.0,1,1,0,1,1,0,1,0,0,0.0,1,0,0,1,11
+T_85837079649e69144bf5279c,9,Reading Clinical Reports,18,2025,3.0,1,1,1,0,1,0,0,0,1,1.0,0,0,1,1,1
+T_ffc9538fcd7fa1dd7b55c2d0,5,Receiving Benign Findings,56,2024,3.0,1,1,0,1,1,0,0,0,1,1.0,1,0,0,1,4
+T_9822e7ad27078d27d822fd88,9,Reading Clinical Reports,25,2025,3.0,0,1,0,0,1,0,0,0,1,1.0,0,0,0,0,0
+T_29d00dba971ead19c0250769,2,Undergoing Biopsy,71,2023,3.0,1,0,0,1,0,0,0,0,0,0.0,1,1,0,1,1
+T_c08d25a1e0afcf1ecbe72fdc,6,Managing Risk,69,2023,,0,0,0,0,0,0,0,0,0,,0,0,1,0,0
+T_53fac8a65242bc51fceff532,4,Navigating Imaging,62,2025,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,1
+T_4dec1241a5e00741ea1c0c76,9,Reading Clinical Reports,58,2024,3.0,0,1,1,0,1,1,0,0,1,1.0,0,0,0,0,0
+T_bb96cd0d78bd395ceb5945bd,6,Managing Risk,19,2025,,1,0,0,0,0,0,0,0,0,,0,0,1,1,1
+T_dd2276f4bbcd29cdbc1e1edd,4,Navigating Imaging,33,2024,3.0,1,1,0,1,1,0,0,0,0,1.0,1,0,1,1,2
+T_e40be15d91c4af6b53bc5701,6,Managing Risk,18,2025,4.0,0,1,0,0,0,0,0,0,0,0.0,0,0,1,0,0
+T_9ade897fe25ad7e25b0170ea,9,Reading Clinical Reports,68,2025,3.0,0,1,1,0,0,0,0,0,1,1.0,0,0,0,0,0
+T_c0bea94c98770c0393113097,1,Feeling Armpit Pain,79,2024,3.0,1,0,1,0,1,1,0,0,1,1.0,0,0,1,1,1
+T_927dcaec88565c404c401924,4,Navigating Imaging,67,2023,3.0,1,0,0,0,0,0,0,1,1,1.0,0,0,1,1,13
+T_1c356f6368b8fddd28b45df2,1,Feeling Armpit Pain,41,2024,1.0,1,0,1,0,1,1,0,1,1,1.0,0,0,0,1,2
+T_428d4db27ec1bb5f80f352f6,7,Seeking Reassurance,39,2023,3.0,1,1,0,1,0,0,0,0,0,0.0,1,0,0,1,10
+T_8e0d7286cd18ef82ad251514,4,Navigating Imaging,68,2024,3.0,1,0,0,0,0,0,0,0,1,0.0,0,0,1,1,2
+T_2eb4361f445448c56992121c,1,Feeling Armpit Pain,57,2024,1.0,1,0,1,1,1,1,0,1,0,1.0,0,0,0,1,1
+T_ecbab1c5db3b9200b8771bda,1,Feeling Armpit Pain,82,2025,2.0,1,0,1,0,1,1,0,1,1,0.0,0,0,0,1,2
+T_343bdc6d4027b147514dff71,3,Waiting for Results,70,2024,3.0,1,1,0,1,0,0,0,0,0,0.0,1,0,1,1,5
+T_d0fbaf05fdd6d4201de3583d,6,Managing Risk,48,2023,,1,1,0,0,0,0,0,0,1,1.0,0,0,0,1,2
+T_a659c67ec467b826f4ef7436,7,Seeking Reassurance,80,2024,2.0,0,0,0,1,0,0,0,0,0,0.0,1,0,0,0,0
+T_5987bc0758771808114d4c05,0,Discovering Lumps,42,2025,2.0,1,0,0,0,1,0,0,0,1,1.0,0,0,0,1,2
+T_d47e560bd8dd6335cf4fa710,8,Noticing Skin and Nipple Changes,49,2025,2.0,1,1,1,1,1,1,0,0,1,1.0,0,0,0,1,1
+T_4659d8065a9a6ef755a1b022,5,Receiving Benign Findings,73,2025,3.0,0,1,1,0,1,1,0,1,1,1.0,0,0,0,0,0
+T_c592529ec49c50ae5f304eb3,3,Waiting for Results,23,2024,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,1
+T_461ca95f577f0eb8f1c4d490,2,Undergoing Biopsy,23,2024,3.0,1,0,0,1,0,0,0,0,0,0.0,1,0,1,1,3
+T_6183a8a764f6e4866ea3f496,8,Noticing Skin and Nipple Changes,100,2024,2.0,1,1,1,1,1,1,0,1,1,1.0,0,0,0,0,0
+T_df1b3922ac75762c99146e9d,8,Noticing Skin and Nipple Changes,30,2025,2.0,1,1,1,1,1,1,1,0,1,1.0,1,0,1,1,1
+T_7ef3ca510bed371ed37ab3d6,1,Feeling Armpit Pain,31,2024,3.0,0,0,1,0,1,1,0,1,1,0.0,0,0,0,0,0
+T_bfc2bdf15d7a8dbc30ff954a,2,Undergoing Biopsy,32,2025,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,10
+T_820803de51bac4e093e74a9e,0,Discovering Lumps,98,2024,3.0,0,1,0,0,1,0,0,0,1,0.0,0,0,0,0,0
+T_b747544dea1295c9afccaf0f,7,Seeking Reassurance,96,2024,3.0,1,0,0,1,0,0,1,0,0,0.0,1,0,1,1,1
+T_d2148dbbe3fa34ff2e191167,9,Reading Clinical Reports,11,2025,3.0,1,1,0,1,1,0,0,0,1,1.0,1,0,1,1,1
+T_e67a01be5d3cba4b0ae689f8,6,Managing Risk,64,2025,4.0,1,1,0,1,0,0,0,0,0,0.0,1,0,1,1,5
+T_6bad5f7bfa13484e5c5b600f,1,Feeling Armpit Pain,26,2024,1.0,0,0,1,0,1,0,0,0,1,0.0,0,0,0,0,0
+T_0fdf833770290e50bd300a7c,0,Discovering Lumps,40,2025,3.0,1,0,1,1,1,1,0,1,1,1.0,0,0,0,0,0
+T_f350bd78760ba9cba4470772,1,Feeling Armpit Pain,65,2025,3.0,1,0,1,1,1,0,0,0,0,1.0,1,0,0,1,1
+T_214dc35e1b24d9b7ed278f4a,9,Reading Clinical Reports,70,2024,3.0,0,1,1,1,0,0,0,0,1,1.0,1,0,0,0,0
+T_fab06e30d6507157b32ccf1e,1,Feeling Armpit Pain,49,2025,1.0,0,0,1,0,1,1,0,0,1,1.0,0,0,0,0,0
+T_327c342d8e7dd33b247930cd,7,Seeking Reassurance,45,2025,3.0,1,1,0,1,0,0,0,0,0,0.0,1,0,0,1,7
+T_ab2ef742ede96ac46cd08fae,4,Navigating Imaging,78,2025,3.0,1,1,0,0,1,0,0,0,1,1.0,0,0,1,1,2
+T_588b31b12f9a7eb98ac36e6a,1,Feeling Armpit Pain,17,2025,3.0,0,0,1,1,1,1,0,0,0,0.0,0,0,1,0,0
+T_edcc905ef8bd0348109bf5d3,4,Navigating Imaging,94,2023,3.0,1,0,1,1,1,1,0,0,1,1.0,1,0,1,1,4
+T_59893963fdfd627023ee4866,6,Managing Risk,100,2025,4.0,1,1,0,0,0,0,0,0,0,0.0,0,0,1,1,1
+T_a5693fbbd6e5bcbc362a35c9,8,Noticing Skin and Nipple Changes,51,2025,2.0,0,1,1,1,1,1,0,1,1,1.0,1,0,0,0,0
+T_011000f3d33aac67a29c8cfb,4,Navigating Imaging,53,2024,3.0,1,0,0,0,1,0,0,0,1,1.0,0,0,1,1,1
+T_16daaa7c29016467e1e20b33,9,Reading Clinical Reports,29,2025,3.0,0,1,1,0,1,0,0,0,1,1.0,0,0,0,0,0
+T_1c025e782d37fdfa48b43bfc,5,Receiving Benign Findings,20,2023,3.0,1,1,0,0,0,0,0,0,0,0.0,0,0,0,1,2
+T_a316342458ccad79925b3a94,7,Seeking Reassurance,97,2025,3.0,1,0,0,1,1,0,1,0,0,0.0,1,0,0,1,7
+T_d865d74cb262fbe9472a70ee,5,Receiving Benign Findings,94,2025,3.0,1,0,0,0,1,0,0,0,1,1.0,0,0,0,1,1
+T_ce386b39c292ffffa6f64e3c,4,Navigating Imaging,60,2024,3.0,1,0,1,1,1,0,0,1,1,1.0,1,0,1,1,4
+T_59d9661fb0ade85e77945790,7,Seeking Reassurance,37,2024,3.0,1,0,0,1,0,0,0,0,0,1.0,1,0,1,1,4
+T_6337d575baad1ac244adc5aa,3,Waiting for Results,9,2024,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,4
+T_827e3e6aed441d962e9b43f1,1,Feeling Armpit Pain,73,2024,3.0,0,0,1,0,1,1,0,0,1,0.0,0,0,0,0,0
+T_f571effebd63402ffbda3da0,2,Undergoing Biopsy,96,2025,3.0,1,1,0,1,0,0,0,0,0,0.0,0,0,1,1,5
+T_0cf5f04aa30319a2bec924ac,6,Managing Risk,61,2023,2.0,1,0,0,1,0,0,1,0,0,1.0,0,0,1,1,4
+T_6a82201fa5e50e70b222cfd3,3,Waiting for Results,47,2023,3.0,1,0,0,1,0,0,0,0,1,0.0,1,0,1,1,3
+T_64de57bbbf1cb2a8fe721454,9,Reading Clinical Reports,6,2025,3.0,0,1,1,0,1,0,0,0,1,1.0,0,0,0,0,0
+T_283a4c56c074087fd41f005b,9,Reading Clinical Reports,59,2024,3.0,0,1,1,0,0,0,0,0,1,1.0,0,0,1,0,0
+T_21defecccec6130c7c163ab2,5,Receiving Benign Findings,78,2025,3.0,1,1,0,1,1,0,0,0,0,0.0,1,1,0,1,5
+T_3ee2d03a43371566e6ea8a72,9,Reading Clinical Reports,67,2024,3.0,0,1,1,0,1,1,0,0,1,1.0,0,0,0,0,0
+T_4dc165210aef7acc8dd0a9cc,8,Noticing Skin and Nipple Changes,74,2024,2.0,0,1,1,1,1,0,0,1,1,1.0,0,0,0,0,0
+T_b04015e3edd7b7516ca3ad5e,8,Noticing Skin and Nipple Changes,43,2025,2.0,0,1,1,0,1,1,0,0,1,1.0,0,0,0,0,0
+T_5779b849b05733bd1ec60e8f,1,Feeling Armpit Pain,22,2024,3.0,1,0,1,1,1,1,0,0,1,1.0,0,0,0,1,1
+T_345340dc36cb2e4b961733a8,7,Seeking Reassurance,35,2025,4.0,1,1,0,0,0,0,0,0,0,0.0,0,0,0,1,12
+T_e901841d79996671f2aab6cd,8,Noticing Skin and Nipple Changes,60,2025,2.0,0,1,1,1,1,1,0,0,1,1.0,1,0,0,0,0
+T_4f87519a24fdc79f52b4dd73,6,Managing Risk,49,2023,,1,1,0,1,0,0,1,0,1,1.0,1,0,0,1,2
+T_23fba67ab94e41d0022444ef,3,Waiting for Results,98,2024,3.0,1,0,0,1,0,0,0,0,0,1.0,1,0,1,1,1
+T_dbd2bd2e9168cc4143a0816b,3,Waiting for Results,89,2025,3.0,1,0,0,1,0,0,0,0,1,1.0,1,0,0,1,3
+T_38f24c68e55d7236eb3bd12a,1,Feeling Armpit Pain,43,2024,1.0,0,0,0,0,1,0,0,0,1,0.0,0,0,0,0,0
+T_0ef80c03ca2d0b5ed04c5533,8,Noticing Skin and Nipple Changes,6,2023,3.0,1,1,1,1,1,1,0,0,1,1.0,0,0,0,1,1
+T_b0eebb059bd947a7949da41e,1,Feeling Armpit Pain,27,2025,2.0,1,0,1,1,1,1,0,1,0,1.0,0,0,0,1,1
+T_2c1a907b136b54c4192c79a4,6,Managing Risk,22,2024,,0,0,0,0,0,0,0,0,0,,0,0,1,0,0
+T_1e756f293b213c81b56c4072,9,Reading Clinical Reports,30,2024,3.0,0,1,1,1,1,0,0,0,1,1.0,1,0,0,0,0
+T_3c484f4770354abe85d1c2e1,3,Waiting for Results,6,2024,3.0,1,0,0,1,0,0,0,0,0,0.0,1,0,1,1,6
+T_84a4af35328d76937252a939,1,Feeling Armpit Pain,9,2024,3.0,1,0,1,1,1,1,0,1,1,1.0,0,0,0,1,1
+T_21659c6c57cc10419982394b,3,Waiting for Results,35,2025,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,1
+T_079279a619558b4b423f3c1c,0,Discovering Lumps,6,2024,1.0,0,1,1,1,1,1,1,1,1,1.0,0,0,1,0,0
+T_e445be420d315dff89169868,5,Receiving Benign Findings,53,2024,3.0,1,1,0,0,0,0,0,1,0,0.0,0,1,0,1,5
+T_41eb6c84599d0eef9cf980a8,9,Reading Clinical Reports,61,2023,3.0,1,1,0,0,1,0,0,0,1,1.0,0,0,0,1,1
+T_a97f1450ce69577cb6cf8516,7,Seeking Reassurance,32,2025,3.0,1,0,0,1,0,0,0,0,0,0.0,1,0,1,1,4
+T_b59f9d93012f493cafa1e162,0,Discovering Lumps,82,2025,1.0,1,1,0,1,1,0,0,0,1,1.0,0,0,0,1,2
+T_e37edf700a6037f7cfb62850,0,Discovering Lumps,24,2025,2.0,1,0,0,1,1,0,0,0,1,1.0,0,0,0,1,2
+T_bd3acf865fed467f632a19ca,3,Waiting for Results,73,2024,3.0,1,1,0,1,0,0,0,1,1,1.0,1,0,1,1,2
+T_c13c586a6698236504d3aedd,8,Noticing Skin and Nipple Changes,87,2024,2.0,1,1,1,1,1,0,0,0,1,1.0,0,0,0,1,1
+T_2ada1d0ac135662cf5d96604,7,Seeking Reassurance,94,2024,2.0,1,0,0,1,0,0,0,0,0,0.0,1,0,0,1,4
+T_90c03a5c540391b0545068f5,9,Reading Clinical Reports,39,2025,3.0,0,1,0,0,1,0,0,0,1,1.0,0,0,0,0,0
+T_54b8c4f58e0ea935314a502a,8,Noticing Skin and Nipple Changes,19,2023,2.0,1,1,1,1,1,0,0,1,1,1.0,0,0,0,1,1
+T_2f75b9a905f0c4ff5a816a26,6,Managing Risk,89,2023,4.0,1,1,0,0,1,0,0,0,0,1.0,0,0,1,1,2
+T_e3f075aeaa2873cce0befcbd,0,Discovering Lumps,51,2025,1.0,1,0,1,1,1,1,0,1,1,1.0,0,0,0,1,1
+T_457945ae5140d95c3e1f8f2c,3,Waiting for Results,22,2024,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,0,1,3
+T_1af7e4b5324e5154ef171b71,5,Receiving Benign Findings,84,2024,3.0,1,1,1,0,0,1,0,1,0,1.0,0,0,1,1,2
+T_b22557279f6602b27274e985,1,Feeling Armpit Pain,40,2025,3.0,1,1,1,0,1,1,0,1,1,0.0,0,0,0,1,1
+T_ddfd41fa925669f8b29d8a36,2,Undergoing Biopsy,59,2025,3.0,1,0,0,1,0,0,0,0,0,0.0,1,0,1,1,4
+T_97ebffdfab8f076b635cc3b1,6,Managing Risk,97,2024,4.0,1,1,0,1,0,0,0,1,1,1.0,1,0,1,1,2
+T_8bdfb0e0f6ab7915862bd5e2,4,Navigating Imaging,45,2023,3.0,1,0,0,1,1,0,0,0,1,1.0,0,0,1,1,1
+T_95677f6ca6c385c98b7748c3,3,Waiting for Results,82,2024,3.0,1,1,0,0,0,0,0,0,1,0.0,1,0,1,1,6
+T_8a791a1b29cec5f8c2adbd53,3,Waiting for Results,61,2024,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,12
+T_1593cab8d60fcaa336748f50,3,Waiting for Results,88,2024,3.0,1,0,0,1,0,0,0,0,0,0.0,1,0,1,1,5
+T_93684dc06f286fad33a50ea5,9,Reading Clinical Reports,51,2025,3.0,0,1,0,0,1,0,0,0,1,1.0,0,0,0,0,0
+T_c5493a867c5c3819a270bf7f,9,Reading Clinical Reports,19,2024,3.0,0,1,1,1,1,0,1,0,1,1.0,1,0,1,0,0
+T_cc1bc24217b96d4dfc7b8f3a,4,Navigating Imaging,76,2025,3.0,1,1,0,0,1,0,1,0,0,1.0,0,0,1,1,3
+T_3a48b7369de5eb68f042d92e,7,Seeking Reassurance,90,2024,3.0,1,1,0,1,0,0,0,0,0,0.0,1,0,0,1,1
+T_8c47aa3adaf4e38b8dac8099,2,Undergoing Biopsy,83,2025,3.0,1,0,0,0,0,0,0,0,0,0.0,0,1,0,1,6
+T_904d16d73dcb42520d7207b6,1,Feeling Armpit Pain,67,2024,1.0,1,0,1,1,1,1,0,1,1,1.0,1,0,0,1,1
+T_25fb9ae43ebfc90c09b1b329,6,Managing Risk,73,2024,4.0,1,1,1,1,0,0,0,0,1,1.0,1,0,0,1,2
+T_1a776766c9f26edbb50e6cac,5,Receiving Benign Findings,74,2025,3.0,1,1,0,0,1,0,0,0,1,0.0,0,0,0,1,1
+T_a83ecc810c7f7606305ccc6a,7,Seeking Reassurance,60,2024,3.0,1,0,1,1,0,1,1,0,1,1.0,1,0,0,1,8
+T_e4754d4e0db47d57f49339d6,5,Receiving Benign Findings,81,2025,3.0,1,1,0,0,1,0,0,0,1,1.0,0,0,0,1,6
+T_dd6adbb961d433aaa802a4ba,9,Reading Clinical Reports,21,2024,3.0,0,1,1,1,1,0,0,0,1,1.0,1,0,0,0,0
+T_c68dfe9fa4fe23f4aeabfc7e,5,Receiving Benign Findings,50,2024,3.0,0,0,0,1,1,0,0,0,1,1.0,1,0,0,0,0
+T_961fc1401d1c38cfa3b0dee2,6,Managing Risk,36,2025,4.0,1,1,0,1,0,0,0,0,0,1.0,0,0,1,1,4
+T_c992450dcf61f74c91c916a8,2,Undergoing Biopsy,52,2024,3.0,1,0,0,0,0,0,0,0,1,0.0,0,0,0,1,3
+T_af6563a03a79e49bc44017be,8,Noticing Skin and Nipple Changes,77,2025,2.0,0,1,1,0,1,1,0,1,1,1.0,0,0,1,0,0
+T_a39ebf589205236d494ec69f,9,Reading Clinical Reports,35,2024,3.0,1,1,0,1,1,0,0,0,1,1.0,1,0,0,1,1
+T_d4580868cb37b319e4f4fde3,5,Receiving Benign Findings,37,2024,3.0,1,1,0,1,0,0,0,0,0,0.0,0,1,0,1,2
+T_c527b77018f43a95be9a05d9,9,Reading Clinical Reports,94,2024,3.0,0,1,1,1,1,0,0,0,1,1.0,1,0,0,0,0
+T_0efadd699de376c3f2967d35,7,Seeking Reassurance,100,2024,3.0,1,0,1,1,1,1,0,1,0,0.0,1,0,0,1,2
+T_c2cb8559c6f2aa63e9d76f56,6,Managing Risk,21,2025,,1,0,0,0,0,0,0,0,0,,0,0,1,1,2
+T_99786995efa8c097d745c3c6,6,Managing Risk,2,2025,2.0,1,1,0,1,0,0,1,0,0,1.0,1,0,1,1,3
+T_f866e5139fbd6c01857bbd15,5,Receiving Benign Findings,14,2024,3.0,1,1,0,1,1,0,0,0,1,1.0,1,0,0,1,2
+T_931e9608946f59aa98ad2fa3,7,Seeking Reassurance,10,2025,4.0,1,1,0,1,0,0,0,0,0,0.0,1,0,0,1,4
+T_e75d4308e2720501f1c45d97,6,Managing Risk,7,2025,4.0,1,1,0,0,0,0,0,0,1,1.0,0,1,1,1,2
+T_a647678c36a7829b956d3cca,6,Managing Risk,28,2025,3.0,0,1,1,0,1,0,0,1,1,1.0,0,0,0,0,0
+T_c01dbee9003c38aabe6bd2ab,8,Noticing Skin and Nipple Changes,39,2024,2.0,1,1,1,1,1,1,1,1,1,1.0,1,0,0,1,1
+T_bc5415c8906d96fbfceb3dd1,5,Receiving Benign Findings,39,2025,3.0,1,1,1,1,1,0,0,0,1,1.0,0,0,1,1,3
+T_bdc41cbfb0c182a280ab16b4,0,Discovering Lumps,9,2025,1.0,1,1,0,0,1,0,0,0,1,1.0,0,0,0,1,2
+T_cdb7722e119232d6eaf39470,2,Undergoing Biopsy,18,2025,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,14
+T_e244af2951e45502ad94730a,1,Feeling Armpit Pain,1,2025,1.0,0,1,1,1,1,1,0,1,1,1.0,0,0,0,0,0
+T_ab5a887323e37fd3ce39fccc,7,Seeking Reassurance,8,2024,3.0,0,0,0,1,0,0,0,0,0,0.0,1,0,0,0,0
+T_dedaf305fc067be573f75233,5,Receiving Benign Findings,19,2024,3.0,0,1,1,1,1,1,0,0,1,1.0,1,0,0,0,0
+T_dad876ddbbf631305df7f49b,8,Noticing Skin and Nipple Changes,93,2023,2.0,1,1,1,0,1,0,0,0,1,1.0,0,0,0,1,1
+T_27db19ba18b5e04ad91ad96a,5,Receiving Benign Findings,5,2024,3.0,1,1,0,0,1,1,0,1,0,0.0,0,1,0,1,1
+T_dae00bc95e13b2fbba17a441,4,Navigating Imaging,90,2025,3.0,1,1,1,1,1,1,0,1,1,1.0,1,0,1,1,7
+T_2ac24a7b7c0fca5b42f2228b,7,Seeking Reassurance,82,2025,3.0,1,0,0,1,0,0,1,0,0,0.0,1,1,0,1,2
+T_cf3d6be7676290159f30982b,2,Undergoing Biopsy,34,2024,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,7
+T_f2defaeffc72cae80ffc8b90,6,Managing Risk,51,2024,4.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,1
+T_887049db006b69b9655a5291,2,Undergoing Biopsy,79,2025,3.0,1,0,0,0,0,0,0,0,0,0.0,0,1,0,1,5
+T_25e5468d700ad7533253add7,3,Waiting for Results,31,2025,3.0,1,0,0,1,0,0,0,0,0,0.0,1,0,0,1,4
+T_3ae96470b675f5972b668daf,9,Reading Clinical Reports,42,2024,3.0,0,1,1,0,0,0,0,0,1,1.0,0,0,1,0,0
+T_e4ea29d4764a4d74c2f1493e,2,Undergoing Biopsy,35,2025,3.0,1,0,0,0,0,0,0,0,0,0.0,0,1,0,1,1
+T_7924b8bc7df39458f02dfea3,5,Receiving Benign Findings,22,2025,3.0,0,1,0,1,0,0,1,0,1,1.0,1,0,0,0,0
+T_ee2b903e47b4b8ba2b94aa3d,5,Receiving Benign Findings,30,2023,,1,0,0,0,0,0,0,0,0,,0,0,0,1,1
+T_3e8f172a582fa1890f9df120,6,Managing Risk,78,2024,4.0,1,1,0,0,0,0,0,0,0,0.0,0,0,1,1,1
+T_1a037af569ba494f541993f6,2,Undergoing Biopsy,98,2025,3.0,1,0,0,1,0,0,0,0,0,0.0,0,1,0,1,3
+T_88e7f2b52b83fdb34d272d79,7,Seeking Reassurance,78,2025,4.0,1,1,0,0,1,0,0,0,0,0.0,0,0,0,1,6
+T_f13cd029f882f533127a0815,8,Noticing Skin and Nipple Changes,76,2024,2.0,0,1,1,1,1,1,0,0,1,1.0,0,0,0,0,0
+T_09eab590670511b38730ab1d,0,Discovering Lumps,29,2025,3.0,0,0,0,0,1,0,0,1,1,0.0,0,0,0,0,0
+T_964d29655f46261d6496cdbe,4,Navigating Imaging,22,2025,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,2
+T_a5ceecc6c747c324d7b0c8dd,7,Seeking Reassurance,87,2024,4.0,1,1,0,1,0,0,0,0,0,0.0,0,1,0,1,2
+T_9b8ef6b03fafdca3cff2a3f1,2,Undergoing Biopsy,42,2023,3.0,1,0,0,1,0,0,0,0,0,0.0,1,0,1,1,2
+T_9f4f9ec81d7789377ab9fdac,1,Feeling Armpit Pain,44,2025,3.0,0,0,1,0,1,1,0,1,1,0.0,0,0,0,0,0
+T_2aa70c10527cdd05e4fa2d36,7,Seeking Reassurance,20,2023,3.0,1,0,0,1,0,0,0,0,0,0.0,1,0,0,1,5
+T_8493ac46f9ec2401c292445a,9,Reading Clinical Reports,92,2025,3.0,1,1,1,1,1,0,0,0,1,1.0,1,0,0,1,2
+T_552eef7dc74e03589e2909cc,5,Receiving Benign Findings,99,2024,3.0,1,1,1,1,1,1,1,0,0,0.0,0,1,0,1,9
+T_f065d09424563d97ad4271b1,2,Undergoing Biopsy,31,2025,3.0,1,0,0,0,0,0,0,0,0,0.0,0,1,0,1,7
+T_4149b8ac5cfb291d67d79496,8,Noticing Skin and Nipple Changes,5,2025,3.0,1,1,1,1,1,1,1,0,1,1.0,0,0,1,1,2
+T_1ab56fa81fe9628041c4f66c,0,Discovering Lumps,14,2024,3.0,0,1,1,1,1,1,0,0,1,1.0,0,0,0,0,0
+T_682f5b3dd2b0cafc727baea4,2,Undergoing Biopsy,86,2025,3.0,0,0,0,1,0,0,0,0,0,0.0,0,0,0,0,0
+T_1c339e30f0fd9ca954514ef6,8,Noticing Skin and Nipple Changes,72,2025,2.0,0,1,1,0,1,1,0,1,1,1.0,0,0,0,0,0
+T_331d4b2dead453b8ae7d0f50,0,Discovering Lumps,74,2025,1.0,1,0,0,0,1,0,0,0,1,0.0,0,0,0,1,1
+T_7b6fe2bdd1aaabc32e8d50a1,7,Seeking Reassurance,49,2024,1.0,1,0,0,1,1,0,1,0,0,0.0,1,0,0,1,8
+T_40197e4ab3d576d4153c99a0,0,Discovering Lumps,96,2025,1.0,0,0,0,0,1,0,0,0,1,0.0,0,0,0,0,0
+T_ba228be12cfd9514c002331a,0,Discovering Lumps,68,2025,3.0,1,1,0,1,1,0,0,0,0,0.0,1,0,0,1,1
+T_c02eb0b996adffa9b0a270a4,2,Undergoing Biopsy,65,2023,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,6
+T_bde9d6948ad4e7a783609626,3,Waiting for Results,96,2025,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,2
+T_190084257d0feab15084b50a,8,Noticing Skin and Nipple Changes,14,2025,2.0,1,1,0,1,1,0,0,0,1,1.0,0,0,0,1,2
+T_18cc9ed4765555cadbbc4de1,7,Seeking Reassurance,76,2024,4.0,1,1,1,1,1,1,1,0,0,0.0,1,0,0,1,2
+T_788ad7a6795fa4c4d28984f6,1,Feeling Armpit Pain,19,2025,1.0,0,0,1,1,1,1,0,1,0,1.0,0,0,0,0,0
+T_7353cee3cdd1ff1487c29fb6,0,Discovering Lumps,45,2024,2.0,1,1,1,0,1,0,0,0,1,1.0,0,0,0,1,1
+T_fafd842e6423ecc06acdd6ab,7,Seeking Reassurance,36,2025,4.0,1,1,0,1,0,0,0,0,0,0.0,1,0,0,1,2
+T_806efefeb329bc6f2ec97cda,6,Managing Risk,74,2024,4.0,1,1,0,1,0,0,0,0,0,0.0,1,0,1,1,3
+T_bea1337b76bb4ad2021c9fdb,0,Discovering Lumps,36,2025,1.0,0,0,1,1,1,1,1,1,1,1.0,0,0,0,0,0
+T_1577d2ccfbbecfc27bd287d3,0,Discovering Lumps,54,2024,1.0,1,1,1,1,0,1,0,0,1,1.0,0,0,0,1,2
+T_b8c6ed34c2bdc4f076c0575b,1,Feeling Armpit Pain,32,2024,1.0,1,0,1,0,1,1,0,1,1,0.0,0,0,0,1,1
+T_d68d35e663b7d203b266712e,8,Noticing Skin and Nipple Changes,83,2024,2.0,1,1,0,0,1,0,0,0,1,1.0,0,0,0,1,2
+T_8a4c19ddce8f596b80ec4ea6,6,Managing Risk,77,2025,,1,0,0,0,0,0,0,0,0,1.0,0,0,1,1,3
+T_3a3975e27414847284e732cb,7,Seeking Reassurance,7,2025,4.0,1,1,0,1,0,0,0,0,0,0.0,0,1,0,1,11
+T_cea9b5ebec238287a21af94a,7,Seeking Reassurance,59,2025,4.0,1,1,0,1,0,0,0,0,0,0.0,1,0,0,1,19
+T_60a35aa35ef22a8b4dad2489,9,Reading Clinical Reports,80,2025,3.0,1,1,0,0,1,0,0,0,1,1.0,0,0,0,1,3
+T_e60e7977aca69246ec778bc3,0,Discovering Lumps,46,2024,3.0,0,1,1,0,1,1,0,0,1,1.0,0,0,1,0,0
+T_9fd1e95f0464ba5fa8f6c6b2,4,Navigating Imaging,6,2025,3.0,1,1,0,0,0,0,0,0,1,1.0,0,0,1,1,2
+T_118bf201363135e3f012556d,6,Managing Risk,88,2025,4.0,1,1,0,0,0,0,0,0,0,0.0,0,0,1,1,3
+T_0d371e303a9dd8f0b1830934,1,Feeling Armpit Pain,2,2024,3.0,1,1,1,1,1,1,1,1,1,1.0,1,0,0,1,1
+T_14eac1ab52fbca7f53299792,6,Managing Risk,75,2023,4.0,1,1,1,0,0,1,1,0,0,0.0,0,0,1,1,2
+T_4800013316720b6278efe31a,9,Reading Clinical Reports,26,2025,3.0,0,1,1,0,1,0,0,0,1,1.0,0,0,0,0,0
+T_9c6b66738e7dfe2b4f88a3a0,9,Reading Clinical Reports,53,2025,3.0,0,1,1,1,1,0,0,0,1,1.0,1,0,0,0,0
+T_e48b7d78675fe327be5e579b,2,Undergoing Biopsy,97,2025,3.0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0
+T_045d11c5c0bb77df3b56b0a8,5,Receiving Benign Findings,80,2025,3.0,0,1,0,1,0,0,0,0,1,1.0,1,0,1,0,0
+T_1d612b1f6f24fa1d9850a186,0,Discovering Lumps,83,2024,1.0,0,1,1,0,1,1,0,0,1,0.0,0,0,0,0,0
+T_e0aacff5abd84dd6104f9027,5,Receiving Benign Findings,9,2025,3.0,0,1,0,1,1,0,1,0,1,1.0,1,0,0,0,0
+T_c6a4cd6398ee663710fcde87,0,Discovering Lumps,86,2024,1.0,0,1,1,0,1,1,0,1,1,0.0,0,0,0,0,0
+T_9789d99e8b22818f3298af93,0,Discovering Lumps,39,2024,3.0,0,1,1,0,1,1,1,0,1,1.0,0,0,0,0,0
+T_6541fd33f47e1b5896b4592e,7,Seeking Reassurance,72,2024,3.0,1,1,0,1,0,0,0,0,0,0.0,1,0,0,1,4
+T_415dccf3c6aaf7e5c37d752a,6,Managing Risk,23,2024,4.0,1,1,0,0,0,0,0,0,0,0.0,0,0,1,1,1
+T_fff34b927139faac9723ba75,4,Navigating Imaging,83,2025,3.0,1,1,0,1,0,0,0,0,0,1.0,1,0,1,1,9
+T_66047041cbd0ffda28a15fe7,8,Noticing Skin and Nipple Changes,94,2024,2.0,0,1,1,1,1,0,0,0,1,1.0,1,0,0,0,0
+T_e739032509c573b7042e09a7,3,Waiting for Results,45,2025,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,2
+T_c8a0a51fe941f3275088cadf,8,Noticing Skin and Nipple Changes,86,2024,2.0,0,1,1,1,1,1,0,1,1,1.0,0,0,0,0,0
+T_ed528b12fadf57d04e91028a,0,Discovering Lumps,35,2023,3.0,1,0,0,1,1,0,0,1,1,1.0,0,0,0,1,3
+T_a0a2cbcd7ec91593876ecf54,3,Waiting for Results,39,2024,3.0,0,0,0,1,0,0,0,0,1,1.0,1,0,1,0,0
+T_e23b625a99a1176f78b955c7,5,Receiving Benign Findings,16,2025,3.0,1,1,1,1,1,1,0,1,1,1.0,1,0,0,1,2
+T_848b87ae53d23bc22ea48af8,9,Reading Clinical Reports,82,2024,3.0,0,1,1,0,0,0,0,1,1,1.0,0,1,0,0,0
+T_95783b1fd23d37850e33063e,5,Receiving Benign Findings,96,2024,3.0,1,1,1,1,1,1,0,1,1,1.0,1,0,0,1,1
+T_59b835b8385319d26dc5a4d2,4,Navigating Imaging,31,2024,3.0,1,0,0,0,0,0,0,1,1,1.0,0,0,0,1,2
+T_1110a035052e2ea8e7d5c41d,5,Receiving Benign Findings,33,2024,3.0,1,0,0,1,1,0,0,0,1,1.0,1,0,0,1,2
+T_282a454a37011b4eb528fcb1,4,Navigating Imaging,57,2023,3.0,1,0,1,0,1,1,0,0,1,1.0,0,0,1,1,4
+T_8aa62d7b8c9430e45c2f93f5,4,Navigating Imaging,26,2025,3.0,0,1,0,0,0,0,0,0,0,1.0,0,0,1,0,0
+T_501ba8f1c72d8bb0a98071ca,4,Navigating Imaging,51,2025,3.0,1,1,1,1,0,0,0,0,1,1.0,1,0,1,1,1
+T_f633f1649ec780573a941952,1,Feeling Armpit Pain,50,2024,3.0,0,1,1,0,1,1,0,1,0,1.0,0,0,0,0,0
+T_3eb882e276a13038884b43c4,6,Managing Risk,80,2024,4.0,1,1,0,1,0,0,0,0,0,0.0,1,0,0,1,6
+T_a82133d57faaed1b2b02cdf0,3,Waiting for Results,7,2024,3.0,1,0,0,1,0,0,0,0,0,0.0,1,0,1,1,2
+T_f0ad47d338729bb7b9970292,9,Reading Clinical Reports,98,2024,3.0,0,1,1,0,1,0,0,0,1,1.0,0,0,1,0,0
+T_7fd5fa6c095a9c3e86d0924b,1,Feeling Armpit Pain,83,2024,1.0,1,0,1,0,1,1,0,1,1,0.0,0,0,0,1,2
+T_3180645a57461313971e3100,0,Discovering Lumps,91,2025,1.0,1,1,0,0,1,0,0,0,1,0.0,0,0,0,1,3
+T_38652afc8556955377a55ae8,7,Seeking Reassurance,79,2024,2.0,0,0,0,1,0,0,0,0,0,0.0,1,0,0,0,0
+T_1885a068b4c2f31310f14547,3,Waiting for Results,17,2025,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,3
+T_e1afb799b1848b6201e2c4dc,6,Managing Risk,8,2025,3.0,0,1,1,1,1,1,0,1,1,1.0,1,0,1,0,0
+T_5dfd29ba865240006c0350b4,5,Receiving Benign Findings,68,2025,3.0,1,1,0,1,0,0,0,0,1,1.0,1,0,1,1,1
+T_ecab7f47baa4a1d1393cc349,2,Undergoing Biopsy,89,2025,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,1
+T_339b9f037856772b8ec11f56,8,Noticing Skin and Nipple Changes,62,2024,2.0,1,1,0,1,1,0,0,0,1,1.0,0,0,0,1,1
+T_f8126a05aa85d9f153deda7d,5,Receiving Benign Findings,61,2025,3.0,1,1,0,0,1,0,0,0,1,1.0,0,0,0,1,1
+T_6e6c9a6c6e7bb344dad53aa9,5,Receiving Benign Findings,65,2024,3.0,1,1,1,0,1,0,0,1,0,0.0,0,0,0,1,1
+T_60869a9504d8f5880828f3cb,7,Seeking Reassurance,40,2025,3.0,1,1,0,1,1,0,0,0,0,0.0,1,0,0,1,7
+T_536e856084837c1f3b9d620d,1,Feeling Armpit Pain,4,2025,3.0,1,1,1,1,1,1,0,1,1,1.0,0,0,0,1,1
+T_b2bf96b6e037ccf7ec5d1551,8,Noticing Skin and Nipple Changes,23,2025,2.0,1,1,1,1,1,1,0,1,1,1.0,0,0,0,1,1
+T_040f0761a86795be7a5e5d17,1,Feeling Armpit Pain,70,2024,1.0,1,0,1,1,1,0,0,0,1,1.0,0,0,0,1,2
+T_cb1421dad81059c707d9eea1,7,Seeking Reassurance,18,2023,4.0,0,1,1,1,0,0,0,0,0,0.0,0,0,0,0,0
+T_5d47c3f009ccbdaa72bdca70,0,Discovering Lumps,43,2024,3.0,0,1,1,1,1,1,0,0,1,1.0,1,0,0,0,0
+T_839eaf157f8c896851c31134,8,Noticing Skin and Nipple Changes,61,2025,,1,0,0,0,0,0,0,0,1,,0,0,0,1,2
+T_bdf2c554e5fccfffe4835ffb,1,Feeling Armpit Pain,94,2025,3.0,0,1,1,1,1,1,0,0,0,1.0,1,0,0,0,0
+T_8036bbc78d1549e6c0781da8,0,Discovering Lumps,44,2024,3.0,0,1,1,1,1,1,0,0,1,1.0,1,0,0,0,0
+T_1ec1419ecd7e6910e7440e5f,4,Navigating Imaging,75,2024,3.0,1,1,1,0,1,1,1,0,1,1.0,0,0,1,1,1
+T_a29c569e86bd23a9fbad956a,2,Undergoing Biopsy,27,2025,3.0,1,0,0,1,0,0,0,0,0,0.0,1,0,1,1,14
+T_08284264280f06f8ac012fc7,9,Reading Clinical Reports,60,2024,3.0,0,1,1,0,1,0,0,0,1,1.0,0,0,0,0,0
+T_ad804a0cd061c5a1f86de661,0,Discovering Lumps,71,2025,2.0,0,1,0,1,1,0,0,0,1,1.0,1,0,0,0,0
+T_372dc101506904400b274cf8,6,Managing Risk,52,2025,3.0,1,1,0,1,0,0,0,0,0,0.0,1,0,1,1,2
+T_f441e76b97873cc5d8dd9c96,6,Managing Risk,37,2024,,1,1,0,0,0,0,0,0,0,,0,0,1,1,3
+T_b24f971b54a9b52ad110714b,3,Waiting for Results,67,2024,3.0,1,0,0,1,0,0,0,0,1,1.0,1,0,1,1,9
+T_cf5b7f7ed2a920ff898de477,1,Feeling Armpit Pain,89,2024,3.0,0,0,0,0,0,0,0,0,1,0.0,0,0,0,0,0
+T_0839218079f1cac9deab5dfe,6,Managing Risk,58,2024,3.0,0,0,1,1,1,1,0,0,1,1.0,1,0,0,0,0
+T_985cd0328b7d64f06b515c63,2,Undergoing Biopsy,12,2025,3.0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0
+T_5cbfe6ca9086ba16e6fa5245,0,Discovering Lumps,16,2024,3.0,1,1,1,1,1,1,0,0,1,1.0,0,0,0,1,2
+T_bab2c3e02d0942bc2f01b23a,4,Navigating Imaging,3,2025,3.0,1,1,0,1,0,0,0,0,1,1.0,1,0,1,1,11
+T_287a99eee64bbb0fc590619f,3,Waiting for Results,32,2025,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,1
+T_f2118fe69dcbad52687eb65d,1,Feeling Armpit Pain,92,2025,3.0,1,1,1,0,1,1,0,0,0,0.0,0,0,0,1,1
+T_51eba3ff28acddcb0a2ce871,5,Receiving Benign Findings,47,2024,3.0,1,1,0,0,0,0,0,0,1,1.0,0,0,0,1,1
+T_e47dd6c6ad390c77bce09755,3,Waiting for Results,65,2025,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,2
+T_f715a8619891ed49d66506ba,2,Undergoing Biopsy,75,2025,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,12
+T_78d39c3dd5e2738e1b441f8e,7,Seeking Reassurance,95,2024,3.0,1,0,0,1,0,0,1,1,0,0.0,1,0,0,1,2
+T_af86631256bef88473fae121,8,Noticing Skin and Nipple Changes,33,2025,2.0,1,1,1,1,1,1,0,1,1,1.0,1,0,0,1,2
+T_06a0e2e537fbc921b1668900,3,Waiting for Results,94,2025,3.0,1,0,0,1,0,0,0,0,1,0.0,1,0,1,1,7
+T_dacd29f5a487b05513e79cac,7,Seeking Reassurance,47,2025,4.0,1,1,0,1,1,0,1,0,0,0.0,1,1,0,1,21
+T_9f9fa88dc55f82b83fcd953a,5,Receiving Benign Findings,38,2024,3.0,1,1,0,1,0,0,0,0,1,0.0,0,0,0,1,2
+T_9da4c512cba5c361e3fc18e0,4,Navigating Imaging,4,2024,3.0,1,0,0,1,0,0,0,0,1,1.0,1,0,1,1,4
+T_6686a71b585271151109ddc1,8,Noticing Skin and Nipple Changes,26,2025,2.0,1,1,1,1,1,1,0,0,1,1.0,1,0,0,1,4
+T_18ba351a2f2bb350e31f6a1d,9,Reading Clinical Reports,91,2025,3.0,0,1,0,0,0,0,0,0,1,1.0,0,0,0,0,0
+T_cd4712ae22d4420a1592449b,3,Waiting for Results,79,2024,3.0,1,0,0,0,0,0,0,0,1,0.0,0,0,1,1,2
+T_bff1602989efc3127b8490a6,1,Feeling Armpit Pain,33,2025,3.0,1,0,0,0,0,0,0,1,0,0.0,0,0,1,1,1
+T_4a1eb82b56463bca7c612164,0,Discovering Lumps,38,2024,1.0,1,1,1,0,1,1,0,1,1,1.0,0,0,0,1,1
+T_6a048e0b0f07f428a494c18f,4,Navigating Imaging,28,2024,3.0,0,0,1,0,1,0,0,0,1,1.0,0,0,1,0,0
+T_226e88c2d060b509733bb318,2,Undergoing Biopsy,47,2025,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,9
+T_aefb7c9da37d2f3641123e25,2,Undergoing Biopsy,74,2025,3.0,1,0,0,0,0,0,0,0,1,0.0,0,0,0,1,3
+T_ac3d6842fd51dd0eae0f9882,5,Receiving Benign Findings,64,2022,3.0,1,1,1,1,1,1,0,1,0,1.0,1,0,0,1,5
+T_e3498498be12d4521d1be209,0,Discovering Lumps,100,2024,3.0,1,1,0,0,1,0,0,0,0,0.0,0,0,0,1,2
+T_2b9a693f2aa45c11a367e02f,9,Reading Clinical Reports,9,2025,3.0,1,1,1,0,1,0,0,0,1,1.0,0,0,0,1,1
+T_e956f12966a6dfa2d2753fd5,3,Waiting for Results,25,2025,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,1
+T_48667c84374f2b51df38f5f2,2,Undergoing Biopsy,46,2025,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,12
+T_600fc74fcabff5bbd6545a13,7,Seeking Reassurance,62,2025,2.0,1,0,0,1,1,0,0,1,0,0.0,1,0,0,1,5
+T_d15b99c64206aa480b015740,7,Seeking Reassurance,58,2023,1.0,1,0,0,1,0,0,0,0,0,0.0,1,0,0,1,3
+T_bea5fdb0b61843066c5aed7d,5,Receiving Benign Findings,79,2025,3.0,1,0,0,0,1,0,0,0,1,1.0,0,0,0,1,2
+T_e028a8c20aea1e4c99c2c221,8,Noticing Skin and Nipple Changes,69,2025,2.0,1,1,1,1,1,1,0,1,1,1.0,0,0,0,0,0
+T_097d11bb9d7725a47014dc3b,8,Noticing Skin and Nipple Changes,85,2025,2.0,1,1,1,1,1,0,0,1,1,1.0,0,0,0,1,1
+T_000e32ed5178d06e76ee78e9,7,Seeking Reassurance,15,2023,,1,0,0,1,0,0,0,0,0,,0,1,0,1,3
+T_2dd522243cb3dc1b6a2b7474,3,Waiting for Results,99,2025,3.0,1,0,0,1,0,0,0,0,1,1.0,1,0,0,1,13
+T_9a8c31598303c905328d9d40,9,Reading Clinical Reports,52,2025,3.0,0,1,0,0,1,0,0,1,1,1.0,0,0,0,0,0
+T_16baef4b68bec8601885c70e,6,Managing Risk,92,2025,3.0,1,1,0,1,1,0,0,0,0,1.0,1,0,0,1,3
+T_85f217531b78a681cb30a954,0,Discovering Lumps,60,2024,3.0,0,1,1,0,1,1,0,0,1,1.0,0,0,0,0,0
+T_5a189ae28324660a7864b384,8,Noticing Skin and Nipple Changes,92,2024,2.0,0,1,1,0,1,1,0,1,1,1.0,0,0,0,0,0
+T_6eb601cbe2b1ebd10b67be6f,0,Discovering Lumps,57,2025,2.0,0,0,1,1,1,1,0,0,1,0.0,0,0,0,0,0
+T_45fbb14c9b48fa48335d71cf,3,Waiting for Results,28,2024,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,1
+T_9d3ae4d326d43acdd6b3a18e,2,Undergoing Biopsy,76,2025,3.0,1,0,1,0,0,0,0,0,1,0.0,0,0,0,1,1
+T_65dab77cae6028430a1bf1b7,9,Reading Clinical Reports,89,2025,3.0,0,1,1,1,0,0,0,0,1,1.0,1,0,0,0,0
+T_477dd80e18f51876a91a7d24,8,Noticing Skin and Nipple Changes,31,2025,2.0,0,1,0,1,1,0,1,1,1,1.0,1,0,0,0,0
+T_774b93ef60c103a209592ba5,9,Reading Clinical Reports,64,2025,3.0,0,1,0,1,1,0,0,0,1,1.0,1,0,0,0,0
+T_aa391ffa98d6f8fd88bdd866,1,Feeling Armpit Pain,46,2025,3.0,0,0,1,0,1,1,0,0,1,1.0,0,0,0,0,0
+T_36276d163b599e92b587b675,6,Managing Risk,31,2025,4.0,1,1,0,1,0,0,0,0,1,1.0,1,0,0,1,5
+T_470e469b0de786580dc58ab4,9,Reading Clinical Reports,47,2024,3.0,0,1,1,0,0,0,0,0,1,1.0,0,0,0,0,0
+T_24a106eb1d1d401ca6dfab0d,6,Managing Risk,66,2025,4.0,1,1,0,1,0,0,0,0,1,1.0,1,0,1,1,1
+T_693d9ec191112397cad83992,7,Seeking Reassurance,86,2025,4.0,1,1,1,1,0,1,0,0,0,0.0,1,0,0,1,5
+T_6a0ab2c930f20aaeb6b1756b,8,Noticing Skin and Nipple Changes,29,2025,2.0,1,1,0,1,1,0,0,0,1,1.0,0,0,0,1,3
+T_36a3388c96c9d638a7e671b4,6,Managing Risk,95,2025,2.0,1,1,0,0,0,0,1,0,0,0.0,0,1,1,1,4
+T_b9ee35b316763893fad0ad4f,3,Waiting for Results,58,2024,3.0,1,1,0,1,0,0,0,1,0,0.0,1,0,1,1,5
+T_34423f695276a27ab50f1865,3,Waiting for Results,90,2024,3.0,1,1,0,1,0,0,0,0,1,1.0,1,0,1,1,7
+T_ef157a7b2536870d846ed876,4,Navigating Imaging,52,2024,3.0,1,0,0,1,0,0,1,0,1,1.0,1,0,1,1,6
+T_ce3a8aa7e4572d918c3de244,5,Receiving Benign Findings,8,2023,3.0,0,1,0,1,1,0,0,0,1,1.0,1,0,0,0,0
+T_c9210c1f7739af6591c7b591,5,Receiving Benign Findings,75,2024,3.0,1,1,0,1,1,0,0,0,1,1.0,1,0,0,1,2
+T_c8ef5d3ac8b56d518c8c3654,7,Seeking Reassurance,30,2025,2.0,1,1,0,1,0,0,0,0,0,0.0,1,0,0,1,4
+T_e0dc02ee0cb264ae7bc6b46e,9,Reading Clinical Reports,77,2025,3.0,0,1,0,0,1,0,0,1,1,1.0,0,0,1,0,0
+T_4f836233272e0e75866a3cb8,2,Undergoing Biopsy,5,2025,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,2
+T_f69aaa5d6cdbff1c351e4f4e,7,Seeking Reassurance,70,2025,3.0,1,1,0,1,0,0,0,0,0,0.0,0,1,0,1,6
+T_0425983d167cd431809992a1,1,Feeling Armpit Pain,16,2025,1.0,0,0,1,1,1,1,0,1,0,1.0,0,0,0,0,0
+T_1638f8ff9b367cb05cd57a9f,0,Discovering Lumps,52,2023,2.0,1,0,0,0,1,0,0,0,1,0.0,0,0,0,1,2
+T_b61514c231ab497168434e2f,8,Noticing Skin and Nipple Changes,70,2025,2.0,0,1,1,1,1,1,1,1,1,1.0,1,0,1,0,0
+T_5a5b9f8af35e765a11901a48,6,Managing Risk,79,2025,4.0,1,1,0,1,0,0,0,0,1,0.0,1,0,1,1,1
+T_208b5197d651f69d3a5a4ee6,2,Undergoing Biopsy,19,2025,3.0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0
+T_29b1cc62e0bc68e4cfb8ad03,5,Receiving Benign Findings,2,2025,3.0,1,1,0,1,1,0,0,0,0,0.0,0,1,0,1,4
+T_00fd112e46aadc77a5dde33a,3,Waiting for Results,8,2024,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,9
+T_35d5bf2ee73b5c120682cc26,0,Discovering Lumps,25,2025,2.0,1,0,0,1,1,0,0,0,0,0.0,1,0,0,1,1
+T_32af1241d03d2fd62d93e744,2,Undergoing Biopsy,58,2025,3.0,1,1,0,1,0,0,0,0,0,0.0,0,0,1,1,3
+T_8349a43b49a0314f7f005275,8,Noticing Skin and Nipple Changes,54,2024,2.0,0,1,1,0,1,1,0,1,1,1.0,0,0,0,0,0
+T_1ffa67a86e40144c5333493b,3,Waiting for Results,76,2025,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,3
+T_97c3b56d8b29fee433f2d43f,2,Undergoing Biopsy,43,2024,3.0,1,0,0,0,0,0,0,0,0,0.0,0,1,0,1,2
+T_4ac8e03c87ec6315472de680,4,Navigating Imaging,100,2025,3.0,1,0,0,0,1,0,0,0,1,1.0,0,0,1,1,1
+T_918d4a8fb986f9ca54b932a7,4,Navigating Imaging,46,2024,2.0,1,0,1,1,1,0,1,0,0,1.0,1,0,1,1,3
+T_8c7100d2d186af11b06d628d,5,Receiving Benign Findings,34,2024,3.0,1,1,0,1,0,0,0,0,0,0.0,0,1,0,1,7
+T_7dbea89407e390fe412f7cc6,6,Managing Risk,1,2025,3.0,1,1,0,1,0,0,0,0,1,1.0,1,0,1,1,5
+T_2b7cc613b07787177d436a5c,7,Seeking Reassurance,85,2023,3.0,1,1,1,1,1,0,1,0,0,0.0,0,0,0,1,4
+T_fb83be2186ffc301d2e18648,0,Discovering Lumps,50,2025,3.0,1,1,0,1,1,0,0,0,1,1.0,0,0,1,1,1
+T_89552d9b2a65310e94edca0b,6,Managing Risk,16,2025,,1,0,0,1,0,0,0,0,0,,0,0,1,1,2
+T_000b54d60daa1d6d3205d4ba,9,Reading Clinical Reports,37,2025,3.0,0,1,1,1,1,0,0,0,1,1.0,1,0,0,0,0
+T_ba1c47613299c211fea12c3c,7,Seeking Reassurance,69,2025,3.0,1,0,0,1,0,0,1,0,0,0.0,1,0,0,1,10
+T_21aea37f738f9df16d16363d,0,Discovering Lumps,87,2025,3.0,0,1,1,1,1,1,0,0,1,1.0,0,0,0,0,0
+T_af69bbd13a8063d65a625bbd,7,Seeking Reassurance,26,2024,4.0,1,1,0,1,0,1,0,0,0,0.0,1,0,0,1,8
+T_a28678098174048758758559,3,Waiting for Results,11,2025,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,5
+T_ff2d792fc36faff5fc54397a,7,Seeking Reassurance,44,2025,3.0,1,0,0,1,0,0,0,0,0,0.0,1,1,0,1,5
+T_c300e73c4bb47f7ff8ad89fc,8,Noticing Skin and Nipple Changes,64,2025,2.0,1,1,1,1,1,0,0,1,1,1.0,0,0,0,0,0
+T_21c2b393cbc52630d3320edb,0,Discovering Lumps,99,2023,2.0,0,1,1,1,1,0,0,0,0,1.0,1,0,0,0,0
+T_13df488a68d11cdeec47de6b,4,Navigating Imaging,27,2025,3.0,0,1,1,0,1,1,0,0,0,0.0,0,0,1,0,0
+T_7764196c793425e04d25f0d6,7,Seeking Reassurance,11,2025,3.0,1,0,1,0,0,1,0,0,1,1.0,0,0,0,1,1
+T_11e944a4f1bed70e9fc49ed9,2,Undergoing Biopsy,62,2025,3.0,1,0,0,0,0,0,0,0,1,0.0,0,0,0,1,3
+T_27ab1ae632c7cf67e2cef9b6,0,Discovering Lumps,59,2022,1.0,1,0,1,0,1,1,0,1,1,0.0,0,0,0,1,1
+T_e73ac79df03a975086510c90,5,Receiving Benign Findings,86,2025,3.0,1,1,0,1,0,0,1,0,1,1.0,0,0,0,1,1
+T_c6ba7cfc3bcdcb70e93e4a54,4,Navigating Imaging,8,2023,3.0,1,1,0,1,0,0,0,0,0,1.0,1,0,1,1,3
+T_4369899050af7cd3db1c4d1e,3,Waiting for Results,40,2025,3.0,1,1,0,1,0,0,0,0,1,0.0,0,0,1,1,4
+T_13c637640bb5aeb61cec316c,9,Reading Clinical Reports,48,2025,3.0,0,1,1,1,1,0,0,0,1,1.0,1,0,0,0,0
+T_0a4263dcb74116bd1ea59991,1,Feeling Armpit Pain,39,2025,1.0,0,0,1,0,1,1,0,0,1,1.0,0,0,0,0,0
+T_13ff82c52a73a746366351e7,0,Discovering Lumps,77,2025,1.0,1,0,0,0,1,0,0,0,1,1.0,0,0,0,1,1
+T_f67e9eb132a0ad81795375b0,3,Waiting for Results,12,2025,3.0,1,0,0,1,0,0,0,0,0,0.0,1,0,1,1,3
+T_88ff64a81cc91a04f921ecaf,5,Receiving Benign Findings,62,2025,3.0,0,1,1,0,1,1,0,1,1,1.0,0,0,1,0,0
+T_af4617d3c80c6cb75490713a,5,Receiving Benign Findings,93,2024,3.0,1,1,0,1,1,0,0,1,1,1.0,1,0,0,1,4
+T_52139b33d1eddc92546099a2,0,Discovering Lumps,21,2024,2.0,1,0,1,0,0,1,1,0,1,1.0,0,0,0,1,1
+T_03d38e7eba1dd93c578653e8,9,Reading Clinical Reports,83,2024,3.0,1,1,1,1,1,0,0,0,1,1.0,1,0,0,1,3
+T_027c8241126ca9575e73a23b,6,Managing Risk,50,2025,,1,1,0,1,0,0,0,0,0,1.0,1,0,0,1,9
+T_d164150302cffb5f02eeb253,7,Seeking Reassurance,55,2024,3.0,1,0,0,1,0,0,1,0,0,0.0,1,0,0,1,2
+T_2a6f8c54097e9417a7dbf101,1,Feeling Armpit Pain,88,2023,3.0,0,1,1,0,1,1,0,1,1,0.0,0,0,0,0,0
+T_798c8807442bcc45bb7c499e,8,Noticing Skin and Nipple Changes,27,2024,2.0,1,1,1,1,1,1,0,0,1,1.0,0,0,0,1,1
+T_b1a99772f5277f942be24a18,1,Feeling Armpit Pain,6,2025,3.0,0,1,1,1,1,1,0,1,1,1.0,0,0,0,0,0
+T_36fa94b2391354ba732f5cc6,8,Noticing Skin and Nipple Changes,78,2023,2.0,1,1,1,1,1,0,0,0,1,1.0,0,0,0,1,1
+T_82e4d68dc9d3a36fe2a45749,2,Undergoing Biopsy,77,2025,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,6
+T_a54641b9afb75f5383c31bf6,0,Discovering Lumps,80,2024,2.0,0,1,0,1,1,0,0,0,1,1.0,0,0,0,0,0
+T_a6ea5088c3056c4ab80b8bb6,2,Undergoing Biopsy,55,2025,3.0,0,0,0,0,0,0,0,1,1,0.0,0,0,0,0,0
+T_ebde750d9805f26c40409dc7,4,Navigating Imaging,29,2024,3.0,1,1,1,0,0,1,0,0,1,1.0,0,0,1,1,1
+T_fb90a6c77223a150488cf2e7,1,Feeling Armpit Pain,10,2024,3.0,1,0,1,0,1,1,0,1,1,0.0,0,0,0,1,2
+T_75731e99dcb63b8c426c2971,2,Undergoing Biopsy,57,2025,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,10
+T_340897545f83d11709465d29,0,Discovering Lumps,94,2025,3.0,1,1,1,1,0,1,0,0,1,1.0,0,0,0,1,1
+T_37088bf4b88d0fcebfa53072,2,Undergoing Biopsy,6,2025,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,5
+T_51bcc84a7159121bceb7d603,3,Waiting for Results,34,2023,3.0,0,0,0,0,0,0,0,0,1,1.0,0,0,1,0,0
+T_51d95489c1af27ff5ae65f99,2,Undergoing Biopsy,100,2024,3.0,1,0,0,0,0,0,0,0,0,0.0,0,1,0,1,1
+T_12e4bead0478f3c68cf2d360,1,Feeling Armpit Pain,61,2024,3.0,1,0,1,1,1,1,0,0,1,1.0,0,0,0,1,3
+T_c2ac213f03fae77a45277c95,2,Undergoing Biopsy,67,2024,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,6
+T_f73d9aa62ff1279b8fc5c311,6,Managing Risk,68,2025,2.0,1,0,0,1,0,0,0,0,0,0.0,0,0,1,1,16
+T_c4ef0fbe6b7953c9bfb50d0a,8,Noticing Skin and Nipple Changes,71,2024,2.0,1,1,1,0,1,0,0,1,1,1.0,0,0,0,1,1
+T_cb9c75b5ffe55dd4966d579f,9,Reading Clinical Reports,97,2024,3.0,1,1,1,1,1,0,0,0,1,1.0,1,0,0,1,1
+T_b5ee507b5f7e81f30d927353,8,Noticing Skin and Nipple Changes,91,2024,2.0,0,1,1,0,1,0,0,1,1,1.0,0,0,0,0,0
+T_14b67a9554dd24b4f5e1d23c,8,Noticing Skin and Nipple Changes,35,2024,2.0,1,1,1,1,1,0,0,0,1,1.0,0,0,0,1,4
+T_70245a053bec3a54ca235feb,4,Navigating Imaging,64,2024,3.0,1,0,1,0,0,0,0,0,0,0.0,0,0,1,1,1
+T_b7d6c084a22ba2b3782e71ca,3,Waiting for Results,51,2025,3.0,1,0,0,1,0,0,0,0,1,1.0,1,0,1,1,8
+T_520036bbecae718ad42dd200,2,Undergoing Biopsy,39,2025,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,1
+T_98919acd40295559a9d6a452,1,Feeling Armpit Pain,60,2025,3.0,1,1,1,1,1,1,0,1,0,1.0,1,0,0,1,1
+T_ab2a1b8f5e4c9ca573a9263f,9,Reading Clinical Reports,86,2024,3.0,0,1,0,0,1,0,0,0,1,1.0,0,0,0,0,0
+T_dee3676936d08ab4734ef61d,3,Waiting for Results,69,2025,3.0,1,1,0,1,0,0,0,1,0,0.0,1,0,0,1,4
+T_3bdb4f44f80bc044c998fbeb,5,Receiving Benign Findings,95,2023,3.0,1,0,0,1,1,0,0,0,1,1.0,1,0,0,1,4
+T_2339cec26107ec44e138c8a9,2,Undergoing Biopsy,2,2025,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,12
+T_df9adbd7e3c4670f9f6b4c77,7,Seeking Reassurance,33,2025,3.0,1,1,0,1,0,1,1,0,0,0.0,1,0,0,1,8
+T_68d9be35102c467c680a0e0b,4,Navigating Imaging,43,2025,3.0,1,0,1,0,1,1,1,0,1,1.0,0,0,1,1,1
+T_4f97276d37110a6d8441e485,2,Undergoing Biopsy,93,2025,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,6
+T_cec8178916393669f635c88a,0,Discovering Lumps,75,2025,1.0,1,1,1,1,1,1,0,1,1,1.0,0,0,0,1,1
+T_cdc57d0c87b58496a9d90292,4,Navigating Imaging,86,2024,3.0,1,1,1,0,1,1,0,0,1,1.0,0,0,1,1,1
+T_a9e65e4b3c6d3018cf8899c4,0,Discovering Lumps,67,2025,3.0,0,1,0,1,1,0,0,0,1,1.0,0,0,0,0,0
+T_2637c32a7a67723d5befb6d3,9,Reading Clinical Reports,55,2025,3.0,0,1,1,1,1,0,0,0,1,1.0,1,0,0,0,0
+T_cad63a831efa691453833422,8,Noticing Skin and Nipple Changes,37,2025,2.0,0,1,1,1,1,1,0,0,1,1.0,1,0,0,0,0
+T_cddbc7a463305374675668d4,2,Undergoing Biopsy,54,2025,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,6
+T_4938c429b2f7c67d90b329f8,6,Managing Risk,45,2025,3.0,1,1,0,0,0,0,0,1,1,1.0,0,0,1,1,6
+T_edfb2a028e484185e1d52127,9,Reading Clinical Reports,4,2025,3.0,1,1,1,1,1,0,0,0,1,1.0,1,0,1,1,2
+T_38c17526ef97b971d7fda252,7,Seeking Reassurance,65,2025,3.0,1,1,0,1,0,0,0,0,0,0.0,1,0,0,1,1
+T_c276bbfd9fb4548c04a69d33,9,Reading Clinical Reports,62,2025,3.0,0,1,0,0,1,0,0,1,1,1.0,0,0,0,0,0
+T_416cc21eea58df8ff6d285b1,2,Undergoing Biopsy,17,2024,3.0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0
+T_2aaad4147371e6c640fafe14,0,Discovering Lumps,30,2025,3.0,0,1,1,1,1,0,0,0,1,1.0,0,0,0,0,0
+T_702fb0814713a229957ff3ce,6,Managing Risk,93,2024,4.0,1,1,0,1,0,0,0,0,1,1.0,1,0,0,1,5
+T_5eff2ce5cd0da3763328ec8c,3,Waiting for Results,38,2025,3.0,1,0,0,0,0,0,0,0,1,0.0,0,0,0,1,4
+T_368ff0837a6b913123cf8992,4,Navigating Imaging,77,2024,3.0,1,0,0,0,0,0,0,0,1,1.0,0,0,1,1,4
+T_d34dc559e8c0dbadc085f89e,2,Undergoing Biopsy,4,2025,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,2
+T_22e9c0b9d75c3a4e6b483c2f,8,Noticing Skin and Nipple Changes,28,2024,2.0,0,1,1,1,1,1,0,0,1,1.0,1,0,0,0,0
+T_88d9963c73a7c7a7ae7b24f0,2,Undergoing Biopsy,68,2025,3.0,1,0,0,1,0,0,0,0,0,0.0,1,0,0,1,7
+T_33d267d26a7bdafe38ff700b,7,Seeking Reassurance,75,2025,,0,0,0,1,0,0,0,0,0,,1,0,0,0,0
+T_dcc6ee55788f072c38dc64d4,0,Discovering Lumps,33,2024,1.0,1,1,1,1,1,1,0,0,1,1.0,0,0,1,1,1
+T_92a8a1d2af8a84f5fb844321,8,Noticing Skin and Nipple Changes,25,2024,2.0,1,1,1,1,1,1,0,1,1,1.0,0,0,0,1,2
+T_9a33d5aecb51211725785b5c,6,Managing Risk,5,2024,4.0,1,1,0,0,1,0,0,0,1,1.0,0,0,1,1,3
+T_0c15e6df820dcee8aff5563e,3,Waiting for Results,62,2025,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,3
+T_1c2ddc6df38c734550ae0c31,8,Noticing Skin and Nipple Changes,96,2024,2.0,1,1,1,1,1,1,1,0,1,1.0,0,0,0,1,1
+T_f46233e0d68b5033d1867cd7,0,Discovering Lumps,62,2025,3.0,0,0,1,1,1,1,0,0,1,0.0,0,0,0,0,0
+T_8ab7f494bbee49b75743f600,1,Feeling Armpit Pain,90,2025,3.0,1,0,1,1,1,0,0,1,1,1.0,0,0,0,1,3
+T_9d5aeaedc4aa4cf025f25bb0,3,Waiting for Results,78,2025,3.0,1,0,0,1,0,0,0,0,1,1.0,1,0,1,1,5
+T_cb9ef336a98cf37470e7a5b7,5,Receiving Benign Findings,91,2025,3.0,1,1,1,1,1,1,1,1,0,0.0,0,1,0,1,2
+T_421ad7e8a4ca4f0bd709dffe,5,Receiving Benign Findings,28,2025,3.0,1,1,0,0,0,0,0,0,1,0.0,0,0,0,1,2
+T_3e78b9b13242fe7529c3af41,6,Managing Risk,53,2023,4.0,0,1,1,1,0,1,0,0,1,0.0,1,0,0,0,0
+T_1f86f2a41b42245547e0f242,9,Reading Clinical Reports,44,2024,3.0,1,1,0,0,1,0,0,0,1,1.0,0,0,0,1,1
+T_3483aeb5f9ca9a948ffac0b1,0,Discovering Lumps,11,2025,2.0,1,1,1,1,1,1,0,1,1,1.0,0,0,0,1,1
+T_69f93bddef1c7e36b8c8b919,6,Managing Risk,13,2024,,1,0,0,0,0,0,0,0,0,,0,0,1,1,3
+T_65902ccdbe16d6e4494e7f89,8,Noticing Skin and Nipple Changes,48,2024,2.0,1,1,0,1,1,0,0,0,1,1.0,0,0,0,1,2
+T_19f3af3d56d7f62f566fb80e,0,Discovering Lumps,17,2025,1.0,1,0,0,0,1,0,0,0,1,0.0,0,0,0,1,2
+T_8a3b5f513c2ecd888a076f9e,4,Navigating Imaging,23,2025,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,5
+T_4c557b826179bbb9b28cb678,7,Seeking Reassurance,52,2025,3.0,1,1,0,1,0,0,0,0,0,0.0,1,0,0,1,6
+T_745c9312f3942cfc50eaaa96,8,Noticing Skin and Nipple Changes,63,2025,2.0,0,1,1,0,1,1,0,0,1,1.0,0,0,0,0,0
+T_a4d6de3bea9d541f7aea46e3,3,Waiting for Results,64,2025,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,6
+T_aa77e1cea63a6553838487b3,5,Receiving Benign Findings,63,2024,3.0,1,1,0,0,0,0,0,0,0,0.0,1,0,0,1,5
+T_2b165e7d1980943bf29896d5,3,Waiting for Results,36,2025,3.0,1,0,0,0,0,0,0,0,1,1.0,0,0,0,1,2
+T_2bab6d36188c000bd46d4521,1,Feeling Armpit Pain,87,2024,1.0,1,1,1,1,1,1,0,1,0,1.0,0,0,0,1,4
+T_11662b6e9510d9303559db74,6,Managing Risk,27,2025,,0,0,0,0,0,0,0,0,0,,0,0,1,0,0
+T_94dd73ac556cc1567c30f9d9,6,Managing Risk,42,2023,,0,0,0,0,0,0,0,0,0,,0,0,0,0,0
+T_d387dd31409c04d0796f1edd,4,Navigating Imaging,81,2024,3.0,1,0,0,1,0,0,0,0,1,1.0,1,0,1,1,5
+T_a9fc9047a91e584a6f48e51e,4,Navigating Imaging,61,2025,3.0,1,1,1,1,0,1,0,0,1,1.0,1,0,1,1,6
+T_e4ed26e7aac0802a84175886,5,Receiving Benign Findings,31,2024,3.0,0,1,0,0,0,0,0,0,1,1.0,0,0,0,0,0
+T_16427774666e5239c3aa7ffe,9,Reading Clinical Reports,90,2025,3.0,0,1,1,0,1,0,0,0,1,1.0,0,0,0,0,0
+T_dc56e82446905a1669f00df2,6,Managing Risk,94,2025,3.0,1,0,0,0,0,0,0,0,1,0.0,0,0,1,1,3
+T_7022d170005bcb23eeae62e6,5,Receiving Benign Findings,87,2025,3.0,1,0,0,0,1,0,0,0,1,0.0,0,0,0,1,2
+T_14c1f25788de126ec474ea21,2,Undergoing Biopsy,61,2024,3.0,1,0,0,0,0,0,0,0,0,0.0,0,1,0,1,5
+T_1e211e6a4e014a14f666b195,0,Discovering Lumps,79,2024,1.0,1,0,0,0,1,0,0,0,1,1.0,0,0,0,1,2
+T_ac0aaf2a3bda2c70c81e15b5,1,Feeling Armpit Pain,30,2024,2.0,1,0,1,0,1,1,0,0,1,0.0,0,0,0,1,1
+T_bc41cf982ffd3511f8ba5c26,8,Noticing Skin and Nipple Changes,9,2024,3.0,1,1,1,1,1,1,0,1,1,1.0,0,0,1,1,2
+T_c2656bd1dd79e63ceccd8832,3,Waiting for Results,21,2024,3.0,1,1,0,1,0,0,0,0,1,1.0,0,0,1,1,2
+T_9f49c00200d159195a41e2ff,8,Noticing Skin and Nipple Changes,89,2024,2.0,0,1,1,1,1,1,0,1,1,1.0,1,0,0,0,0
+T_958a66d1548626a99b07bb21,5,Receiving Benign Findings,4,2025,3.0,1,1,0,1,0,0,0,0,1,1.0,1,0,0,1,6
+T_5a911d8c56b123846d46c8a1,8,Noticing Skin and Nipple Changes,58,2025,2.0,0,1,1,1,1,1,0,0,1,1.0,1,0,0,0,0
+T_71aecd2bee0dc66867b5200c,5,Receiving Benign Findings,85,2025,3.0,1,1,0,0,0,0,0,0,0,0.0,0,0,1,1,2
+T_50b2481b9ea066b612135e0c,4,Navigating Imaging,25,2025,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,3
+T_f8f6eed75fd2ba4e5d2bc06b,3,Waiting for Results,81,2024,3.0,1,0,0,1,0,0,0,0,0,0.0,1,0,1,1,2
+T_426f8c997d9d746a68d01657,4,Navigating Imaging,92,2025,3.0,1,1,1,1,1,1,1,0,0,1.0,1,0,1,1,3
+T_f4fd7fae465bf01b2eac0d9c,7,Seeking Reassurance,61,2025,3.0,1,1,0,0,1,0,0,0,0,0.0,0,0,0,1,2
+T_54b0603cda678af76923117a,0,Discovering Lumps,34,2024,1.0,1,1,1,1,1,0,0,0,1,1.0,0,0,0,1,3
+T_4d6105685b63a6d238db8cab,3,Waiting for Results,10,2024,3.0,1,1,0,1,0,0,0,0,0,0.0,1,0,1,1,5
+T_9b0fd37791ffeb4b8117b078,3,Waiting for Results,37,2025,3.0,1,0,0,1,0,0,0,0,0,0.0,1,0,1,1,1
+T_63da2dea3a74e2f808657456,6,Managing Risk,11,2024,4.0,1,1,0,0,0,0,0,0,0,0.0,0,0,1,1,1
+T_2a3caeb3fbab9aa96889e39b,5,Receiving Benign Findings,76,2025,3.0,1,1,0,1,1,0,0,0,1,1.0,1,0,0,1,3
+T_9d735651930edc66a053af4a,0,Discovering Lumps,73,2024,1.0,1,1,0,0,1,0,0,0,1,1.0,0,0,0,1,1
+T_ab53bf1341a6ac7c66a956f4,5,Receiving Benign Findings,82,2025,3.0,0,1,0,1,1,0,0,0,0,1.0,1,0,0,0,0
+T_2fe50f787a336f7a3817ba00,1,Feeling Armpit Pain,20,2024,3.0,1,0,1,1,1,1,0,0,0,1.0,1,0,0,1,1
+T_24d91f50262ebbbf86376978,4,Navigating Imaging,91,2025,3.0,1,1,1,1,1,0,0,0,0,0.0,1,0,1,1,3
+T_44d30aca1672b5fb14a412f5,4,Navigating Imaging,40,2024,3.0,0,0,0,1,0,0,0,0,1,1.0,1,0,0,0,0
+T_574458b0f6dc7dea706e7979,0,Discovering Lumps,63,2025,1.0,0,0,1,1,1,1,0,1,1,1.0,0,0,0,0,0
+T_bfbf901c96ba2ac1c028a283,2,Undergoing Biopsy,26,2025,3.0,1,1,0,1,0,0,0,0,0,0.0,1,0,1,1,10
+T_9e45aa75df280d5f17989fc8,5,Receiving Benign Findings,92,2024,3.0,1,1,0,1,1,0,0,0,1,1.0,1,0,0,1,6
+T_1ff710f849828e5f2a3d8bcc,7,Seeking Reassurance,64,2024,3.0,1,0,0,1,0,0,0,0,0,0.0,1,0,0,1,8
+T_c21e8ab871dee5fbffc1078d,8,Noticing Skin and Nipple Changes,47,2024,2.0,1,1,1,1,1,1,0,1,1,1.0,0,0,0,1,1
+T_05508e78da66b90fdc116026,9,Reading Clinical Reports,33,2024,3.0,1,1,1,1,1,1,0,0,1,1.0,1,0,1,1,1
+T_d53d46f9a0250102a330ec78,5,Receiving Benign Findings,45,2025,3.0,1,1,0,1,1,0,0,0,1,1.0,1,0,0,1,1
+T_d25deb4af300d6bb439df1ff,5,Receiving Benign Findings,1,2025,3.0,1,1,0,1,1,0,0,0,0,1.0,1,0,0,1,3
+T_f38d97c8a602e62eea80b241,9,Reading Clinical Reports,31,2025,3.0,0,1,1,1,1,0,0,0,1,1.0,1,0,0,0,0
+T_b36292284927720512fb9571,8,Noticing Skin and Nipple Changes,80,2025,2.0,0,1,1,0,1,0,0,1,1,1.0,0,0,0,0,0
+T_02e5d8f15e723eb20e0bcf19,6,Managing Risk,3,2025,3.0,1,1,0,0,0,0,1,0,0,1.0,0,0,1,1,4
+T_a05fe99514747d2a9647e941,4,Navigating Imaging,70,2024,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,1
+T_635eabbaf13c4f90e81bc7dc,3,Waiting for Results,43,2024,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,4
+T_f8c11fbd01a86116c3434bbf,5,Receiving Benign Findings,72,2024,3.0,1,1,0,1,0,0,0,0,0,0.0,0,1,0,1,2
+T_5de60f4c67f13ecd70c1318c,8,Noticing Skin and Nipple Changes,90,2024,2.0,1,1,1,1,1,1,0,0,1,1.0,0,0,0,1,1
+T_38ef5c59fcc7d0ecfbf99cdf,8,Noticing Skin and Nipple Changes,75,2024,2.0,0,1,1,1,1,1,0,1,1,1.0,1,0,0,0,0
+T_4a6742b8a9310a27c38fd254,2,Undergoing Biopsy,69,2025,4.0,1,1,0,1,0,0,0,0,0,0.0,1,0,1,1,4
+T_bad3a440490ccfba0b98f912,7,Seeking Reassurance,12,2024,,1,0,0,0,0,0,0,0,0,,0,0,0,1,1
+T_e64fbc7b7499174874ecf703,2,Undergoing Biopsy,51,2025,3.0,1,0,0,0,0,0,0,0,1,0.0,0,0,0,1,5
+T_06ea8ffa685e5858a269b4f8,3,Waiting for Results,49,2025,3.0,0,0,0,1,0,0,0,0,0,1.0,1,0,0,0,0
+T_c695308417961aaa4858ed43,0,Discovering Lumps,22,2024,2.0,0,1,1,1,1,1,0,0,0,0.0,0,0,0,0,0
+T_2e966f180a8e0b474ea2f91a,9,Reading Clinical Reports,16,2025,3.0,0,1,1,0,1,0,0,0,1,1.0,0,0,0,0,0
+T_4848504989887792f75bb61d,2,Undergoing Biopsy,85,2024,3.0,1,0,0,1,0,0,0,0,0,0.0,0,1,0,1,6
+T_cdf550eed1311538fe8ef8f4,1,Feeling Armpit Pain,98,2023,1.0,0,1,1,1,1,1,0,1,1,0.0,0,0,0,0,0
+T_ed9a7834ab82561aba0a04a8,5,Receiving Benign Findings,66,2024,3.0,1,1,0,1,1,1,0,0,1,1.0,1,0,1,1,2
+T_2145868b0c9b0fd2ee6f89db,9,Reading Clinical Reports,14,2025,3.0,1,1,1,1,0,0,0,0,1,1.0,1,0,1,1,1
+T_197fc4d9c8dbb6a03568f085,4,Navigating Imaging,65,2025,3.0,1,0,1,1,1,1,1,0,1,1.0,1,0,1,1,3
+T_7867016db6759db01c2c1749,3,Waiting for Results,85,2025,3.0,1,0,0,0,0,0,0,0,1,0.0,0,0,1,1,2
+T_0b34a08845f78c65021d5e20,2,Undergoing Biopsy,64,2025,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,10
+T_81daaccea02b7b8646ec9e1d,3,Waiting for Results,2,2025,3.0,1,1,0,0,0,0,0,0,0,0.0,0,0,1,1,5
+T_7e99c4fad642e36e1ca55269,0,Discovering Lumps,93,2025,2.0,1,1,1,1,1,1,0,0,0,1.0,1,0,0,1,2
+T_ea8853f90fea698eb19c92a8,1,Feeling Armpit Pain,85,2025,3.0,1,0,1,0,1,1,0,1,1,0.0,0,0,0,1,2
+T_88c9a5ea15a8e0107726884a,0,Discovering Lumps,4,2024,1.0,1,1,1,1,1,1,0,1,1,1.0,0,0,0,1,2
+T_3c89e4bcef6b57d386c8508e,6,Managing Risk,55,2024,2.0,1,1,0,1,0,1,1,0,0,1.0,1,0,0,1,1
+T_a59925fcd1e28e6927b39e3b,9,Reading Clinical Reports,96,2025,3.0,1,1,1,0,1,1,0,0,1,1.0,0,0,0,1,1
+T_a01f6ca84f216b4d9602c2c5,7,Seeking Reassurance,54,2023,,0,0,0,0,0,0,0,0,0,,0,0,0,0,0
+T_6c213e2e75cdb1ade10caba4,3,Waiting for Results,29,2024,3.0,1,0,0,1,0,0,0,0,0,0.0,1,0,1,1,2
+T_e37346d837bec83c52e42103,5,Receiving Benign Findings,24,2025,3.0,1,1,0,1,0,0,0,0,1,1.0,1,0,0,1,1
+T_584b240c69e8d5b8e7f86f73,9,Reading Clinical Reports,63,2024,3.0,0,1,1,1,0,0,0,0,1,1.0,1,0,1,0,0
+T_ae48128ed15a381b63084de1,5,Receiving Benign Findings,15,2024,3.0,1,1,0,0,1,0,0,0,0,0.0,0,1,0,1,5
+T_701e9adc71c0d6f44fb74c76,0,Discovering Lumps,20,2025,2.0,0,1,1,1,1,0,0,0,1,1.0,0,0,0,0,0
+T_08a12eab1b5c6fffc2b14a0c,8,Noticing Skin and Nipple Changes,98,2025,2.0,0,1,1,0,1,1,0,1,1,1.0,0,0,0,0,0
+T_5c6f016b157c23c5892da584,2,Undergoing Biopsy,25,2024,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,9
+T_fa916cee17aaf51548e10ffd,6,Managing Risk,71,2025,2.0,1,0,0,1,0,0,1,0,0,0.0,1,0,1,1,3
+T_ab6e0e729a3e5ce2fa2aae41,8,Noticing Skin and Nipple Changes,97,2025,2.0,0,1,1,1,1,0,0,0,1,1.0,1,0,0,0,0
+T_a0339ae5fae55e38413235cc,0,Discovering Lumps,64,2025,1.0,0,0,1,1,1,1,0,1,1,1.0,0,0,0,0,0
+T_8366b973c316838897574c70,2,Undergoing Biopsy,72,2025,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,5
+T_7e8cb6164b24041c1fd36690,5,Receiving Benign Findings,17,2025,3.0,1,1,0,1,0,0,0,1,1,1.0,1,0,1,1,1
+T_b8ab3ea8de46a98c9ce2f5e9,0,Discovering Lumps,13,2024,2.0,1,1,0,1,1,0,0,0,1,1.0,0,0,0,1,3
+T_1c02306083bc2c7d3488e49d,8,Noticing Skin and Nipple Changes,16,2025,2.0,1,1,1,1,1,1,0,1,1,1.0,1,0,0,1,2
+T_64584e3aeba1c672d1ae9578,6,Managing Risk,15,2025,,1,0,0,0,0,0,0,0,0,,0,0,1,1,1
+T_2275470768ded87afd5fea0c,5,Receiving Benign Findings,97,2024,3.0,1,1,0,0,0,0,0,0,0,0.0,0,1,0,1,6
+T_c6621150b95ecdd012b63423,4,Navigating Imaging,72,2024,3.0,1,0,1,0,1,1,0,0,1,1.0,0,0,1,1,1
+T_eca59ed731c05062fdc3ba74,7,Seeking Reassurance,27,2024,3.0,1,0,0,1,0,0,0,0,0,1.0,1,0,0,1,4
+T_5e604b082e72d7daab31a01f,0,Discovering Lumps,84,2025,1.0,1,1,1,1,1,0,0,0,1,0.0,0,0,0,1,1
+T_55dae8499be3a2a653ee42f4,4,Navigating Imaging,24,2023,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,4
+T_c8c332151b74426f11ea7c1d,7,Seeking Reassurance,50,2024,3.0,1,1,0,1,0,0,1,0,0,0.0,1,0,0,1,11
+T_f8098f1daad5824fd28a06ae,6,Managing Risk,57,2025,4.0,1,1,0,1,0,0,0,0,1,1.0,1,0,1,1,2
+T_bc473bed3e33251bcaa28dfb,2,Undergoing Biopsy,48,2025,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,1
+T_2a0dbbe1a3c0055501c7de40,7,Seeking Reassurance,74,2025,3.0,1,1,1,1,0,0,0,0,0,0.0,1,0,0,1,6
+T_2256677c9d5bfe707e4c531e,5,Receiving Benign Findings,6,2024,3.0,1,1,0,1,0,0,0,1,0,0.0,0,1,0,1,13
+T_f07769f0edf9533edee3098e,6,Managing Risk,38,2025,4.0,1,1,0,1,0,1,0,0,1,1.0,1,0,1,1,7
+T_d3aa7e51cf18001a8678c536,4,Navigating Imaging,74,2025,3.0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0
+T_6003c66d308ea1ea3dfb1514,5,Receiving Benign Findings,98,2024,3.0,1,0,0,1,0,0,0,0,1,1.0,1,0,1,1,1
+T_6c8b18a970b76f7bd8f2b3cc,9,Reading Clinical Reports,66,2025,3.0,1,1,0,1,1,0,0,0,1,1.0,1,0,1,1,1
+T_739c97b8af844f94b7616910,2,Undergoing Biopsy,88,2025,3.0,1,0,0,1,0,0,0,0,0,0.0,1,0,1,1,5
+T_6270d528c40e951696a746c5,4,Navigating Imaging,19,2024,,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,1
+T_2a1a0557b3f2e9627479069a,3,Waiting for Results,24,2023,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,2
+T_749d14c71bd091e34edbdb20,9,Reading Clinical Reports,36,2024,3.0,0,1,0,1,1,0,0,0,1,1.0,1,0,0,0,0
+T_ffad4172ddf9c5fa2f243695,6,Managing Risk,84,2025,,0,0,0,0,0,0,1,0,0,1.0,0,0,0,0,0
+T_99952e38670293384d66eabe,4,Navigating Imaging,38,2025,3.0,1,0,1,1,1,1,0,1,1,1.0,1,0,1,1,2
+T_be6b5f5ec7a314264c25ebb2,5,Receiving Benign Findings,58,2024,3.0,0,1,0,1,0,0,0,0,1,0.0,0,0,0,0,0
+T_7be5078e36a62af7d9480863,0,Discovering Lumps,5,2024,1.0,1,1,0,0,1,0,0,0,1,1.0,0,0,0,1,4
+T_6a90b601270d53678971d33b,0,Discovering Lumps,66,2024,1.0,1,1,0,1,1,0,0,0,0,0.0,1,0,0,1,1
+T_797dd7f9fe59217ef8d022d5,1,Feeling Armpit Pain,91,2024,1.0,0,0,0,0,1,0,0,1,0,0.0,0,0,0,0,0
+T_81010e2276daee2565607eda,7,Seeking Reassurance,22,2025,,0,0,0,1,0,0,0,0,0,,1,0,0,0,0
+T_5db0ea7732a8fcfcf590e0e0,9,Reading Clinical Reports,100,2024,3.0,1,1,0,0,1,0,0,0,1,1.0,0,0,0,1,1
+T_1f805669e6a946b779f20cc1,8,Noticing Skin and Nipple Changes,32,2025,2.0,1,1,1,1,1,0,0,0,1,1.0,0,0,0,1,2
+T_ac00f4b5161fa6d63ba4ec59,5,Receiving Benign Findings,11,2025,3.0,1,1,0,1,1,0,0,1,0,0.0,0,1,0,1,5
+T_55ebc82ecf0b2397d7ae6960,6,Managing Risk,46,2025,4.0,1,1,0,1,1,0,0,0,1,1.0,1,0,1,1,1
+T_1bb11c2a050da867317dabff,1,Feeling Armpit Pain,24,2023,3.0,1,0,1,0,1,0,0,1,1,1.0,1,0,0,1,1
+T_5c8aa3ee5b35149df8533455,1,Feeling Armpit Pain,96,2024,3.0,0,1,1,1,1,1,0,1,0,1.0,0,0,0,0,0
+T_d5c705a110c865699ce6b488,2,Undergoing Biopsy,53,2025,3.0,1,0,0,0,0,0,0,0,1,0.0,0,0,0,1,9
+T_e6da0bab6baf3a95d619c9dc,1,Feeling Armpit Pain,37,2025,3.0,1,0,1,0,1,1,0,0,1,0.0,0,0,0,1,2
+T_6e4ad1ed6a055dada60aff87,9,Reading Clinical Reports,74,2025,3.0,0,1,1,1,1,0,0,0,1,1.0,1,0,0,0,0
+T_75804de0e7e6d60c68082fa2,6,Managing Risk,25,2025,3.0,1,1,0,0,0,0,0,0,1,0.0,0,0,0,1,2
+T_ea0aaa7268b560caf3468419,6,Managing Risk,62,2025,1.0,1,0,1,1,1,1,0,1,1,1.0,1,0,0,1,1
+T_214627d05071b6ef8af54a0d,5,Receiving Benign Findings,36,2024,3.0,1,1,0,1,1,1,0,0,1,1.0,1,0,0,1,2
+T_7f8a39dc5a724acbbee0bb9b,0,Discovering Lumps,47,2024,3.0,1,1,1,1,1,1,0,0,1,1.0,1,0,0,1,1
+T_ca7db8851cba4e73895a0940,7,Seeking Reassurance,57,2025,,1,0,0,1,0,0,0,0,0,,1,0,0,1,4
+T_12d7c6d8b03894e0e52bc5d0,7,Seeking Reassurance,73,2025,3.0,1,0,1,1,0,1,0,0,0,0.0,1,0,0,1,1
+T_3b74f1faa191c56921c8cf23,7,Seeking Reassurance,89,2024,3.0,1,0,0,1,0,0,0,0,0,0.0,1,1,0,1,6
+T_07c0d954e2bd1fa41e258a25,9,Reading Clinical Reports,43,2025,3.0,0,1,1,1,1,1,0,0,1,1.0,1,0,0,0,0
+T_24c215ca3ae1479af31a040e,7,Seeking Reassurance,98,2024,3.0,1,0,1,1,1,0,1,1,0,0.0,1,1,0,1,8
+T_8aac89c1ee79dae99bf6d89f,8,Noticing Skin and Nipple Changes,81,2025,2.0,1,1,1,1,1,1,0,0,1,1.0,0,0,0,0,0
+T_cc245d6479a46d25f8aa7f1a,4,Navigating Imaging,47,2025,3.0,1,0,0,1,0,0,0,0,0,0.0,1,0,1,1,1
+T_2f66f8bfbb5d3f36c4455960,1,Feeling Armpit Pain,42,2025,3.0,0,0,1,0,1,1,0,1,1,1.0,0,0,0,0,0
+T_f3836efc23fda2356516c00d,0,Discovering Lumps,26,2024,1.0,1,0,1,0,1,1,1,0,1,0.0,0,0,0,1,2
+T_53e3cbe147d44872193bc9d6,7,Seeking Reassurance,5,2025,,1,1,0,0,0,0,0,0,0,0.0,0,1,0,1,2
+T_429b3f13c60f57f78b201351,0,Discovering Lumps,2,2025,1.0,1,1,0,0,1,0,0,0,1,1.0,0,0,0,1,6
+T_036d95ba3042d1963d0ced41,3,Waiting for Results,46,2025,3.0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0
+T_b3a308eaefb9557e13c5be75,1,Feeling Armpit Pain,75,2025,1.0,1,1,0,0,1,0,0,1,1,0.0,0,0,0,1,1
+T_ea94065443eef55dafacae19,3,Waiting for Results,3,2025,3.0,1,1,0,1,0,0,0,0,0,1.0,1,0,1,1,1
+T_46efbc9c9adf4de9cbb067bb,7,Seeking Reassurance,6,2025,4.0,1,1,0,1,0,1,0,0,1,0.0,1,0,0,1,2
+T_1838202467d4105361d478c0,2,Undergoing Biopsy,10,2024,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,2
+T_f8338f101a0b89b9999e4bf5,3,Waiting for Results,42,2024,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,1
+T_ea6798be75d7fb1f0c96e529,0,Discovering Lumps,61,2025,3.0,0,0,1,1,1,1,0,0,1,0.0,0,0,0,0,0
+T_4737f685accb5ee723cfdf2f,0,Discovering Lumps,58,2023,2.0,0,1,1,1,1,0,0,0,1,1.0,0,0,0,0,0
+T_3e5f641a47a228b215e8b57c,8,Noticing Skin and Nipple Changes,41,2024,2.0,0,1,1,1,1,1,1,0,1,1.0,0,0,0,0,0
+T_dfd6b14f0d251544331bd24d,8,Noticing Skin and Nipple Changes,36,2024,2.0,1,1,1,0,1,1,0,1,1,1.0,0,1,0,0,0
+T_7b5ba1de55b1f7364ed479af,1,Feeling Armpit Pain,34,2025,1.0,1,0,1,0,1,1,0,1,0,0.0,0,0,0,1,1
+T_2c67fc30e4c041841a2db4d0,8,Noticing Skin and Nipple Changes,12,2025,2.0,1,1,1,1,1,1,0,1,1,1.0,1,0,0,1,2
+T_f8ed33191f104cd2eb46552c,8,Noticing Skin and Nipple Changes,11,2024,2.0,0,1,1,1,1,0,0,1,1,1.0,1,0,0,0,0
+T_95fd93478e651782c52f8882,5,Receiving Benign Findings,90,2024,3.0,0,0,0,1,1,0,0,0,1,1.0,1,0,0,0,0
+T_65de91a386dc1817de30386a,1,Feeling Armpit Pain,11,2025,3.0,0,1,1,1,1,1,0,1,1,0.0,0,0,0,0,0
+T_e9089f880c95ce8d6402f477,6,Managing Risk,33,2024,4.0,1,1,0,1,0,0,0,0,1,0.0,1,0,1,1,2
+T_e68efb3b79ae269254e66690,4,Navigating Imaging,48,2024,3.0,1,1,1,0,1,0,0,0,1,1.0,0,0,1,1,4
+T_1d557ad83d5eafe0e9dd890b,1,Feeling Armpit Pain,78,2025,3.0,1,0,1,0,1,1,0,0,1,1.0,0,0,0,1,1
+T_ca6d5c8109d1845df5afbe02,1,Feeling Armpit Pain,3,2024,1.0,1,1,1,1,1,1,0,1,1,1.0,0,0,0,1,2
+T_3c008f031d8d3819a1862a29,0,Discovering Lumps,90,2024,3.0,1,1,1,1,1,1,0,0,1,1.0,0,0,1,1,1
+T_a878250e50b2e29cc31b01e7,7,Seeking Reassurance,51,2025,,1,0,0,1,0,0,0,0,0,,0,1,0,1,3
+T_6883883372654f888978ace2,3,Waiting for Results,30,2024,3.0,0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0
+T_0648e435c15e7e3fa281f8e5,4,Navigating Imaging,35,2024,3.0,1,0,1,1,1,0,1,0,0,1.0,0,0,1,1,2
+T_7efecf4cc84e740b92b73645,3,Waiting for Results,74,2025,3.0,1,0,0,1,0,0,0,0,0,0.0,1,0,1,1,3
+T_1d83c6fad718074655b60f7c,7,Seeking Reassurance,4,2025,4.0,1,1,0,0,1,0,0,0,0,0.0,0,0,0,1,27
+T_7661323ce4e26e5c480671bd,2,Undergoing Biopsy,30,2025,3.0,1,0,0,1,0,0,0,0,0,0.0,0,0,1,1,12
+T_3667e6e3eb2a3d3b1d8836aa,0,Discovering Lumps,1,2025,3.0,1,1,0,1,1,0,0,1,1,1.0,1,0,0,1,1
+T_b8e4413ed1ebc3ea5a090194,8,Noticing Skin and Nipple Changes,57,2023,2.0,1,1,1,1,1,1,0,1,1,1.0,0,0,0,1,1
+T_843d43f4f39c726834e0f387,7,Seeking Reassurance,13,2022,4.0,1,1,0,1,1,0,0,0,0,0.0,0,1,0,1,2
+T_36a331bf92c73732157aee8e,3,Waiting for Results,77,2025,3.0,1,0,0,1,0,0,0,0,1,0.0,0,0,1,1,1
+T_21f8227a7f8da320bcec85b9,9,Reading Clinical Reports,76,2024,3.0,0,1,1,1,1,0,0,0,1,1.0,1,0,1,0,0
+T_bef32b43648c397de5c5f1dd,4,Navigating Imaging,21,2025,3.0,1,1,1,1,1,0,0,0,1,1.0,1,0,1,1,2
+T_344c26afd3ad25c978dfa6ae,1,Feeling Armpit Pain,74,2025,2.0,0,1,1,1,1,1,0,1,1,1.0,0,0,0,0,0
+T_d93bbd896a51dbca1c6dc4b8,1,Feeling Armpit Pain,7,2024,3.0,0,1,1,1,1,1,0,1,1,1.0,1,0,0,0,0
+T_34b8bcb2af190dda11d9892f,0,Discovering Lumps,81,2025,2.0,1,0,0,1,1,0,0,1,1,1.0,0,0,0,1,2
+T_18c6dc782eacb3e33134aa81,8,Noticing Skin and Nipple Changes,38,2025,2.0,1,1,1,1,1,1,0,1,1,1.0,0,0,1,0,0
+T_6f027efd1a18e5edd4e2f73a,4,Navigating Imaging,89,2024,3.0,1,1,0,1,0,0,0,0,1,1.0,0,0,1,1,2
+T_a71d3de7fe47acc244e293ce,8,Noticing Skin and Nipple Changes,17,2024,2.0,1,1,1,1,1,0,0,1,1,1.0,1,0,0,1,2
+T_ee9027fe95c44ad253d1b4e2,3,Waiting for Results,83,2023,3.0,1,0,0,1,0,0,0,0,0,0.0,1,0,1,1,2
+T_457f1d3db60752c3c59153d1,2,Undergoing Biopsy,29,2025,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,2
+T_b84f486f7e66b8c93db83a3e,5,Receiving Benign Findings,83,2024,3.0,1,1,0,0,0,0,0,0,0,0.0,0,1,0,1,8
+T_70f4a8ba2490b753712abdd5,5,Receiving Benign Findings,48,2025,3.0,1,1,0,1,1,0,0,1,1,1.0,1,0,0,1,1
+T_15eb605b120717038e9e353d,7,Seeking Reassurance,28,2024,4.0,1,1,0,1,0,0,0,0,0,0.0,0,1,0,1,14
+T_4ba99f5f7b36d803a855b95a,4,Navigating Imaging,10,2024,1.0,1,1,0,0,0,0,0,0,0,1.0,0,0,1,1,1
+T_89346692b3c85b957ccc13dc,8,Noticing Skin and Nipple Changes,3,2024,1.0,1,1,1,0,1,0,0,0,1,1.0,0,0,0,1,2
+T_74ba72c47b45c2984165969e,8,Noticing Skin and Nipple Changes,34,2023,2.0,1,1,1,1,1,1,0,1,1,1.0,0,0,0,0,0
+T_f692a57eba849ddb815038cc,1,Feeling Armpit Pain,76,2024,3.0,1,0,1,1,1,1,0,0,0,1.0,1,0,0,1,2
+T_40fbc745168f5db49d428540,4,Navigating Imaging,11,2024,3.0,0,0,1,1,0,0,0,0,1,1.0,1,0,0,0,0
+T_9bdf1283e0ec85d0ecfa304f,5,Receiving Benign Findings,55,2025,3.0,1,1,0,1,1,0,0,0,0,0.0,0,1,0,1,3
+T_989a3460b84d6b8fde1aa0d6,9,Reading Clinical Reports,72,2025,3.0,0,1,1,0,1,0,0,0,1,1.0,0,0,0,0,0
+T_6e383ed9b45b46733819bcaa,2,Undergoing Biopsy,82,2025,3.0,1,0,0,1,0,0,0,0,0,0.0,1,0,1,1,1
+T_e27942874ecf777347300731,4,Navigating Imaging,69,2025,3.0,1,0,0,0,0,0,1,0,0,0.0,0,0,1,1,12
+T_8d9d586092939fb38427f083,2,Undergoing Biopsy,8,2024,,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,1
+T_50a57ff2900f1bdb3b387766,6,Managing Risk,54,2025,4.0,1,1,0,0,0,0,0,0,1,1.0,0,0,0,1,3
+T_7f2bf42ed29c71662bfe8d93,5,Receiving Benign Findings,41,2023,3.0,1,1,0,0,0,0,0,0,1,1.0,0,0,1,1,3
+T_8c8f35eb720d73f447708bbc,9,Reading Clinical Reports,23,2024,3.0,1,1,1,1,1,0,0,0,1,1.0,1,0,1,1,2
+T_2e161817de0d24aedf56168a,3,Waiting for Results,55,2025,3.0,1,1,0,1,0,0,0,0,0,0.0,1,0,1,1,8
+T_ce8cf6353cd1efb6e2be9124,7,Seeking Reassurance,93,2024,3.0,1,1,0,1,1,0,0,0,0,0.0,1,0,0,1,12
+T_9e007e02aed94b063e494040,6,Managing Risk,96,2025,4.0,1,1,0,0,0,0,0,0,1,1.0,0,0,1,1,2
+T_0f407c71fd50013e8ee85d9a,5,Receiving Benign Findings,44,2024,3.0,1,1,1,1,1,1,0,1,1,1.0,1,0,0,1,2
+T_40d08f94aa03fa95af4a6bde,2,Undergoing Biopsy,3,2024,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,5
+T_99e93a6de442ed8e059db875,3,Waiting for Results,14,2025,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,6
+T_07365ce949cf845d7fd4ef2c,8,Noticing Skin and Nipple Changes,22,2024,2.0,1,1,1,0,1,1,0,0,1,1.0,1,0,0,1,1
+T_1a682d58449643e0ca1819fe,2,Undergoing Biopsy,70,2025,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,10
+T_a0eaedb24fbb131c78f185b0,0,Discovering Lumps,53,2025,1.0,1,1,1,0,0,0,0,0,1,0.0,0,0,0,1,2
+T_8308310294973fd51dea3f6d,1,Feeling Armpit Pain,48,2024,1.0,1,0,1,0,0,1,0,1,1,0.0,0,0,0,1,1
+T_d7f54bd5d7d93651ba8d74dd,0,Discovering Lumps,56,2025,2.0,0,1,1,1,1,0,0,0,1,1.0,0,0,0,0,0
+T_610a4da42abccaeeaacc99c9,8,Noticing Skin and Nipple Changes,67,2024,2.0,1,1,1,1,1,1,0,0,1,1.0,1,0,1,0,0
+T_84b2fe40ae5cfe3e78a01c12,0,Discovering Lumps,78,2024,3.0,1,1,0,1,1,0,0,1,1,0.0,0,0,0,0,0
+T_6e949a86a7866f3c1e6cf4fa,5,Receiving Benign Findings,49,2024,3.0,1,1,0,1,1,0,0,1,1,1.0,1,0,0,1,4
+T_16129d243b1cae1f41516780,2,Undergoing Biopsy,56,2024,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,7
+T_3a31954876ea9effbb1064f1,6,Managing Risk,59,2024,2.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,3
+T_00b983c40cfec6a1abc5abb1,5,Receiving Benign Findings,13,2024,3.0,1,1,0,1,0,0,0,1,0,0.0,0,1,0,1,9
+T_059c09cad4bbbba7c61b99eb,9,Reading Clinical Reports,10,2025,3.0,0,1,1,0,0,1,0,0,1,1.0,0,0,0,0,0
+T_d0909b973d67c25b8d71cbad,9,Reading Clinical Reports,57,2024,3.0,0,1,1,0,1,1,0,0,1,1.0,0,0,0,0,0
+T_fa1f73069d77649924d079cb,2,Undergoing Biopsy,66,2025,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,8
+T_94f0e0671072e061d33e3aed,1,Feeling Armpit Pain,58,2024,2.0,0,0,1,1,1,1,0,0,0,0.0,0,0,0,0,0
+T_ae6b488cb6bf9c4cbcd73366,9,Reading Clinical Reports,41,2024,3.0,0,1,1,0,1,0,0,0,1,1.0,0,0,1,0,0
+T_b7d7d5a8a12771fefec0ca23,8,Noticing Skin and Nipple Changes,24,2024,2.0,0,1,1,1,1,0,0,1,1,1.0,1,0,0,0,0
+T_0a9c81ce12cb93c914c979ed,5,Receiving Benign Findings,69,2025,3.0,0,1,0,0,0,1,0,1,0,0.0,0,0,0,0,0
+T_48c99cce202b9b89d9b5fb0b,5,Receiving Benign Findings,25,2024,3.0,1,1,0,1,1,0,0,0,0,0.0,0,1,0,1,4
+T_0d250c3eb471d5800fc3da47,9,Reading Clinical Reports,32,2024,3.0,0,1,1,1,1,0,0,0,1,1.0,1,0,0,0,0
+T_04de2b21f7d464a5f0c2ad84,4,Navigating Imaging,14,2024,3.0,1,0,0,0,0,0,0,0,1,0.0,0,0,1,1,1
+T_e0160a9dd49e82313c9dc05a,6,Managing Risk,63,2024,4.0,1,1,1,1,0,1,1,0,0,0.0,1,0,1,1,6
+T_34c276e01c86882b6a607fe5,5,Receiving Benign Findings,60,2024,3.0,1,1,0,1,1,0,0,0,1,1.0,1,0,0,1,2
+T_8a46b31d53b1f7c869db6f90,9,Reading Clinical Reports,78,2024,3.0,0,1,0,0,1,0,0,0,1,1.0,0,0,0,0,0
+T_d624eacd40f1c0823b2a08c5,4,Navigating Imaging,16,2024,3.0,1,0,0,0,0,0,0,0,1,0.0,0,0,1,1,1
+T_6e624e8ce7020ba1b1b61b03,4,Navigating Imaging,66,2025,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,1
+T_26f18c8561b30cc829757294,2,Undergoing Biopsy,73,2025,3.0,1,0,0,0,0,0,0,0,0,0.0,0,1,0,1,4
+T_aca6b5839faa717b26802214,1,Feeling Armpit Pain,77,2024,2.0,1,0,1,1,1,0,0,1,1,0.0,0,0,0,1,1
+T_2b6092e38993f0f3989b27ae,5,Receiving Benign Findings,77,2025,3.0,1,1,0,1,1,0,0,0,0,1.0,1,0,0,1,1
+T_d3731defe1937d0e24ba7f4b,0,Discovering Lumps,95,2024,2.0,1,1,1,1,1,0,1,0,0,0.0,1,0,0,1,2
+T_adb550a4cbe6c3b3ea83a2a8,5,Receiving Benign Findings,32,2025,3.0,1,1,0,1,1,0,0,1,1,1.0,1,0,0,1,4
+T_d56930d2dae68ea2f43d9d48,7,Seeking Reassurance,77,2024,3.0,1,0,0,1,0,0,0,0,0,0.0,1,1,0,1,5
+T_b8c17bda1109d8b60e19649a,3,Waiting for Results,5,2025,3.0,1,0,0,1,0,0,0,0,0,1.0,1,0,1,1,6
+T_4944f72adc28e577bdfb188e,2,Undergoing Biopsy,81,2025,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,5
+T_44952a72a710397d88ea4d92,3,Waiting for Results,68,2025,3.0,1,0,0,1,0,0,0,0,1,1.0,1,0,1,1,6
+T_691823a0ddc51c401f80dfb9,9,Reading Clinical Reports,46,2024,3.0,0,1,1,1,1,0,0,0,1,1.0,1,0,0,0,0
+T_cd2771021831b05111cce013,8,Noticing Skin and Nipple Changes,53,2025,2.0,0,1,1,1,1,1,0,0,1,1.0,1,0,0,0,0
+T_49262197b7dfb6252def15eb,1,Feeling Armpit Pain,35,2025,3.0,0,0,1,1,1,1,0,0,0,0.0,0,0,0,0,0
+T_c0c23563c2536ff15c9887db,0,Discovering Lumps,76,2024,3.0,1,1,1,1,1,1,0,1,1,1.0,0,0,0,1,1
+T_44d6faa3ca5ddd6a4ec80e9b,9,Reading Clinical Reports,13,2024,3.0,1,1,1,1,1,0,0,0,1,1.0,1,0,0,1,1
+T_c57e5acf202180e50a3f4256,2,Undergoing Biopsy,60,2024,3.0,1,0,0,1,0,0,0,0,0,0.0,1,0,1,1,2
+T_c5b4e21e50233b5acf705fdb,5,Receiving Benign Findings,40,2023,3.0,1,1,0,1,0,0,0,0,0,0.0,0,1,0,1,4
+T_b3e3d6f053fbc07a29e3960c,7,Seeking Reassurance,92,2025,3.0,1,0,0,1,1,0,0,0,0,0.0,1,0,0,1,1
+T_eda78e62d63f8ad8fe03cbac,8,Noticing Skin and Nipple Changes,95,2024,2.0,0,1,1,1,1,0,0,0,1,1.0,1,0,0,0,0
+T_9db68a8c4e9aa32c8b628a2a,8,Noticing Skin and Nipple Changes,4,2025,2.0,1,1,1,1,1,1,0,0,1,1.0,0,0,0,1,2
+T_942a91ffc37890bf5541bcc9,7,Seeking Reassurance,25,2023,,0,0,0,0,0,0,0,0,0,,0,1,0,0,0
+T_55cfd41365654c538d93c8b3,1,Feeling Armpit Pain,63,2025,3.0,0,0,0,0,0,0,0,0,1,1.0,0,0,0,0,0
+T_19e47f9a6badf57c801a8bff,2,Undergoing Biopsy,99,2023,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,3
+T_2a9c7936db87b160f8a3250d,6,Managing Risk,6,2025,3.0,1,1,0,0,0,0,1,0,0,1.0,0,0,1,1,1
+T_2decc687508b808b18c0b89f,8,Noticing Skin and Nipple Changes,59,2025,2.0,1,1,1,0,1,1,0,0,1,1.0,0,0,0,1,1
+T_a3be35730c8fc136f6352f06,1,Feeling Armpit Pain,62,2024,1.0,0,0,1,1,1,1,0,0,1,1.0,0,0,0,0,0
+T_4d470237a083760548190197,6,Managing Risk,39,2025,,1,0,0,0,0,0,0,0,0,,0,0,0,1,2
+T_2e99adb8d53e82418a871eac,8,Noticing Skin and Nipple Changes,66,2023,2.0,0,1,1,1,1,0,0,0,1,1.0,0,0,0,0,0
+T_337be4778a09bce3d9efbf12,5,Receiving Benign Findings,42,2024,3.0,1,0,0,0,0,0,0,0,0,0.0,0,1,0,1,2
+T_e3175d0267b8a72f611eb41c,2,Undergoing Biopsy,16,2024,3.0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0
+T_082adb87c2b6ead08d17363f,9,Reading Clinical Reports,7,2024,3.0,1,1,1,1,1,0,0,0,1,1.0,0,0,0,1,1
+T_677cd8073575317d0d8a1936,8,Noticing Skin and Nipple Changes,1,2024,1.0,1,1,1,1,1,0,0,0,1,1.0,0,0,0,1,1
+T_380a6f70d24a39f664712f5a,5,Receiving Benign Findings,88,2024,3.0,0,1,0,0,0,0,0,0,0,0.0,0,1,0,0,0
+T_9b80072340a1b6c4355f0138,3,Waiting for Results,95,2024,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,2
+T_4e2e7080ec2b3c0467edfef1,1,Feeling Armpit Pain,25,2024,1.0,1,0,1,1,1,1,0,1,0,1.0,0,0,0,1,2
+T_46ad702c2d8ea160b4565b64,9,Reading Clinical Reports,3,2025,3.0,0,1,1,1,1,0,0,0,1,1.0,1,0,1,0,0
+T_cfbf40cb56386572de2afbaf,5,Receiving Benign Findings,23,2025,3.0,1,1,0,0,1,0,0,0,1,1.0,0,0,0,1,3
+T_daa7a0869815f829e4e1236c,6,Managing Risk,29,2024,,1,1,0,0,0,0,0,0,0,,0,0,0,1,8
+T_5e8e0cc19963073d6f6efd58,6,Managing Risk,70,2025,4.0,1,1,0,1,0,0,0,0,1,1.0,1,0,1,1,1
+T_fd8f93f21d1cb2c821c5da0d,4,Navigating Imaging,93,2025,3.0,1,0,0,1,1,0,1,0,1,1.0,1,0,1,1,10
+T_e34afa88a230b6b858262eed,4,Navigating Imaging,36,2024,3.0,1,0,0,0,0,0,1,0,1,1.0,0,0,1,1,2
+T_2f0a4d9581b358fdbfb4abe6,0,Discovering Lumps,8,2024,2.0,1,1,1,1,1,1,0,0,1,1.0,0,0,0,1,6
+T_3289b3963f03c5b71115350b,6,Managing Risk,34,2025,4.0,1,1,0,1,0,0,0,1,0,0.0,0,0,1,1,4
+T_0bdccd86f7ffffd46cdd58ff,2,Undergoing Biopsy,95,2024,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,8
+T_5d440648890955ae6ddcb4ee,7,Seeking Reassurance,23,2025,4.0,1,1,0,1,1,0,0,0,0,0.0,0,1,0,1,9
+T_0d710a324170423229d63542,0,Discovering Lumps,32,2023,2.0,0,0,1,1,1,1,1,1,1,1.0,0,0,0,0,0
+T_02445f8bf6a5ff4ea945212d,9,Reading Clinical Reports,93,2025,3.0,0,1,0,1,1,0,0,0,1,1.0,1,0,0,0,0
+T_28cdc6887d708eda27417705,4,Navigating Imaging,44,2024,3.0,1,1,0,0,0,0,0,0,0,0.0,0,0,1,1,4
+T_6a50cf9301610228a7bee5eb,0,Discovering Lumps,7,2025,1.0,1,1,1,1,1,0,1,1,1,1.0,1,0,0,1,2
+T_65150ab39f4a6c642603b7f1,3,Waiting for Results,97,2025,3.0,1,0,0,1,0,0,0,1,0,0.0,1,0,0,1,8
+T_ee1c8a3705572fa79610dc40,3,Waiting for Results,13,2024,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,5
+T_da622f2a8063177eee567a66,9,Reading Clinical Reports,5,2025,3.0,1,1,1,0,0,1,0,0,1,1.0,0,0,0,1,1
+T_abdd4b7de82929748feee72b,4,Navigating Imaging,82,2025,3.0,0,1,0,0,1,0,0,0,1,1.0,0,0,1,0,0
+T_2456c171998fdf2fcda423b7,3,Waiting for Results,41,2025,3.0,0,0,0,0,0,0,0,0,1,0.0,0,0,1,0,0
+T_eaa42b004b9698e4617c532c,2,Undergoing Biopsy,45,2025,3.0,1,0,0,1,0,0,0,0,0,0.0,1,0,1,1,25
+T_815655ce26282d2f1e6f0120,1,Feeling Armpit Pain,36,2025,3.0,0,0,1,0,1,1,0,0,0,1.0,0,0,0,0,0
+T_365c5c8540b3ebeaccf2a122,0,Discovering Lumps,18,2024,1.0,1,1,1,1,1,1,1,0,1,1.0,0,0,0,1,1
+T_7eed3d30efc8fc88ccb87e42,3,Waiting for Results,50,2024,3.0,0,0,0,1,0,0,0,0,0,0.0,1,0,0,0,0
+T_3c26b16fd3000e8ad0bbc5f4,9,Reading Clinical Reports,49,2025,3.0,0,1,0,1,1,0,0,0,1,1.0,1,0,1,0,0
+T_45c28dd6819f9c9103862147,3,Waiting for Results,91,2025,3.0,1,1,0,1,0,0,0,0,0,0.0,1,0,1,1,1
+T_2f3f96d9aac14c460c1ccc14,5,Receiving Benign Findings,89,2025,3.0,1,0,0,1,1,0,0,0,1,0.0,0,0,1,1,2
+T_0b69f19cc8922011b9a2b0fe,7,Seeking Reassurance,14,2024,2.0,1,0,0,1,0,0,0,0,0,0.0,1,0,0,1,8
+T_a1503157079aba589b7fa87e,9,Reading Clinical Reports,87,2025,3.0,0,1,1,1,0,1,0,1,1,1.0,1,0,0,0,0
+T_b31724e0f95c8314a3631fe1,5,Receiving Benign Findings,21,2025,3.0,1,1,0,0,0,0,0,0,1,1.0,0,0,1,1,3
+T_f33a12fc6cc7920d4f158abb,6,Managing Risk,35,2025,,1,1,0,1,0,0,1,0,0,,1,0,1,1,3
+T_aa4d3d35515488c600fd70f5,5,Receiving Benign Findings,7,2024,3.0,1,1,0,1,1,0,0,0,0,0.0,0,0,0,1,5
+T_2b5a476facba82033c8c62f8,6,Managing Risk,24,2025,4.0,1,1,0,0,0,0,0,0,0,,0,1,0,1,5
+T_8a88f2086f7221cb0b08ec5a,8,Noticing Skin and Nipple Changes,65,2023,2.0,1,1,1,1,1,1,0,1,1,1.0,0,0,0,1,1
+T_35d9c252fb84336c7b52b9c3,9,Reading Clinical Reports,79,2025,3.0,1,1,1,0,1,1,0,1,1,1.0,0,0,0,1,1
+T_da4d6b1836a3adf26fd0c615,4,Navigating Imaging,13,2025,3.0,1,1,1,0,0,0,0,0,0,0.0,0,0,1,1,2
+T_2d13ba8e0462cb41b4229af2,8,Noticing Skin and Nipple Changes,73,2025,2.0,1,1,1,0,1,0,0,0,1,1.0,0,0,0,1,1
+T_f01bb4a8180004c1b270b0be,8,Noticing Skin and Nipple Changes,10,2024,1.0,1,1,1,1,0,0,1,1,1,1.0,1,0,0,1,3
+T_76f6b9031aa04de0ea93b6eb,1,Feeling Armpit Pain,18,2024,2.0,0,0,1,0,1,1,0,1,1,1.0,0,0,0,0,0
+T_d83c129909ab2f63e9e7ee2e,8,Noticing Skin and Nipple Changes,21,2023,2.0,1,1,1,1,1,1,0,0,1,1.0,1,0,0,1,2
+T_a50989a89afac27368acb044,2,Undergoing Biopsy,91,2025,3.0,1,0,0,0,0,0,0,0,0,0.0,0,1,0,1,2
+T_c43788680ab107cbcd7ad030,7,Seeking Reassurance,24,2024,4.0,1,1,0,0,1,0,0,0,0,0.0,0,1,0,1,7
+T_e66d18e4f94a2c7c13900dd5,1,Feeling Armpit Pain,80,2025,1.0,1,0,1,0,1,0,0,0,1,0.0,0,0,0,1,1
+T_8d8626ac91d55069ac8dc5d1,4,Navigating Imaging,37,2024,3.0,0,0,0,1,0,0,0,0,1,0.0,1,0,1,0,0
+T_e2a5cfaa89b9de0e719418a7,8,Noticing Skin and Nipple Changes,79,2024,2.0,1,1,1,1,1,0,0,0,1,1.0,1,0,0,1,1
+T_53085d1e16a84d8d8745ae85,6,Managing Risk,90,2025,4.0,1,1,0,1,0,0,0,0,0,0.0,1,0,1,1,1
+T_495f5d1f1ab0a17eb55d2e63,5,Receiving Benign Findings,29,2025,2.0,1,0,1,1,1,0,0,1,0,0.0,1,0,0,1,1
+T_6a8a04e476e0f7ce0f386730,2,Undergoing Biopsy,80,2024,3.0,1,1,1,1,0,0,0,1,0,0.0,0,1,0,1,2
+T_95fabc72fb98a1116453bee3,7,Seeking Reassurance,84,2024,4.0,1,1,1,1,1,1,1,0,0,0.0,1,1,0,1,17
+T_b6f101621c93a27793cd2589,0,Discovering Lumps,37,2023,2.0,0,0,1,1,1,0,0,0,1,1.0,0,0,0,0,0
+T_3ec2f42a3426c81e41cac25e,7,Seeking Reassurance,99,2025,2.0,1,0,0,1,0,1,0,0,0,0.0,1,0,0,1,4
+T_89cc60e5eaed54eb1a8c6cf2,0,Discovering Lumps,69,2024,2.0,1,1,1,1,1,1,0,0,1,0.0,1,0,0,1,1
+T_2e90d0ce0629ea6b73dfcaa0,9,Reading Clinical Reports,1,2024,3.0,1,1,1,1,1,1,0,1,1,1.0,0,0,1,1,4
+T_0350a4ecb6eac3235e59784c,7,Seeking Reassurance,81,2025,3.0,1,0,1,1,0,0,0,0,0,0.0,1,0,0,1,2
+T_bf8ddad38b71791232bc9ad1,2,Undergoing Biopsy,15,2025,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,8
+T_510fd5b70f3014d9738e5af1,0,Discovering Lumps,27,2025,2.0,1,1,1,1,1,1,0,0,1,1.0,0,0,0,1,1
+T_152e89bc4d1ec591a3becbfb,2,Undergoing Biopsy,36,2025,3.0,1,0,0,0,0,0,0,0,0,0.0,0,1,0,1,5
+T_d3624f15e11cf4819c4f4ac7,5,Receiving Benign Findings,12,2024,3.0,1,1,1,1,1,1,0,1,0,0.0,1,1,0,1,2
+T_79a503a381cbb4dfc78d2099,1,Feeling Armpit Pain,47,2024,1.0,0,0,0,0,1,1,0,1,1,1.0,0,0,0,0,0
+T_e110d37ee49b0b7a8d8a5d50,1,Feeling Armpit Pain,54,2025,3.0,0,0,0,0,1,0,0,1,0,0.0,0,1,0,0,0
+T_c13bf2cfe7c64a49780c62ad,0,Discovering Lumps,97,2025,1.0,0,0,1,1,1,1,0,0,0,0.0,1,0,1,0,0
+T_7ec9fd38c24f750100a3638c,9,Reading Clinical Reports,34,2025,3.0,1,1,1,0,1,0,0,0,1,1.0,0,0,0,1,2
+T_277fd5a6c4274e9bc100202c,7,Seeking Reassurance,68,2024,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,0,1,3
+T_a580e07debe7abe23d04e162,3,Waiting for Results,15,2024,3.0,1,1,0,1,0,0,0,0,0,0.0,1,0,1,1,2
+T_ecd59bb06f171a385b00f307,7,Seeking Reassurance,41,2025,3.0,1,0,0,1,0,0,0,0,0,0.0,1,0,0,1,8
+T_1945e1340fca2bbefed826e2,6,Managing Risk,81,2024,2.0,0,0,0,1,0,0,1,0,0,1.0,1,0,1,0,0
+T_b609e97da1c8eccac1fb9bb2,1,Feeling Armpit Pain,55,2025,3.0,1,0,1,1,1,1,0,0,1,1.0,0,0,0,1,3
+T_6a86038db0de6034dce84c92,7,Seeking Reassurance,16,2025,4.0,1,1,0,1,1,0,0,0,0,0.0,1,0,0,1,12
+T_57686b8a281927f393d5fb34,4,Navigating Imaging,15,2024,3.0,1,0,1,0,1,0,0,0,1,0.0,0,0,1,1,3
+T_1c9d586d5a70b908a671baff,6,Managing Risk,99,2025,4.0,1,1,0,1,0,0,0,0,1,1.0,1,0,0,1,2
+T_1dacda9e3f871e6930a93023,8,Noticing Skin and Nipple Changes,44,2025,2.0,1,1,1,0,1,1,0,1,1,1.0,0,0,0,1,1
+T_33cb32a2cfec1c21b7d23dd8,1,Feeling Armpit Pain,14,2025,1.0,1,1,1,0,1,1,0,1,1,1.0,0,0,0,1,1
+T_810f2f7bb4b3f8c3d43637fd,4,Navigating Imaging,98,2025,3.0,1,1,0,0,1,0,0,0,0,1.0,0,0,1,1,1
+T_90f0a17b529e556d29b0811f,2,Undergoing Biopsy,40,2025,3.0,1,1,0,1,0,0,0,0,0,0.0,0,1,0,1,2
+T_b3c2853c61b5338e61cde620,5,Receiving Benign Findings,26,2024,3.0,1,1,0,0,1,0,0,0,1,0.0,0,0,0,1,1
+T_1fa6a9333c0ea931105e1827,9,Reading Clinical Reports,73,2024,3.0,1,1,1,1,1,1,0,0,1,1.0,1,0,1,1,1
+T_79ceed923986560a4401cb6c,3,Waiting for Results,66,2025,3.0,0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0
+T_878c3dac9c0c03d82a218cdb,7,Seeking Reassurance,88,2024,3.0,1,1,0,1,0,0,0,0,0,0.0,1,0,1,1,3
+T_1696cb45e2ee07acdc42366d,8,Noticing Skin and Nipple Changes,42,2023,2.0,1,1,1,0,1,1,0,0,1,1.0,0,0,1,1,2
+T_d969227864bf6d5d82902e89,6,Managing Risk,47,2024,,0,0,0,0,0,0,0,0,0,,0,1,0,0,0
+T_09ff4d7b3112ff2f1ae36f08,9,Reading Clinical Reports,88,2025,3.0,0,1,1,1,1,1,0,1,1,1.0,1,0,1,0,0
+T_17d86678054057205d5c8872,1,Feeling Armpit Pain,99,2024,3.0,0,0,1,0,1,1,0,0,1,0.0,0,0,1,0,0
+T_452e4095e77a5f0ac7d521ba,9,Reading Clinical Reports,81,2024,3.0,0,1,1,1,1,1,0,0,1,1.0,1,0,0,0,0
+T_c7653c5d23247c2586188427,2,Undergoing Biopsy,37,2025,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,5
+T_beb575a5c9eacede37c9b4e1,9,Reading Clinical Reports,45,2024,3.0,0,1,1,0,1,0,0,0,1,1.0,0,0,0,0,0
+T_9991b7df3bc6ce0d97c118a6,6,Managing Risk,86,2025,2.0,1,0,1,1,0,1,0,0,0,0.0,1,0,1,1,1
+T_c2d0ba202519011fb4b499d6,0,Discovering Lumps,10,2024,3.0,1,1,1,1,1,1,0,0,1,1.0,1,0,0,1,1
+T_4fea6db81d2cd7e7b189d3e8,2,Undergoing Biopsy,9,2025,3.0,0,0,1,0,1,1,0,0,1,0.0,0,0,1,0,0
+T_ef1ded31bae5c851452ece9f,4,Navigating Imaging,85,2024,3.0,0,0,0,1,0,0,0,0,0,1.0,1,0,1,0,0
+T_022140af408762a12eb3487e,1,Feeling Armpit Pain,86,2025,2.0,0,1,1,1,1,1,0,1,1,1.0,0,0,0,0,0
+T_7aa70fa1aaea95bd839162b0,4,Navigating Imaging,56,2024,3.0,1,1,1,0,0,1,1,0,1,1.0,0,0,1,1,4
+T_cf84715a873d0d2d40a48e42,7,Seeking Reassurance,2,2025,,1,0,0,0,0,0,0,0,0,0.0,0,1,0,1,1
+T_f7910655e7731e418a3b8dd8,3,Waiting for Results,84,2023,3.0,1,0,0,1,0,0,0,0,0,0.0,0,0,1,1,3
+T_219922b355acac5647f3ed5c,1,Feeling Armpit Pain,84,2024,1.0,1,0,1,1,1,1,0,1,1,1.0,0,0,0,1,2
+T_27c3f00dc4ace4af8ae0a509,9,Reading Clinical Reports,8,2024,3.0,0,1,1,1,1,0,0,0,1,1.0,1,0,1,0,0
+T_ab1be1855c942164ec4ac4a6,2,Undergoing Biopsy,28,2024,3.0,1,0,0,1,0,0,0,0,0,0.0,0,0,1,1,1
+T_28e14f099720d2d1e7ffef67,9,Reading Clinical Reports,24,2024,3.0,0,1,1,1,1,0,0,0,1,1.0,1,0,0,0,0
+T_a93b5acc6fe94fd211966170,4,Navigating Imaging,39,2025,3.0,1,1,1,1,1,1,0,0,1,1.0,1,0,1,1,3
+T_edc2df3d649158226f43733d,5,Receiving Benign Findings,35,2024,3.0,0,1,0,0,0,0,0,0,0,0.0,0,1,0,0,0
+T_d0fe057370b63733f45158da,6,Managing Risk,56,2024,3.0,1,1,0,1,0,0,1,1,0,1.0,1,0,1,1,4
+T_8a89dfc4748219a7c67c9537,5,Receiving Benign Findings,27,2025,3.0,1,1,0,0,1,0,0,0,1,1.0,0,0,0,1,1
+T_ae075346076399c486393c21,9,Reading Clinical Reports,27,2024,3.0,1,1,1,1,1,0,0,0,1,1.0,1,0,1,1,1
+T_36d77e19744960518fd909cf,3,Waiting for Results,20,2025,3.0,1,0,0,1,0,0,0,0,0,0.0,0,0,1,1,3
+T_1cd06ec0723e8b4c66ac9a61,6,Managing Risk,91,2025,2.0,1,0,0,1,0,0,1,0,0,1.0,1,0,0,1,3
+T_11384e460068965f949244ca,4,Navigating Imaging,71,2025,3.0,0,1,0,1,0,1,0,0,1,1.0,1,0,1,0,0
+T_692a8ebc1320ebda929343ae,1,Feeling Armpit Pain,28,2025,1.0,1,0,1,0,1,0,0,0,1,1.0,0,0,0,1,1
+T_3e0c6cdb108bb79e45cc45c4,0,Discovering Lumps,31,2025,1.0,0,1,1,1,1,1,0,1,1,1.0,0,0,0,0,0
+T_7d2e014ab503176c39edf22f,0,Discovering Lumps,65,2025,1.0,1,1,1,0,1,1,0,0,1,1.0,0,0,0,1,3
+T_03a28915702f572b1860a9bd,7,Seeking Reassurance,38,2025,1.0,1,0,1,1,1,0,0,1,0,1.0,1,0,0,1,1
+T_0f317b976744d19cb214b3d6,1,Feeling Armpit Pain,45,2025,3.0,1,0,1,1,1,1,0,0,0,1.0,1,0,0,1,1
+T_d7fae9332b6d55846325274c,6,Managing Risk,85,2025,4.0,1,1,0,1,0,0,1,0,1,1.0,1,0,0,1,1
+T_1b205c8335ecbdf1dc417ecb,7,Seeking Reassurance,34,2024,4.0,1,1,0,1,0,0,0,0,0,0.0,1,0,0,1,10
+T_546983ea583c4a23f68369b0,6,Managing Risk,76,2025,4.0,0,1,0,1,0,0,0,1,1,1.0,0,0,0,0,0
+T_566a636b9d6eb56dc8f06a03,0,Discovering Lumps,41,2025,1.0,0,1,1,1,1,1,0,0,1,1.0,1,0,0,0,0
+T_ddd2301fb985b4231581d015,4,Navigating Imaging,41,2024,3.0,1,0,0,0,0,0,0,0,1,0.0,0,0,1,1,1
+T_8ed370bca4b6ba88400b1c75,3,Waiting for Results,33,2025,3.0,1,0,0,1,0,0,0,0,1,0.0,1,0,1,1,1
+T_d5591528666c2f7eef310ee6,6,Managing Risk,98,2024,2.0,0,1,0,1,0,0,1,0,0,1.0,0,0,0,0,0
+T_3d0c69524af74f531734a36d,6,Managing Risk,82,2025,4.0,1,1,0,1,0,0,0,0,1,1.0,1,0,1,1,2
+T_df8f38b2ff70ffaa16f2eee0,5,Receiving Benign Findings,57,2024,3.0,1,1,0,1,1,0,1,1,1,1.0,1,0,0,1,2
+T_da25101f7bbec4023f584928,9,Reading Clinical Reports,69,2025,3.0,0,1,1,0,1,0,0,0,1,1.0,0,0,0,0,0
+T_fdae065abd312fdcb0d79554,2,Undergoing Biopsy,94,2024,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,3
+T_1b07534e0307a6a489e3381e,1,Feeling Armpit Pain,29,2025,2.0,1,0,1,0,1,1,0,1,1,0.0,0,0,0,1,1
+T_628589192bd4054b0efcd29d,0,Discovering Lumps,19,2025,2.0,1,1,1,1,1,1,0,0,1,1.0,1,0,0,1,2
+T_dba3f4f8bbe64822ad460215,4,Navigating Imaging,96,2025,1.0,1,0,1,0,0,0,0,1,1,1.0,0,0,1,1,3
+T_1f575a06bcc122f72080e209,9,Reading Clinical Reports,40,2024,3.0,0,1,1,0,1,0,0,0,1,1.0,0,0,1,0,0
+T_27cb8b44e2ce3cb32cb6c01d,9,Reading Clinical Reports,99,2024,3.0,1,1,1,1,1,0,0,0,1,1.0,1,0,1,1,1
+T_cb55240a87b57233b31ceb2f,2,Undergoing Biopsy,13,2024,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,5
+T_c174ec45ece89a2320acf378,1,Feeling Armpit Pain,52,2024,2.0,1,0,1,1,1,1,0,1,1,1.0,1,0,0,1,1
+T_212b64f07bb61343d2e259f2,3,Waiting for Results,63,2024,3.0,0,0,0,0,0,0,0,0,1,0.0,0,0,0,0,0
+T_cf66912417d4d58facea51d5,2,Undergoing Biopsy,14,2024,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,6
+T_4b5fd590bc53277cf08af7c5,4,Navigating Imaging,97,2025,3.0,1,1,1,1,1,1,1,1,1,1.0,1,0,1,1,1
+T_2827f5a4cf25fa5245a9a7a1,5,Receiving Benign Findings,10,2025,3.0,0,1,0,0,1,0,0,0,1,1.0,1,0,0,0,0
+T_ad45aea80c319de456172a92,7,Seeking Reassurance,9,2025,4.0,1,1,0,1,0,0,0,0,0,0.0,0,0,0,1,10
+T_2cfc407f0221088c7cebf823,6,Managing Risk,87,2024,3.0,1,1,0,1,0,0,1,1,0,1.0,1,0,0,1,3
+T_54f0e0418e1286db29b1459d,9,Reading Clinical Reports,56,2025,3.0,0,1,1,1,1,0,0,0,1,1.0,1,0,0,0,0
+T_bb61a723f2fc7c1cfaaba6e4,3,Waiting for Results,56,2024,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,12
+T_812fafd3e01cf7484b31d853,7,Seeking Reassurance,31,2024,4.0,1,1,0,1,0,0,0,0,0,0.0,0,1,0,1,8
+T_72294cba8e09e32a0f9546b3,2,Undergoing Biopsy,92,2024,3.0,1,0,0,1,0,0,0,0,0,0.0,0,0,1,1,5
+T_18a3b395611e0fc5fd65ee4d,4,Navigating Imaging,63,2024,3.0,1,1,0,1,1,0,0,0,1,1.0,0,0,1,1,2
+T_d96d9d8111e84ff93bdf5727,4,Navigating Imaging,59,2025,3.0,1,0,0,0,0,0,0,0,0,1.0,0,0,1,1,6
+T_cbed50a4ae0eeb17b023fa1a,2,Undergoing Biopsy,63,2025,3.0,1,0,0,1,0,0,0,0,0,0.0,0,1,0,1,1
+T_56fa6e42afe750bbb303c392,1,Feeling Armpit Pain,64,2025,3.0,0,0,1,1,1,1,0,1,1,1.0,0,0,0,0,0
+T_7ad85135db086a6eb54416cd,9,Reading Clinical Reports,84,2025,3.0,0,1,1,1,1,1,0,0,1,1.0,1,0,0,0,0
+T_9b2e7ecc35a4da95519d5abc,3,Waiting for Results,93,2023,3.0,1,0,0,1,0,0,0,0,0,0.0,0,0,1,1,6
+T_d542ed26fec8adf766e76b6e,9,Reading Clinical Reports,2,2025,3.0,1,1,1,1,1,0,0,0,1,1.0,1,0,1,1,2
+T_b75aa68183e06691cb8a574e,6,Managing Risk,67,2025,2.0,1,0,0,0,0,0,1,0,0,0.0,0,0,1,1,2
+T_88cd87615c0bed91ed68a7de,4,Navigating Imaging,2,2024,3.0,1,0,0,0,0,0,0,0,0,0.0,0,0,1,1,4
+T_a28c30c7a1e02fc28be41eb2,1,Feeling Armpit Pain,71,2025,2.0,1,0,1,1,1,1,0,0,1,1.0,0,0,0,1,2
+T_7d09e42b23a7c48207e5d225,8,Noticing Skin and Nipple Changes,52,2025,2.0,1,1,1,1,1,1,0,0,1,1.0,1,0,0,1,1
