@@ -1,0 +1,27 @@
+{
+  "prepared_date": "2026-11-05",
+  "source": "Final human-coded workbook, cross-checked against frozen statistical inputs",
+  "post_code_and_pathway_values_match_final_workbook": true,
+  "comment_support_codes_match_final_workbook": true,
+  "threads": 1000,
+  "comments": 2532,
+  "identifier_method": "Independent cryptographically random research IDs; no crosswalk exported or saved",
+  "row_order": "Independently shuffled; analysis sorts threads by topic_id and rank to preserve seeded resampling order",
+  "retained_metadata": [
+    "topic_id",
+    "topic_label",
+    "rank",
+    "year"
+  ],
+  "excluded": [
+    "post and comment text",
+    "titles",
+    "usernames",
+    "URLs",
+    "original platform identifiers",
+    "legacy hashes",
+    "full dates and timestamps",
+    "coder notes",
+    "C2 and F follow-up variables unused in these analyses"
+  ]
+}

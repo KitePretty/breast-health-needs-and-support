@@ -1,0 +1,240 @@
+{
+  "verification_date": "2026-11-05",
+  "status": "passed",
+  "input_validation": {
+    "threads": 1000,
+    "comments": 2532,
+    "primary_threads": 957,
+    "human_response_threads": 730,
+    "analyzable_response_threads": 719,
+    "response_content_unknown_threads": 11,
+    "primary_human_response_threads": 698,
+    "clinical_report_threads": 100,
+    "clinical_report_human_response_threads": 32,
+    "D2_blank_all_threads": 34,
+    "D2_blank_primary_threads": 2,
+    "status": "passed"
+  },
+  "analysis_verification": {
+    "complete_statistical_rerun": true,
+    "permutation_replicates": 10000,
+    "bootstrap_replicates": 2000,
+    "reference_tables_checked": 24,
+    "reference_tables_passed": 24,
+    "max_absolute_numeric_difference": 3.1308289294429414e-14,
+    "relative_tolerance": 1e-08,
+    "absolute_tolerance": 1e-10,
+    "comparisons": [
+      {
+        "table": "00_c1_counts_all.csv",
+        "status": "passed",
+        "rows": 5,
+        "max_absolute_numeric_difference": 0.0
+      },
+      {
+        "table": "01_c1_sample_flow.csv",
+        "status": "passed",
+        "rows": 4,
+        "max_absolute_numeric_difference": 0.0
+      },
+      {
+        "table": "02_c1_topic_distribution.csv",
+        "status": "passed",
+        "rows": 32,
+        "max_absolute_numeric_difference": 0.0
+      },
+      {
+        "table": "03_c1_post_code_profiles.csv",
+        "status": "passed",
+        "rows": 48,
+        "max_absolute_numeric_difference": 0.0
+      },
+      {
+        "table": "04_post_code_global_tests.csv",
+        "status": "passed",
+        "rows": 12,
+        "max_absolute_numeric_difference": 0.0
+      },
+      {
+        "table": "05_c1_support_profiles.csv",
+        "status": "passed",
+        "rows": 40,
+        "max_absolute_numeric_difference": 0.0
+      },
+      {
+        "table": "06_support_global_tests.csv",
+        "status": "passed",
+        "rows": 5,
+        "max_absolute_numeric_difference": 0.0
+      },
+      {
+        "table": "07_access_probabilities.csv",
+        "status": "passed",
+        "rows": 4,
+        "max_absolute_numeric_difference": 0.0
+      },
+      {
+        "table": "08_access_adjacent_contrasts.csv",
+        "status": "passed",
+        "rows": 3,
+        "max_absolute_numeric_difference": 3.1308289294429414e-14
+      },
+      {
+        "table": "09_core_pathway_overall.csv",
+        "status": "passed",
+        "rows": 5,
+        "max_absolute_numeric_difference": 0.0
+      },
+      {
+        "table": "10_core_pathway_by_c1.csv",
+        "status": "passed",
+        "rows": 20,
+        "max_absolute_numeric_difference": 0.0
+      },
+      {
+        "table": "11_core_pathway_global_tests.csv",
+        "status": "passed",
+        "rows": 5,
+        "max_absolute_numeric_difference": 0.0
+      },
+      {
+        "table": "12_c1_3_topic_pathways.csv",
+        "status": "passed",
+        "rows": 40,
+        "max_absolute_numeric_difference": 0.0
+      },
+      {
+        "table": "13_c1_3_topic_global_tests.csv",
+        "status": "passed",
+        "rows": 5,
+        "max_absolute_numeric_difference": 0.0
+      },
+      {
+        "table": "14_rank_sensitivity.csv",
+        "status": "passed",
+        "rows": 27,
+        "max_absolute_numeric_difference": 0.0
+      },
+      {
+        "table": "15_access_year_adjusted.csv",
+        "status": "passed",
+        "rows": 3,
+        "max_absolute_numeric_difference": 6.217248937900877e-15
+      },
+      {
+        "table": "16_analyzable_response_sensitivity_probabilities.csv",
+        "status": "passed",
+        "rows": 4,
+        "max_absolute_numeric_difference": 0.0
+      },
+      {
+        "table": "17_analyzable_response_sensitivity_contrasts.csv",
+        "status": "passed",
+        "rows": 3,
+        "max_absolute_numeric_difference": 2.9976021664879227e-14
+      },
+      {
+        "table": "18_stratified_bootstrap_access.csv",
+        "status": "passed",
+        "rows": 4,
+        "max_absolute_numeric_difference": 0.0
+      },
+      {
+        "table": "19_stratified_bootstrap_coverage.csv",
+        "status": "passed",
+        "rows": 5,
+        "max_absolute_numeric_difference": 0.0
+      },
+      {
+        "table": "20_clinical_reports_data_informed_audit.csv",
+        "status": "passed",
+        "rows": 3,
+        "max_absolute_numeric_difference": 0.0
+      },
+      {
+        "table": "21_topic_overlap_diagnostics.csv",
+        "status": "passed",
+        "rows": 30,
+        "max_absolute_numeric_difference": 0.0
+      },
+      {
+        "table": "22_topic_standardized_access_sensitivity.csv",
+        "status": "passed",
+        "rows": 3,
+        "max_absolute_numeric_difference": 0.0
+      },
+      {
+        "table": "23_access_global_tests.csv",
+        "status": "passed",
+        "rows": 2,
+        "max_absolute_numeric_difference": 0.0
+      }
+    ]
+  },
+  "standalone_execution": {
+    "isolated_directory_copy": true,
+    "entry_point": "python run_all.py",
+    "private_source_files_required": false,
+    "input_files_unchanged": true,
+    "new_environment_install_tested": false,
+    "github_actions_tested": false
+  },
+  "figures": {
+    "manuscript_figures_2_and_3_rendered": true,
+    "percentage_anchor_checks_passed": true,
+    "visually_reviewed": true
+  },
+  "privacy_checks": {
+    "restricted_data_column_allowlist_passed": true,
+    "original_identifier_exact_token_scan_passed": true,
+    "legacy_hash_scan_passed": true,
+    "personal_absolute_path_scan_passed": true,
+    "free_text_and_source_workbook_files_excluded": true,
+    "identifier_crosswalk_saved": false,
+    "posting_year_and_sampling_rank_retained": true,
+    "absolute_anonymity_claimed": false
+  },
+  "environment": {
+    "python": "3.12.7",
+    "platform_family": "darwin",
+    "packages": {
+      "numpy": "1.26.4",
+      "pandas": "2.2.2",
+      "scipy": "1.13.1",
+      "statsmodels": "0.14.2",
+      "matplotlib": "3.9.2"
+    }
+  },
+  "release_version": "1.1.0",
+  "presentation_update": {
+    "repository_name": "breast-health-needs-and-support",
+    "only_analysis_function_changed": "save_figures",
+    "all_statistical_function_asts_unchanged": true,
+    "aggregate_reference_tables_rechecked": 24,
+    "publication_palette_used_in_auxiliary_figures": true,
+    "main_figures_and_grayscale_previews_reviewed": true,
+    "contrast_checks": {
+      "palette_matches_local_submission": true,
+      "marker_shapes": [
+        "circle",
+        "square",
+        "diamond"
+      ],
+      "marker_outline_contrast_on_white": 14.457545113428665,
+      "minimum_heatmap_label_contrast": 4.842855336368402,
+      "missing_cell_text_contrast": 6.075986079813821,
+      "minimum_label_target": 4.5,
+      "minimum_marker_boundary_target": 3.0,
+      "heatmap": "cividis",
+      "color_vision_simulation_performed": false,
+      "scope": "Checks of selected label/background pairs and marker boundaries, not a full WCAG conformance audit"
+    },
+    "exports": [
+      "PNG",
+      "SVG",
+      "PDF",
+      "aggregate CSV",
+      "alt text"
+    ]
+  }
+}
