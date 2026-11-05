@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "Please cite this version of the code and coded data, and the accompanying manuscript when available. No DOI has been assigned."
+title: "breast-health-needs-and-support"
+type: software
+version: 1.1.0
+date-released: 2026-11-05
+authors:
+  - family-names: "Peng"
+    given-names: "Yuting"
+  - family-names: "French"
+    given-names: "Elizabeth H."
+  - family-names: "Wieczorek"
+    given-names: "Catherine"
+  - family-names: "Ray"
+    given-names: "Emily Miller"
+  - family-names: "Knowlton"
+    given-names: "Sasha E."
+  - family-names: "Jin"
+    given-names: "Georgie Qiao"
+  - family-names: "Guo"
+    given-names: "Yawen"
+  - family-names: "Li"
+    given-names: "Franklin Mingzhe"
+abstract: "Coding-based descriptive and associational analyses of expressed needs, human replies, and support-category coverage."
+repository-code: "https://github.com/KitePretty/breast-health-needs-and-support"
+url: "https://github.com/KitePretty/breast-health-needs-and-support"
