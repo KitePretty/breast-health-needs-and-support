@@ -1,0 +1,4 @@
+mapping,label,topic,need_n,human_response_n,access_probability,analyzable_response_n,target_support_among_responders_n,conditional_match_probability,known_content_n,target_support_known_n,overall_coverage_known,unknown_content_n,coverage_lower_bound,coverage_upper_bound
+D1→E1,Symptom interpretation → informational support,Reading Clinical Reports,100,32,0.32,32,13,0.40625,100,13,0.13,0,0.13,0.13
+D2→E1,Risk assessment → informational support,Reading Clinical Reports,100,32,0.32,32,13,0.40625,100,13,0.13,0,0.13,0.13
+D6→E1,Process information → informational support,Reading Clinical Reports,28,13,0.4642857142857143,13,5,0.38461538461538464,28,5,0.17857142857142858,0,0.17857142857142858,0.17857142857142858

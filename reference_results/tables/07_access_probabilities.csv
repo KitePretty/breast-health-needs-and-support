@@ -1,0 +1,5 @@
+outcome,model,C1,n,count,proportion,ci_low,ci_high
+C3_has_human_response,modified Poisson with HC3,1 Appraisal,90,60,0.6666666666666666,0.5642231776063374,0.7554649472055536
+C3_has_human_response,modified Poisson with HC3,2 Help-seeking,160,105,0.65625,0.579767901721218,0.7254051622876866
+C3_has_human_response,modified Poisson with HC3,3 Diagnostic work-up,638,468,0.7335423197492164,0.6979132645566295,0.7663758459466699
+C3_has_human_response,modified Poisson with HC3,4 Pre-treatment,69,65,0.9420289855072463,0.8602075664233835,0.9772276111196287

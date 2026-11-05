@@ -1,0 +1,6 @@
+family,outcome,label,statistic,df,p_value,method,q_value
+thread-level support codes,E1_informational,E1 Informational,52.993353577915826,3,1.8393535345875022e-11,Pearson chi-square,3.0655892243125036e-11
+thread-level support codes,E2_emotional,E2 Emotional,65.4304827579245,3,4.0576346440098637e-14,Pearson chi-square,1.0144086610024659e-13
+thread-level support codes,E5_help_seeking_encouragement,E5 Help-seeking encouragement,107.84589305601556,3,3.190627936622258e-23,Pearson chi-square,1.595313968311129e-22
+thread-level support codes,E6_reassurance_normalization,E6 Reassurance/normalization,32.166405100175496,3,4.827440327515442e-07,Pearson chi-square,4.827440327515442e-07
+thread-level support codes,E7_experiential_information,E7 Experiential information,32.89501187797967,3,3.3891526816356117e-07,Pearson chi-square,4.2364408520445146e-07

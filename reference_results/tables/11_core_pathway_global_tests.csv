@@ -1,0 +1,6 @@
+family,mapping,label,statistic,df,p_value,method,q_value
+core need-support coverage,D1→E1,Symptom interpretation → informational support,44.42523271169145,3,1.2257545466284075e-09,Pearson chi-square,6.128772733142037e-09
+core need-support coverage,D2→E1,Risk assessment → informational support,38.407579928366665,3,2.3170971930806584e-08,Pearson chi-square,5.7927429827016455e-08
+core need-support coverage,D6→E1,Process information → informational support,13.939295860042524,3,0.0027997200279972004,"10,000-permutation Pearson chi-square",0.0027997200279972004
+core need-support coverage,D3→E2,Emotional-relief need → emotional support,24.489000819423367,3,1.9745297921511786e-05,Pearson chi-square,3.290882986918631e-05
+core need-support coverage,D2→E5,Risk assessment → help-seeking encouragement,64.33731382916852,3,9.999000099990002e-05,"10,000-permutation Pearson chi-square",0.000124987501249875

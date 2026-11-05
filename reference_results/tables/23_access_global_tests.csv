@@ -1,0 +1,3 @@
+outcome,statistic,df,p_value,method
+C3_has_human_response,21.99092796217929,3,6.551525884162709e-05,Pearson chi-square
+actual_analyzable_comment,29.754311189868424,3,1.5544293820315433e-06,Pearson chi-square

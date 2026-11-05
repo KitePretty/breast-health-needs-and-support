@@ -1,0 +1,41 @@
+estimand,code,label,C1,n,count,proportion,ci_low,ci_high
+all threads with known support content,E1_informational,E1 Informational,1 Appraisal,90,40,0.4444444444444444,0.3461565562889663,0.5472807354404032
+conditional on analyzable response,E1_informational,E1 Informational,1 Appraisal,60,40,0.6666666666666666,0.5405686645211968,0.7727073847647731
+all threads with known support content,E1_informational,E1 Informational,2 Help-seeking,151,42,0.2781456953642384,0.21285802561582723,0.35444132360054925
+conditional on analyzable response,E1_informational,E1 Informational,2 Help-seeking,96,42,0.4375,0.3425682747577502,0.5372411737244593
+all threads with known support content,E1_informational,E1 Informational,3 Diagnostic work-up,636,327,0.5141509433962265,0.47533942204392376,0.5527925468240771
+conditional on analyzable response,E1_informational,E1 Informational,3 Diagnostic work-up,466,327,0.7017167381974249,0.6586663140654271,0.7414686601275303
+all threads with known support content,E1_informational,E1 Informational,4 Pre-treatment,69,54,0.782608695652174,0.6718170359123908,0.8635923398937974
+conditional on analyzable response,E1_informational,E1 Informational,4 Pre-treatment,65,54,0.8307692307692308,0.7218357836377647,0.9027878187178839
+all threads with known support content,E2_emotional,E2 Emotional,1 Appraisal,90,15,0.16666666666666666,0.10368488734312978,0.2569388630330881
+conditional on analyzable response,E2_emotional,E2 Emotional,1 Appraisal,60,15,0.25,0.15776522530056675,0.37232070077047824
+all threads with known support content,E2_emotional,E2 Emotional,2 Help-seeking,151,23,0.152317880794702,0.1036926122210518,0.21819442759565755
+conditional on analyzable response,E2_emotional,E2 Emotional,2 Help-seeking,96,23,0.23958333333333334,0.1652822121585541,0.33392382318398534
+all threads with known support content,E2_emotional,E2 Emotional,3 Diagnostic work-up,636,244,0.3836477987421384,0.3466614508563349,0.4220312495623249
+conditional on analyzable response,E2_emotional,E2 Emotional,3 Diagnostic work-up,466,244,0.5236051502145923,0.47825132718296404,0.5685729783077014
+all threads with known support content,E2_emotional,E2 Emotional,4 Pre-treatment,69,43,0.6231884057971014,0.5052188643395578,0.7281647097298064
+conditional on analyzable response,E2_emotional,E2 Emotional,4 Pre-treatment,65,43,0.6615384615384615,0.5403837691551205,0.7646649668790333
+all threads with known support content,E5_help_seeking_encouragement,E5 Help-seeking encouragement,1 Appraisal,90,35,0.3888888888888889,0.2946991721093655,0.49217541134937376
+conditional on analyzable response,E5_help_seeking_encouragement,E5 Help-seeking encouragement,1 Appraisal,60,35,0.5833333333333334,0.45728081022640116,0.6993572144165838
+all threads with known support content,E5_help_seeking_encouragement,E5 Help-seeking encouragement,2 Help-seeking,151,33,0.2185430463576159,0.16006056675937633,0.2909908464255788
+conditional on analyzable response,E5_help_seeking_encouragement,E5 Help-seeking encouragement,2 Help-seeking,96,33,0.34375,0.2564039323896144,0.4431196888159093
+all threads with known support content,E5_help_seeking_encouragement,E5 Help-seeking encouragement,3 Diagnostic work-up,636,34,0.05345911949685535,0.03850526801395947,0.07377482548468112
+conditional on analyzable response,E5_help_seeking_encouragement,E5 Help-seeking encouragement,3 Diagnostic work-up,466,34,0.07296137339055794,0.0526788536858844,0.1002268924375351
+all threads with known support content,E5_help_seeking_encouragement,E5 Help-seeking encouragement,4 Pre-treatment,69,17,0.2463768115942029,0.15989777817017553,0.3596066281576044
+conditional on analyzable response,E5_help_seeking_encouragement,E5 Help-seeking encouragement,4 Pre-treatment,65,17,0.26153846153846155,0.17018193413221397,0.37950802696022556
+all threads with known support content,E6_reassurance_normalization,E6 Reassurance/normalization,1 Appraisal,90,32,0.35555555555555557,0.26443868959648187,0.4584982688998792
+conditional on analyzable response,E6_reassurance_normalization,E6 Reassurance/normalization,1 Appraisal,60,32,0.5333333333333333,0.4089342702715789,0.6537209395856151
+all threads with known support content,E6_reassurance_normalization,E6 Reassurance/normalization,2 Help-seeking,151,43,0.2847682119205298,0.21882333465147735,0.3613924519017238
+conditional on analyzable response,E6_reassurance_normalization,E6 Reassurance/normalization,2 Help-seeking,96,43,0.4479166666666667,0.3523575930459819,0.5474836140225261
+all threads with known support content,E6_reassurance_normalization,E6 Reassurance/normalization,3 Diagnostic work-up,636,106,0.16666666666666666,0.13972208478479223,0.1976137596578549
+conditional on analyzable response,E6_reassurance_normalization,E6 Reassurance/normalization,3 Diagnostic work-up,466,106,0.22746781115879827,0.19172612393102334,0.2676659854040232
+all threads with known support content,E6_reassurance_normalization,E6 Reassurance/normalization,4 Pre-treatment,69,5,0.07246376811594203,0.03134777142998149,0.1586739420939903
+conditional on analyzable response,E6_reassurance_normalization,E6 Reassurance/normalization,4 Pre-treatment,65,5,0.07692307692307693,0.03330350149516352,0.1677593327011
+all threads with known support content,E7_experiential_information,E7 Experiential information,1 Appraisal,90,35,0.3888888888888889,0.2946991721093655,0.49217541134937376
+conditional on analyzable response,E7_experiential_information,E7 Experiential information,1 Appraisal,60,35,0.5833333333333334,0.45728081022640116,0.6993572144165838
+all threads with known support content,E7_experiential_information,E7 Experiential information,2 Help-seeking,151,54,0.3576158940397351,0.28557207961635744,0.4367245176419141
+conditional on analyzable response,E7_experiential_information,E7 Experiential information,2 Help-seeking,96,54,0.5625,0.46275882627554077,0.6574317252422498
+all threads with known support content,E7_experiential_information,E7 Experiential information,3 Diagnostic work-up,636,350,0.550314465408805,0.5114658703449254,0.5885589078524108
+conditional on analyzable response,E7_experiential_information,E7 Experiential information,3 Diagnostic work-up,466,350,0.7510729613733905,0.7098687688323784,0.7881715713865156
+all threads with known support content,E7_experiential_information,E7 Experiential information,4 Pre-treatment,69,48,0.6956521739130435,0.5791642983213836,0.7915037310829005
+conditional on analyzable response,E7_experiential_information,E7 Experiential information,4 Pre-treatment,65,48,0.7384615384615385,0.6204919730397745,0.8298180658677862

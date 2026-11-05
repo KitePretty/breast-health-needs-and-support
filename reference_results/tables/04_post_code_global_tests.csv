@@ -1,0 +1,13 @@
+family,outcome,label,statistic,df,p_value,method,q_value
+post communication codes,A1_Diagnostic labeling,A1 Diagnostic labeling,76.53611086892585,3,1.6975988750841019e-16,Pearson chi-square,3.3951977501682037e-16
+post communication codes,A2_Temporal information,A2 Temporal information,152.4039880878591,3,7.982791760694795e-33,Pearson chi-square,4.789675056416877e-32
+post communication codes,A5_emotional_rep,A5 Emotional representation,39.69423677641257,3,1.2369850284059716e-08,Pearson chi-square,1.6493133712079622e-08
+post communication codes,B1_severity,B1 Severity,156.98431321181425,3,8.201593224033318e-34,Pearson chi-square,9.841911868839982e-33
+post communication codes,B3_duration,B3 Duration,98.90220103502084,3,2.6762666031851397e-21,Pearson chi-square,1.0705066412740559e-20
+post communication codes,B4_age_illness,B4 Age-illness link,6.615082819721568,3,0.08523275310941544,Pearson chi-square,0.08523275310941544
+post communication codes,B7_stress_illness,B7 Stress-illness link,86.00057033273706,3,1.58259137704224e-18,Pearson chi-square,3.798219304901376e-18
+post communication codes,D1_symptom_interpretation,D1 Symptom interpretation,65.10427538453231,3,4.764907621191311e-14,Pearson chi-square,7.147361431786967e-14
+post communication codes,D2_risk_assessment,D2 Risk assessment,70.16034340424649,3,3.943880361926407e-15,Pearson chi-square,6.760937763302411e-15
+post communication codes,D3_emotional_relief,D3 Emotional relief,28.47891413945129,3,2.8813855327552375e-06,Pearson chi-square,3.143329672096623e-06
+post communication codes,D4_experience_sharing,D4 Experience sharing,30.89615642870867,3,8.939377352540398e-07,Pearson chi-square,1.0727252823048477e-06
+post communication codes,D6_medical process information seeking,D6 Medical-process information,91.92983964732477,3,8.433477556024202e-20,Pearson chi-square,2.5300432668072607e-19

@@ -1,0 +1,5 @@
+estimand,C1,bootstrap_replicates,ci_low,ci_high
+human response probability,1 Appraisal,2000,0.5638297872340425,0.7623762376237624
+human response probability,2 Help-seeking,2000,0.5822669735327963,0.7284080767514501
+human response probability,3 Diagnostic work-up,2000,0.7023612891411829,0.7617667168563177
+human response probability,4 Pre-treatment,2000,0.8787878787878788,0.9866666666666667

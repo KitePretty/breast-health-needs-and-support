@@ -1,0 +1,31 @@
+contrast,topic,n_higher_position,n_lower_position,eligible_min_10_each
+C1 2 vs 1,Discovering Lumps,27,40,1
+C1 2 vs 1,Feeling Armpit Pain,14,34,1
+C1 2 vs 1,Managing Risk,15,1,0
+C1 2 vs 1,Navigating Imaging,3,4,0
+C1 2 vs 1,Noticing Skin and Nipple Changes,90,6,0
+C1 2 vs 1,Reading Clinical Reports,0,0,0
+C1 2 vs 1,Receiving Benign Findings,1,0,0
+C1 2 vs 1,Seeking Reassurance,10,5,0
+C1 2 vs 1,Undergoing Biopsy,0,0,0
+C1 2 vs 1,Waiting for Results,0,0,0
+C1 3 vs 2,Discovering Lumps,33,27,1
+C1 3 vs 2,Feeling Armpit Pain,52,14,1
+C1 3 vs 2,Managing Risk,15,15,1
+C1 3 vs 2,Navigating Imaging,92,3,0
+C1 3 vs 2,Noticing Skin and Nipple Changes,3,90,0
+C1 3 vs 2,Reading Clinical Reports,100,0,0
+C1 3 vs 2,Receiving Benign Findings,97,1,0
+C1 3 vs 2,Seeking Reassurance,48,10,1
+C1 3 vs 2,Undergoing Biopsy,98,0,0
+C1 3 vs 2,Waiting for Results,100,0,0
+C1 4 vs 3,Discovering Lumps,0,33,0
+C1 4 vs 3,Feeling Armpit Pain,0,52,0
+C1 4 vs 3,Managing Risk,42,15,1
+C1 4 vs 3,Navigating Imaging,0,92,0
+C1 4 vs 3,Noticing Skin and Nipple Changes,0,3,0
+C1 4 vs 3,Reading Clinical Reports,0,100,0
+C1 4 vs 3,Receiving Benign Findings,0,97,0
+C1 4 vs 3,Seeking Reassurance,26,48,1
+C1 4 vs 3,Undergoing Biopsy,1,98,0
+C1 4 vs 3,Waiting for Results,0,100,0

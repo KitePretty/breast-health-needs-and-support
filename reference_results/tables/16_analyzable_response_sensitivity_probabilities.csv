@@ -1,0 +1,5 @@
+outcome,model,C1,n,count,proportion,ci_low,ci_high
+actual_analyzable_comment,modified Poisson with HC3,1 Appraisal,90,60,0.6666666666666666,0.5642231776063374,0.7554649472055536
+actual_analyzable_comment,modified Poisson with HC3,2 Help-seeking,160,96,0.6,0.522604836968219,0.67270592399748
+actual_analyzable_comment,modified Poisson with HC3,3 Diagnostic work-up,638,466,0.7304075235109718,0.6946710797788722,0.7633859621270673
+actual_analyzable_comment,modified Poisson with HC3,4 Pre-treatment,69,65,0.9420289855072463,0.8602075664233835,0.9772276111196287

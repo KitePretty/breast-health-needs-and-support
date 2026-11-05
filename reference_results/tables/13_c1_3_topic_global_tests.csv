@@ -1,0 +1,6 @@
+family,mapping,label,eligible_topics,statistic,df,p_value,method,q_value
+within C1=3 topic coverage,D1→E1,Symptom interpretation → informational support,7,91.32889601537514,6,9.999000099990002e-05,"10,000-permutation Pearson chi-square",0.000124987501249875
+within C1=3 topic coverage,D2→E1,Risk assessment → informational support,6,81.97209584448377,5,3.244132015686016e-16,Pearson chi-square,1.6220660078430078e-15
+within C1=3 topic coverage,D6→E1,Process information → informational support,5,72.39666755000952,4,9.999000099990002e-05,"10,000-permutation Pearson chi-square",0.000124987501249875
+within C1=3 topic coverage,D3→E2,Emotional-relief need → emotional support,8,72.18409802077373,7,9.999000099990002e-05,"10,000-permutation Pearson chi-square",0.000124987501249875
+within C1=3 topic coverage,D2→E5,Risk assessment → help-seeking encouragement,6,14.409072822326195,5,0.013498650134986502,"10,000-permutation Pearson chi-square",0.013498650134986502

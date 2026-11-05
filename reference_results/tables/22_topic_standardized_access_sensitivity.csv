@@ -1,0 +1,4 @@
+contrast,eligible_topics,topics,equal_topic_weighted_higher,equal_topic_weighted_lower,risk_difference,rd_ci_low,rd_ci_high,bootstrap_replicates
+C1 2 vs 1,2,Discovering Lumps | Feeling Armpit Pain,0.6177248677248677,0.6169117647058824,0.000813103018985295,-0.19703869047619046,0.19414157329598514,2000
+C1 3 vs 2,4,Discovering Lumps | Feeling Armpit Pain | Managing Risk | Seeking Reassurance,0.6593094405594406,0.7255291005291005,-0.06621965996965984,-0.2044663091538093,0.0768956968956969,2000
+C1 4 vs 3,2,Managing Risk | Seeking Reassurance,0.945054945054945,0.8125,0.13255494505494503,0.004117445054945043,0.2735119047619048,2000

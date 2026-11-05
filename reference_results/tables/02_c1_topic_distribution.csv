@@ -1,0 +1,33 @@
+topic_label,C1,n
+Discovering Lumps,1 Appraisal,40
+Discovering Lumps,2 Help-seeking,27
+Discovering Lumps,3 Diagnostic work-up,33
+Feeling Armpit Pain,1 Appraisal,34
+Feeling Armpit Pain,2 Help-seeking,14
+Feeling Armpit Pain,3 Diagnostic work-up,52
+Managing Risk,1 Appraisal,1
+Managing Risk,2 Help-seeking,15
+Managing Risk,3 Diagnostic work-up,15
+Managing Risk,4 Pre-treatment,42
+Managing Risk,NA/indeterminate,27
+Navigating Imaging,1 Appraisal,4
+Navigating Imaging,2 Help-seeking,3
+Navigating Imaging,3 Diagnostic work-up,92
+Navigating Imaging,NA/indeterminate,1
+Noticing Skin and Nipple Changes,1 Appraisal,6
+Noticing Skin and Nipple Changes,2 Help-seeking,90
+Noticing Skin and Nipple Changes,3 Diagnostic work-up,3
+Noticing Skin and Nipple Changes,NA/indeterminate,1
+Reading Clinical Reports,3 Diagnostic work-up,100
+Receiving Benign Findings,2 Help-seeking,1
+Receiving Benign Findings,3 Diagnostic work-up,97
+Receiving Benign Findings,NA/indeterminate,2
+Seeking Reassurance,1 Appraisal,5
+Seeking Reassurance,2 Help-seeking,10
+Seeking Reassurance,3 Diagnostic work-up,48
+Seeking Reassurance,4 Pre-treatment,26
+Seeking Reassurance,NA/indeterminate,11
+Undergoing Biopsy,3 Diagnostic work-up,98
+Undergoing Biopsy,4 Pre-treatment,1
+Undergoing Biopsy,NA/indeterminate,1
+Waiting for Results,3 Diagnostic work-up,100

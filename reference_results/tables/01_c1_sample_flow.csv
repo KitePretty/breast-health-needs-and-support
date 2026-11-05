@@ -1,0 +1,5 @@
+C1,n_threads,human_response_n,human_response_pct,analyzable_response_n,analyzable_response_pct,comments_median,comments_q1,comments_q3
+1 Appraisal,90,60,0.6666666666666666,60,0.6666666666666666,1.0,0.0,2.0
+2 Help-seeking,160,105,0.65625,96,0.6,1.0,0.0,2.0
+3 Diagnostic work-up,638,468,0.7335423197492164,466,0.7304075235109718,2.0,0.0,4.0
+4 Pre-treatment,69,65,0.9420289855072463,65,0.9420289855072463,3.0,2.0,7.0

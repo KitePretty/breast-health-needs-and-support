@@ -1,0 +1,41 @@
+mapping,label,topic,topic_n,need_n,human_response_n,access_probability,analyzable_response_n,target_support_among_responders_n,conditional_match_probability,known_content_n,target_support_known_n,overall_coverage_known,unknown_content_n,coverage_lower_bound,coverage_upper_bound
+Any human response,Any human response,Discovering Lumps,33,33,15,0.45454545454545453,13,,,,,,,,
+Any human response,Any human response,Feeling Armpit Pain,52,52,29,0.5576923076923077,29,,,,,,,,
+Any human response,Any human response,Navigating Imaging,92,92,77,0.8369565217391305,77,,,,,,,,
+Any human response,Any human response,Reading Clinical Reports,100,100,32,0.32,32,,,,,,,,
+Any human response,Any human response,Receiving Benign Findings,97,97,79,0.8144329896907216,79,,,,,,,,
+Any human response,Any human response,Seeking Reassurance,48,48,46,0.9583333333333334,46,,,,,,,,
+Any human response,Any human response,Undergoing Biopsy,98,98,87,0.8877551020408163,87,,,,,,,,
+Any human response,Any human response,Waiting for Results,100,100,90,0.9,90,,,,,,,,
+D1→E1,Symptom interpretation → informational support,Discovering Lumps,33,30,13,0.43333333333333335,11,6.0,0.5454545454545454,28.0,6.0,0.21428571428571427,2.0,0.2,0.26666666666666666
+D1→E1,Symptom interpretation → informational support,Feeling Armpit Pain,52,36,21,0.5833333333333334,21,7.0,0.3333333333333333,36.0,7.0,0.19444444444444445,0.0,0.19444444444444445,0.19444444444444445
+D1→E1,Symptom interpretation → informational support,Navigating Imaging,92,57,46,0.8070175438596491,46,40.0,0.8695652173913043,57.0,40.0,0.7017543859649122,0.0,0.7017543859649122,0.7017543859649122
+D1→E1,Symptom interpretation → informational support,Reading Clinical Reports,100,100,32,0.32,32,13.0,0.40625,100.0,13.0,0.13,0.0,0.13,0.13
+D1→E1,Symptom interpretation → informational support,Receiving Benign Findings,97,60,46,0.7666666666666667,46,25.0,0.5434782608695652,60.0,25.0,0.4166666666666667,0.0,0.4166666666666667,0.4166666666666667
+D1→E1,Symptom interpretation → informational support,Undergoing Biopsy,98,10,6,0.6,6,6.0,1.0,10.0,6.0,0.6,0.0,0.6,0.6
+D1→E1,Symptom interpretation → informational support,Waiting for Results,100,32,27,0.84375,27,27.0,1.0,32.0,27.0,0.84375,0.0,0.84375,0.84375
+D2→E1,Risk assessment → informational support,Discovering Lumps,33,25,12,0.48,11,6.0,0.5454545454545454,24.0,6.0,0.25,1.0,0.24,0.28
+D2→E1,Risk assessment → informational support,Feeling Armpit Pain,52,32,20,0.625,20,8.0,0.4,32.0,8.0,0.25,0.0,0.25,0.25
+D2→E1,Risk assessment → informational support,Navigating Imaging,92,61,50,0.819672131147541,50,46.0,0.92,61.0,46.0,0.7540983606557377,0.0,0.7540983606557377,0.7540983606557377
+D2→E1,Risk assessment → informational support,Reading Clinical Reports,100,100,32,0.32,32,13.0,0.40625,100.0,13.0,0.13,0.0,0.13,0.13
+D2→E1,Risk assessment → informational support,Receiving Benign Findings,97,58,44,0.7586206896551724,44,26.0,0.5909090909090909,58.0,26.0,0.4482758620689655,0.0,0.4482758620689655,0.4482758620689655
+D2→E1,Risk assessment → informational support,Waiting for Results,100,25,19,0.76,19,19.0,1.0,25.0,19.0,0.76,0.0,0.76,0.76
+D6→E1,Process information → informational support,Navigating Imaging,92,88,76,0.8636363636363636,76,67.0,0.881578947368421,88.0,67.0,0.7613636363636364,0.0,0.7613636363636364,0.7613636363636364
+D6→E1,Process information → informational support,Reading Clinical Reports,100,28,13,0.4642857142857143,13,5.0,0.38461538461538464,28.0,5.0,0.17857142857142858,0.0,0.17857142857142858,0.17857142857142858
+D6→E1,Process information → informational support,Receiving Benign Findings,97,12,10,0.8333333333333334,10,5.0,0.5,12.0,5.0,0.4166666666666667,0.0,0.4166666666666667,0.4166666666666667
+D6→E1,Process information → informational support,Undergoing Biopsy,98,66,59,0.8939393939393939,59,58.0,0.9830508474576272,66.0,58.0,0.8787878787878788,0.0,0.8787878787878788,0.8787878787878788
+D6→E1,Process information → informational support,Waiting for Results,100,80,74,0.925,74,72.0,0.972972972972973,80.0,72.0,0.9,0.0,0.9,0.9
+D3→E2,Emotional-relief need → emotional support,Discovering Lumps,33,10,5,0.5,5,3.0,0.6,10.0,3.0,0.3,0.0,0.3,0.3
+D3→E2,Emotional-relief need → emotional support,Feeling Armpit Pain,52,11,8,0.7272727272727273,8,3.0,0.375,11.0,3.0,0.2727272727272727,0.0,0.2727272727272727,0.2727272727272727
+D3→E2,Emotional-relief need → emotional support,Navigating Imaging,92,29,23,0.7931034482758621,23,7.0,0.30434782608695654,29.0,7.0,0.2413793103448276,0.0,0.2413793103448276,0.2413793103448276
+D3→E2,Emotional-relief need → emotional support,Reading Clinical Reports,100,53,17,0.32075471698113206,17,4.0,0.23529411764705882,53.0,4.0,0.07547169811320754,0.0,0.07547169811320754,0.07547169811320754
+D3→E2,Emotional-relief need → emotional support,Receiving Benign Findings,97,43,33,0.7674418604651163,33,20.0,0.6060606060606061,43.0,20.0,0.46511627906976744,0.0,0.46511627906976744,0.46511627906976744
+D3→E2,Emotional-relief need → emotional support,Seeking Reassurance,48,42,40,0.9523809523809523,40,33.0,0.825,42.0,33.0,0.7857142857142857,0.0,0.7857142857142857,0.7857142857142857
+D3→E2,Emotional-relief need → emotional support,Undergoing Biopsy,98,13,13,1.0,13,9.0,0.6923076923076923,13.0,9.0,0.6923076923076923,0.0,0.6923076923076923,0.6923076923076923
+D3→E2,Emotional-relief need → emotional support,Waiting for Results,100,50,47,0.94,47,35.0,0.7446808510638298,50.0,35.0,0.7,0.0,0.7,0.7
+D2→E5,Risk assessment → help-seeking encouragement,Discovering Lumps,33,25,12,0.48,11,3.0,0.2727272727272727,24.0,3.0,0.125,1.0,0.12,0.16
+D2→E5,Risk assessment → help-seeking encouragement,Feeling Armpit Pain,52,32,20,0.625,20,3.0,0.15,32.0,3.0,0.09375,0.0,0.09375,0.09375
+D2→E5,Risk assessment → help-seeking encouragement,Navigating Imaging,92,61,50,0.819672131147541,50,8.0,0.16,61.0,8.0,0.13114754098360656,0.0,0.13114754098360656,0.13114754098360656
+D2→E5,Risk assessment → help-seeking encouragement,Reading Clinical Reports,100,100,32,0.32,32,1.0,0.03125,100.0,1.0,0.01,0.0,0.01,0.01
+D2→E5,Risk assessment → help-seeking encouragement,Receiving Benign Findings,97,58,44,0.7586206896551724,44,1.0,0.022727272727272728,58.0,1.0,0.017241379310344827,0.0,0.017241379310344827,0.017241379310344827
+D2→E5,Risk assessment → help-seeking encouragement,Waiting for Results,100,25,19,0.76,19,2.0,0.10526315789473684,25.0,2.0,0.08,0.0,0.08,0.08

@@ -1,0 +1,6 @@
+estimand,mapping,bootstrap_replicates,ci_low,ci_high
+overall need-matched coverage,D1→E1,2000,0.3514018691588785,0.42553488096179704
+overall need-matched coverage,D2→E1,2000,0.36099987772252645,0.43726519211725845
+overall need-matched coverage,D6→E1,2000,0.6942148760330579,0.7790916304981537
+overall need-matched coverage,D3→E2,2000,0.39775748916281206,0.4922472097647348
+overall need-matched coverage,D2→E5,2000,0.13345551378446116,0.19020925895452798
