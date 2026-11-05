@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "Please cite this version of the code and coded data, and the accompanying manuscript when available. No DOI has been assigned."
+message: "Please cite this version of the code and coded data, and the accompanying manuscript when available. The archived version is identified by the DOI below."
 title: "breast-health-needs-and-support"
 type: software
 version: 1.1.0
@@ -12,11 +12,11 @@ authors:
   - family-names: "Wieczorek"
     given-names: "Catherine"
   - family-names: "Ray"
-    given-names: "Emily Miller"
+    given-names: "Emily M."
   - family-names: "Knowlton"
     given-names: "Sasha E."
   - family-names: "Jin"
-    given-names: "Georgie Qiao"
+    given-names: "Qiao"
   - family-names: "Guo"
     given-names: "Yawen"
   - family-names: "Li"
@@ -24,3 +24,4 @@ authors:
 abstract: "Coding-based descriptive and associational analyses of expressed needs, human replies, and support-category coverage."
 repository-code: "https://github.com/KitePretty/breast-health-needs-and-support"
 url: "https://github.com/KitePretty/breast-health-needs-and-support"
+doi: "10.5281/zenodo.23989204"
