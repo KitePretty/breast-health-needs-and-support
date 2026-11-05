@@ -1,0 +1,16 @@
+{
+  "palette_matches_local_submission": true,
+  "marker_shapes": [
+    "circle",
+    "square",
+    "diamond"
+  ],
+  "marker_outline_contrast_on_white": 14.457545113428665,
+  "minimum_heatmap_label_contrast": 4.842855336368402,
+  "missing_cell_text_contrast": 6.075986079813821,
+  "minimum_label_target": 4.5,
+  "minimum_marker_boundary_target": 3.0,
+  "heatmap": "cividis",
+  "color_vision_simulation_performed": false,
+  "scope": "Checks of selected label/background pairs and marker boundaries, not a full WCAG conformance audit"
+}
